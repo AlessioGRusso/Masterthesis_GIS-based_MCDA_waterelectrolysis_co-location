@@ -1,0 +1,300 @@
+UWWTD Code,Name,Direct Distance to Power Network [km],Power Network Type,Nearest Line Voltage [kV],Distance to Nearest Substation [km],Nearest Substation Name,Substation Voltage [kV]
+ATTP_6-M3489301R0,Graz-Gössendorf,0.269,line,110,8.65,Schloss Waasen,400
+ATTP_4-41003001,Asten - Regionalkläranlage,0.264,line,110,2.702,Umspannwerk Tillysburg,110
+ATTP_7-7101301,Innsbruck,0.097,line,110,1.553,Umspannwerk Ost,110
+ATTP_3-11,ARA AWV Schwechat,2.517,cable,110,0.477,1170732043,400
+ATTP_6-M3631054R0,Gratkorn,0.058,line,110,1.367,Umspannwerk Gratkorn,110
+ATTP_8-Meiningen,Meiningen,0.178,line,220,2.474,Umspannwerk Weiler - Klaus,110
+ATTP_5-A1699622R154,ARA Siggerwiesen,0.766,line,110,3.301,Umspannwerk Hagenau,110
+BGWT07079_00_01,UWWTP Burgas,0.531,line,110,5.927,Подстанция Лукойл Нефтохим Бургас,110
+BGWT10135_00_01,UWWTP Varna,1.016,line,110,7.414,Подстанция Белослав,110
+BEBRU2,Bruxelles-nord,0.648,line,150,1.774,Machelen,150
+BGWT56784_00_01,UWWTP Plovdiv,0.282,line,110,3.398,Подстанция Евмолпия,110
+BERW6207901,LIEGE OUPEYE,0.215,cable,320,3.416,150 kV Lixhe,150
+BGWT68134_00_01,UWWTP Sofia,0.634,line,110,4.899,Подстанция Хаджи Димитър,110
+ATTP_9-HKA-Simmering,Hauptkläranlage Wien,0.422,line,110,1.881,Umspannwerk Kaiserebersdorf,110
+CZ3209-721981-00075370-4/1U,COV Plzen,1.181,line,110,0.928,109307422,400
+CZ6203-697931-46347275-4/1U,COV Brno - Modrice,0.445,line,110,1.043,TS 707729,400
+CZ1100-730106-00064581-4/1U,UCOV Praha,0.962,minor_line,400,3.092,TS4415,400
+DETP_BB239,Stahnsdorf,1.833,line,110,2.804,Teltow,110
+CZ4205-763691-26161516-4/1U,COV Steti -Papirny Mondi,0.915,line,110,10.607,rozvodna Roudnice,110
+CZ8119-713767-00845451-4/1U,UCOV Ostrava - Privoz,0.313,line,110,3.646,Třebovice,110
+DETP_BE01,Ruhleben,0.431,line,380,0.203,Umspannwerk Klärwerk Ruhleben,110
+DETP_BE02,Schönerlinde,0.831,line,380,3.619,Schönwalde,110
+DETP_BE03,Waßmannsdorf,0.268,line,220,1.563,Umspannwerk Schönefeld Nord,110
+DETP_BW1115100000001,Hauptklärwerk Mühlhausen,0.075,line,110,4.214,Waiblingen 2,110
+DETP_BW1175100000062,Göppingen,0.625,line,110,1.307,263562753,230
+DETP_BW1215100000017,SKA Heilbronn,0.423,line,110,5.475,150399868,110
+DETP_BW2125100000014,SKA Karlsruhe Neureut,1.116,cable,750,0.928,Umspannwerk Heide,110
+DETP_BW3165100000008,SKA AZV BREISGAUER BUCHT - KA FORCHHEIM,2.175,line,380,4.106,Umspannwerk Endingen,110
+DETP_BYAB-K0033,Würzburg,0.339,line,110,0.602,Umspannwerk Dürrbachau,110
+DETP_BW2225100000001,Kläranlage Mannheim,1.465,minor_line,400,2.128,Sa 60,400
+DETP_BW2215100000002,SKA AZV Heidelberg,2.427,line,110,2.431,Netze BW Umspannwerk Dossenheim,110
+DETP_BYDON-K0001,Augsburg,0.145,line,110,2.432,Umspannwerk Augsburg-Nord,110
+DETP_BYDON-K0220,Zweckverband Klärwerk Steinhäule,1.35,line,110,3.277,Umspannwerk Neu-Ulm Ost,110
+DETP_BYM-K0001,München II - Gut Marienhof,0.211,line,110,5.654,85284549,110
+DETP_BYRO-K0001,Rosenheim,1.518,line,110,2.45,TS Am Anger,110
+DETP_BYM-K0083,AZV Erdinger Moos,0.088,line,380,2.415,Kraftwerk Eitting,110
+DETP_BYN-K0002,Erlangen,0.173,line,110,3.047,Umspannwerk Mozartstraße,110
+DETP_HB18-1,Kläranlage Seehausen,1.261,cable,110,1.41,48950921,110
+DETP_NI201000201,2530002102 KA Herrenhausen,0.506,cable,110,4.119,929692937,110
+DETP_HH4/4 AI 3,Klärwerksverbund Köhlbrandhöft Dradenau,0.211,line,110,0.372,Altenwerder,110
+DETP_HE064140000101,Wiesbaden / Mitte,0.421,line,110,0.929,24437487,110
+DETP_HE064120006011,Frankfurt am Main / Sindlingen,0.396,line,110,1.432,Schwanheim (vorh. Höchst Süd Neu),380
+DETP_NI253014201,2530142095 KA Gümmerwald,1.223,line,110,3.924,Blumenau,110
+DETP_NI255023201,2550232001 KA Holzminden,2.74,line,110,2.043,700164540,400
+DETP_NI352011201,3520112001 KA Cuxhaven,2.048,minor_line,400,2.102,Industriestraße,110
+DETP_NW1,Aachen-Soers,0.582,line,110,1.221,24507338,110
+DETP_NW1502,Bottrop,0.795,line,380,0.868,Station Karnap,380
+DETP_NW1805,Köln Stammheim,1.756,line,110,1.958,Station Bayer X 36,220
+DETP_NW1204,Dortmund-Deusen,0.107,line,110,0.6,Hafen,110
+DETP_NW2101,Düsseldorf-Nord,2.574,line,220,4.741,Station Osterath,220
+DETP_NW2104,Mönchengladbach GWK I,1.18,line,110,5.737,Korschenbroich,110
+DETP_NW2102,Krefeld,0.652,line,380,1.117,Uerdingen,220
+DETP_NW3008,Münster-Hauptkläranlage,0.611,line,110,3.418,Nord,110
+DETP_NW2138,Neuss-Ost,0.602,cable,110,1.071,Station Neuss Memeler Straße,110
+DETP_NW316,Abwasserverband Obere Lutter,0.101,line,380,1.353,1080578819,400
+DETP_NW404,"Paderborn, Sande",0.727,line,110,4.384,Elsen,380
+DETP_NW35,Düren,0.419,cable,320,2.986,26593937,110
+DETP_NW601,Düsseldorf-Süd,0.616,line,110,2.612,Station Neuss Memeler Straße,110
+DETP_NW608,Wuppertal-Buchenhofen,2.457,minor_line,380,2.872,Station Kabelstraße,110
+DETP_NW904,Duisburg-Kaßlerfeld,1.663,line,110,1.631,Station Ruhrort,220
+DETP_NW905,Emscherkläranlage,0.414,line,220,0.804,Station Wehofen,110
+DETP_RP101950087,Koblenz,0.353,line,380,0.616,Station Koblenz,380
+DETP_RP102380095,Mainz,0.266,line,110,2.047,Umspannwerk Budenheim,110
+DETP_RP105510114,Trier  Hauptklärwerk,0.148,line,110,1.974,UW Keltenweg,110
+DETP_SH58044,Neumünster,0.543,line,110,2.836,Neumünster/West,110
+DETP_SH56027,Hetlingen,0.53,line,380,4.076,Holm,110
+DETP_ST151541000001,Bitterfeld-Wolfen,1.133,line,110,1.097,Wolfen Ost,110
+DETP_NW906,Duisburg-Alte Emscher,0.057,line,220,1.225,Station Beeck,220
+DETP_ST153581000001,MD-Gerwisch,2.407,line,110,3.295,Körbelitz,110
+DETP_ST152021000001,Halle-Nord,0.993,line,110,1.532,Umspannwerk Halle Nord,110
+DK1010005,Lynetten,0.442,cable,132,1.345,Amagerværkets Koblingsstation,132
+DETP_ST152611000039,Schkopau,0.027,line,110,3.186,Umspannwerk Halle Süd,110
+DK4610302,EJBY MØLLE RENSEANLÆG,1.436,cable,150,0.378,1409585038,400
+DK6070012,FREDERICIA CENTRALRENS.,3.445,line,150,4.154,150 kV Ryttergården,150
+DK1010006,Damhusåen,0.269,cable,400,1.146,1292634288,400
+EL122001013,THESSALONIKI,3.975,line,150,5.741,Κέντρο Υψηλής Τάσης Ευόσμου,150
+EEPUH0440010,Kohtla-Järve regionaalne reoveepuhasti,1.128,line,110,2.14,PTK alajaam,110
+EEPUH7840170,Tallinna reoveepuhastusjaam,0.483,cable,110,4.393,4410,400
+EL300001011,PSYTTALIA,3.157,line,150,9.7,Υ/Σ ΑΙΓΑΛΕΩ,150
+DK1670001,SPILDEVANDSCENTER AVEDØRE,0.116,cable,400,1.487,3039 Lille Avedøregård trfst.,400
+EL300026013,METAMORPHOSI,2.192,line,150,4.08,ΚΥΤ ΑΧΑΡΝΩΝ,400
+ES10030650002001E,ELX - ALGOROS,4.006,line,132,4.858,SET Elx Sud (Elche Sur),132
+ES10030140002011E,MONTE ORGEGIA,0.866,line,132,0.798,SET San Juan d'Alacant,132
+ES10030140002012E,RINCON DE LEON,0.707,line,220,0.765,SET El Pameral,220
+ES1040130001010E,EL BOBAR,1.123,line,132,1.791,Subestación de Andarax,132
+ES10462501014011E,PINEDO 1,0.196,line,132,0.821,Subestación de La Punta,132
+ES10461100001010E,QUART - BENAGER,2.393,line,220,2.362,Subestación de Quart,132
+ES10462501014012E,PINEDO 2,0.16,line,132,0.365,Subestación de La Punta,132
+ES1110200014010E,GUADALETE,2.368,line,220,2.943,Subestación Cartuja,220
+ES1140210009010E,LA GOLONDRINA,1.884,line,132,4.433,Subestación de Casillas,220
+ES1210410001010E,HUELVA,0.651,line,220,3.493,Subestación Cristóbal Colón,220
+ES12150300501010E,BENS (A CORUÑA),2.874,line,220,3.497,SET A Grela,220
+ES1180870004012E,GRANADA SUR,2.431,minor_line,750,4.296,Subestación de Las Gabias,220
+ES1290540001010E,FUENGIROLA,10.861,line,220,14.857,Subestación de Alhaurín,220
+ES1290670005022E,GUADALHORCE,1.17,line,220,1.103,Subestación Polígono,220
+ES13280790001012E,LA CHINA,0.836,line,220,9.355,SET Retamar,220
+ES13280790001011E,SUR,0.836,line,220,9.355,SET Retamar,220
+ES13280790001013E,BUTARQUE,0.166,cable,132,5.036,SET Retamar,220
+ES13280790001014E,VIVEROS DE LA VILLA,1.233,line,220,5.199,Subestación de los Melancólicos,220
+ES13280790001015E,REJAS,0.904,cable,220,1.898,SET Puente San Fernando,132
+ES13280790001017E,LA GAVIA,0.282,line,220,5.494,SET Retamar,220
+ES13280790001018E,ARROYO CULEBRO CUENCA MEDIA ALTA,1.294,cable,220,1.29,Subestación de Pinto,220
+ES13280920001010E,ARROYO DEL SOTO,1.495,line,220,1.95,Subestación de Villaviciosa,400
+ES13280790001019E,ARROYO CULEBRO CUENCA BAJA,1.186,line,220,10.93,SET Retamar,220
+ES13281340005010E,ARROYO DE LA VEGA,0.64,line,220,0.926,SET Arroyo de la Vega,220
+ES13281480001010E,TORREJÓN DE ARDOZ,0.157,cable,132,0.885,SET Ardoz Nueva,220
+ES1410910002013E,LA RANILLA,2.505,cable,220,2.48,Subestación Santa Elvira,132
+ES1410700001010E,PALOMARES,4.408,line,220,6.428,Subestación de Aljarafe,220
+ES1410910002012E,COPERO,3.722,line,220,3.688,Subestación Entrenúcleos,220
+ES14300161912010E,MAR MENOR SUR,16.758,line,220,18.507,Subestación Hoyamorena,220
+ES14300160001030E,CARTAGENA (CABEZO BEAZA),0.416,line,132,0.795,Subestación La Asomada,400
+ES1410910002014E,SAN JERONIMO,0.014,line,132,1.252,Subestación Empalme,132
+ES15311930001010E,ARAZURI,0.219,line,220,1.457,Subestación de Orcoyen,220
+ES16480200001010E,Galindo,0.406,line,220,0.475,Sestaoko azpiestazioa / Subestación de Sestao,220
+ES16010590063010E,Crispijana,0.413,line,400,1.839,Subestación de Jundiz,220
+ES17260890002010E,LOGROÑO,5.082,line,220,6.017,Subestación de Logroño,220
+ES16200690005010E,Loiola,0.876,line,132,4.364,Subestación Eléctrica de Hernani,400
+ES3330242402020E,GIJON OESTE,0.579,line,220,4.657,Subestación Eléctrica Pumarín,132
+ES2502970002010E,ZARAGOZA (LA CARTUJA),0.834,line,220,3.705,Substacion Monte Torrero,220
+ES4070400012010E,PALMA II,1.671,cable,220,2.267,143044526,220
+ES3330441901011E,VILLAPEREZ,1.213,line,132,2.38,Subestación eléctrica de La Corredoria,132
+ES4070400015010E,PALMA I,4.346,line,220,5.75,143044526,220
+ES6390060001010E,SAN PANTALEON,7.63,line,220,7.542,SET Cicero,400
+ES6390750005010E,SAN ROMÁN,3.148,cable,1500,4.266,Subestación de Cacicedo,220
+ES7090590001010E,BURGOS,0.966,line,220,2.061,Subestación de Villalbilla de Burgos,220
+ES7372740002010E,SALAMANCA,0.661,line,220,2.796,ST Villamayor,220
+ES6390850005010E,VUELTA OSTRERA,6.534,line,132,5.922,1299356838,380
+ES8130050002010E,ALCAZAR DE SAN JUAN-CAMPO DE CRIPTANA,1.903,line,132,1.94,STR Alcázar de San Juan I,132
+ES7240890002010E,LEON,0.2,line,132,0.922,Subestacion de Vilecha,400
+ES7471860005010E,VALLADOLID,1.982,line,220,4.361,Subestación Eléctrica de Zaratán,220
+ES9081250002010E,MONTCADA,0.122,line,110,1.505,Subestació de Santa Coloma,220
+ES9081690001010E,PRAT DE LLOBREGAT (EL),0.859,line,110,2.029,Subestació Aeroport,220
+ES9081050001010E,LLAGOSTA (LA),1.116,line,220,4.315,Subestació de Can Ruti,110
+ES9082110001010E,SANT FELIU DE LLOBREGAT,0.914,line,220,3.352,SET Sant Joan Despí,110
+FIJVP_O000000000101,TP (101) of Helsingin kt.,0.231,line,110,6.788,Mellunkylän sähköasema,110
+FIJVP_O000000000036,TP (36) of Helsingin kt.,0.2,line,110,0.173,363801887,110
+FR026751900405,STRASBOURG - LA WANTZENAU,3.527,line,110,5.113,KR003,400
+FR025435700075,MAXEVILLE,6.212,line,400,0.177,604005372,400
+FR025745200219,METZ,1.533,cable,225,0.289,1253749670,400
+FR031443702000,MONDEVILLE,0.208,line,225,1.86,Poste électrique de Caen,225
+FR026830000459,SAUSHEIM,0.783,minor_line,400,1.726,Poste électrique de Île-Napoléon,225
+FR011031300000,LILLE-MARQUETTE-LEZ-LILLE,0.305,line,225,0.28,Poste électrique de Saint-Roch,225
+FR035147401000,REIMS,2.335,line,225,2.341,87836608,400
+FR037635102000,LE HAVRE,0.201,line,400,0.189,Poste électrique du Havre,400
+FR037649801000,ROUEN,1.766,cable,225,1.72,Poste électrique du Grand-Quevilly,225
+FR037800501000,PARIS SEINE AVAL,0.166,line,225,2.134,390655415,400
+FR037804301000,CARRE DE REUNION,3.013,cable,225,2.391,126151405,400
+FR037862401000,PARIS SEINE GRÉSILLONS,0.808,cable,225,1.519,Poste électrique de Nourottes,225
+FR039202501000,PARIS SEINE-CENTRE,0.114,cable,225,0.42,Poste électrique d'Argenteuil,225
+FR039305101000,PARIS MARNE AVAL,0.465,cable,225,0.458,176499686,225
+FR0435238S0004,RENNES,1.433,line,225,0.327,80301658,400
+FR039407401000,PARIS SEINE-AMONT,0.156,line,225,1.205,Poste électrique de Villeneuve-Saint-Georges,225
+FR039545001000,NEUVILLE SUR OISE,3.898,line,225,3.144,224424054,400
+FR0472181S0016,LMM_LE MANS - LA CHAUVINIÈRE,2.029,minor_line,400,0.12,OTV,400
+FR0437195S0002,"TOURS, LA RICHE LA GRANGE DAVID",1.456,minor_line,400,3.181,Grandière,400
+FR0533039V005,BEGLES (CLOS DE HILDE),1.426,line,225,1.957,161531117,400
+FR060921231001,DIJON,5.658,cable,400,0.589,149300859,400
+FR0531555V018,TOULOUSE GINESTOUS,2.722,minor_line,400,0.365,76312090,400
+FR060934172001,MAERA (EX CEREIREDE),0.425,line,225,1.195,82388345,400
+FR0444109S0011,NANTES 1-TOUGAS,1.494,line,225,1.718,Poste électrique de Cheviré,225
+FR060938170002,GRENOBLE / AQUAPOLE,2.445,line,225,3.491,Verdaret,400
+FR060969152001,LYON - PIERRE BÉNITE,1.578,line,225,0.443,P 120,400
+HRUWWTP_0001116_001,Rijeka-Delta,2.085,line,110,14.688,1120979396,400
+FR060969199001,LYON - SAINT FONS,2.398,line,225,1.024,P 124,400
+HRUWWTP_0004008_001,Zagreb,0.021,line,110,5.034,TS TE TO,110
+FRCH0000101160,FERNEY-VOLTAIRE - AIRE 2,0.356,line,130,4.697,80323449,130
+FRCH0000274243,AÏRE (SUISSE),0.384,line,130,4.651,80323449,130
+HU-WWTP-AHZ695,Miskolc - Szennyviztisztito Telep,1.28,line,132,3.775,Felsőzsolca alállomás,400
+HU-WWTP-AHZ861,Pecs - Szennyviztisztito Telep,3.006,line,132,3.259,Kővágószőlős alállomás,132
+HU-WWTP-AIA512,Debrecen - Szennyviztisztito Telep,1.015,cable,132,3.876,Debrecen Délkelet alállomás,132
+HU-WWTP-AHZ132,Budapest (Csepel Kp szvtp.) - Szennyviztisztito Telep,0.224,line,132,0.783,30051,400
+HU-WWTP-AIB754,Gyor - Szennyviztisztito Telep,3.147,line,132,3.862,Győr MVG alállomás,132
+HU-WWTP-AIA440,Budapest (Eszak Pest) - Szennyviztisztito Telep,0.613,line,132,1.029,40358,400
+IETP_D0033,Cork city,1.398,line,110,2.655,Castleview 110kV Substation,110
+IT01000000000026,Cossato_Spolina,2.288,line,132,2.756,Cerreto Castello,132
+IT01000000000043,Castiglione,0.426,line,132,3.39,Settimo,132
+IETP_D0034,Ringsend,0.145,cable,220,0.669,Ringsend 110kV Substation,110
+IT03160128000384,Dp01209001_Lonate_Pozzolo,0.227,line,132,0.192,Depuratore Sant'Antonino,132
+IT03160128000456,Dp01514601_Milano_Nosedo,0.178,line,132,0.173,Nosedo CS,132
+IT03160128000457,Dp01514602_Milano_S_Rocco,0.766,line,220,2.295,Rozzano,220
+IT03160128000458,Dp01514901_Monza_S_Rocco,0.363,line,380,1.217,Brugherio - Smistamento elettrico TERNA,380
+IT05000000000023,Peschiera_Del_Garda_Paradiso,0.671,line,132,2.686,Mincio,220
+IT03160128000463,Dp01517001_Pero_Olona_Sud,0.333,line,132,1.373,Amsa Figino,132
+IT03160128000464,Dp01517101_Peschiera_Borromeo,0.498,cable,132,0.899,Peschiera Borromeo,132
+IT05000000000033,Verona_Via_Avesani,0.04,line,132,1.599,Campo Marzo,132
+IT05000000000043,Arzignano_Via_Altura,0.236,line,380,1.059,Arzignano,132
+IT03160128000466,Dp01518401_Robecco_Sul_Naviglio,2.092,line,132,3.552,Cabina primaria Abbiategrasso,132
+IT05000000000213,Venezia_Fusina_Via_Dei_Cantieri,0.288,line,380,0.238,Fusina Termica sezione 1 132,132
+IT05000000000059,Montebello_Vicentino_Via_Fracanzana,0.224,line,220,5.418,Lonigo,132
+IT08000000000244,Rimini_S_Giustina,0.426,line,132,1.667,Rimini Nord,132
+IT08000000000007,Bologna_Corticella,2.238,cable,132,3.12,Castelmaggiore,132
+IT08000000000117,Modena_Naviglio,1.295,line,132,0.175,Hera Cavazza,132
+IT09RT0003,Idl_Baciacavallo,0.063,line,132,1.548,San Giorgio,132
+IT09RT0017,Idl_San_Colombano,0.037,line,380,0.184,San Colombano CP,132
+IT06000000000098,San_Giorgio_Di_Nogaro,2.445,line,380,2.357,Planais,380
+IT12000000000304,ROMA_EST,0.443,line,132,1.584,Acea Tor Cervara 1,150
+IT12000000000311,ROMA_NORD,0.392,line,150,2.401,Castel Giubileo,132
+IT09RT0504,Idi_Aquarno,0.033,line,132,0.918,Santa Croce,132
+IT09RT0690,Idi_Casa_Del_Lupo,0.024,line,132,0.229,Sondel sezionamento,132
+IT09RT0506,Idi_Cuoio_Depur,0.007,line,132,2.545,Dogaia IC,132
+IT12000000000317,ROMA_SUD,0.425,line,150,0.321,Acea Tor di Valle,150
+IT15Q15000000001,Caivano_Depuratore_Di_Acerra,0.441,line,150,1.814,Acerra smistamento,220
+IT15Q15000000002,Orta_Di_Atella_Ce_Impianto_Napoli_Nord,0.646,line,150,2.631,Caivano,220
+IT15Q90000003627,Salerno_Impianto_Salerno,2.044,line,150,3.352,Mercatello,150
+IT15Q15000000004,Marigliano_Na_Depuratore_Di_Nola,2.67,line,220,3.375,Nola,220
+IT19SR00G7002DE001,Impianto_C_Da_Magnisi_Casale_Vecchie_Saline_Depuratore_Ias_Priolo,0.626,line,220,1.237,Priolo centrale,220
+IT15Q15000000006,Marcianise_Ce_Depuratore_Di_Marcianise,0.22,line,150,1.916,Gricignano,150
+IT19CT00G7001DE001,Impianto_Consortile_Di_Catania,0.207,line,150,2.503,M6 3sun,150
+IT20000000000159,Porto_Torres_Agglomerato_Industriale,1.643,line,150,1.558,Enichem P.T.,150
+IT210000000016,Bolzano,0.221,line,220,0.71,Ricevitrice Resia/Ponte Resia - Umspannwerk Reschenbrücke,220
+LT-AG-001-WWTP-01,Vilniaus nuoteku valykla,0.875,line,110,1.271,Vilniaus E 3-ioji TP,110
+LT-AG-003-WWTP-01,Klaipedos nuoteku valykla,0.108,line,110,5.491,Marių TP,110
+LT-AG-002-WWTP-01,Kauno nuoteku valykla,0.607,line,110,0.662,Marvelės TP,110
+IT160000000065,Bari_Est,0.888,line,150,3.079,Bari Sud,150
+MTSSTP,Ta' Barkat Urban Wastewater Treatment Plant,3.866,cable,132,4.887,458270148,110
+NL11014,UWWTP AMSTERDAM-WEST,3.819,cable,150,3.564,1234356751,230
+NL15008,UWWTP HARNASCHPOLDER,0.511,cable,150,0.673,380 kV Wateringen,380
+LV100175,"BAI ""Daugavgrīva""",0.417,line,110,0.407,Daugavgrīva,110
+NL16010,UWWTP KRALINGSEVEER,2.492,cable,150,0.918,Midden Laagspanningsstation,230
+NL25017,UWWTP NIEUWVEER,1.238,line,150,5.117,150 kV Breda,150
+NL27003,UWWTP EINDHOVEN,0.743,line,150,2.104,150 kV Eindhoven Oost,150
+NL25021,UWWTP BATH,0.621,line,380,3.042,Zandvliet,380
+NL32002,UWWTP TILBURG-NOORD,0.267,line,380,2.837,150 kV Tilburg West,150
+NL31005,UWWTP AMSTERDAN-WESTPOORT,2.779,cable,150,2.684,1234739027,230
+PLKP0011,Toruń Centralna Oczyszczalnia Ścieków,0.201,line,110,0.917,"Stacja elektroenergetyczna 110/15kV ""Toruń Zachód""",110
+PLLE0010,Lublin-Hajdów,0.38,line,110,3.923,227586944,400
+PLDO0011,Wrocławska Oczyszczalnia Ścieków,2.832,line,110,3.395,WRW 2490,400
+PLLO0010,Goś Łam,0.259,line,110,0.268,Stacja elektroenergetyczna Lublinek 110 kV,110
+PLMP0020,Tarnów,0.207,line,220,1.873,Stacja elektroenergetyczna 110/15kV „GPZ Ponar”,110
+PLLO0030,Kutno,1.054,cable,110,1.474,Stacja elektroenergetyczna 110/15kV Sklęczki,110
+PLMP0016,Kraków-Kujawy,1.372,cable,110,1.517,1280023512,400
+PLMP0011,Kraków-Płaszów,0.356,line,110,0.376,KRP 3061,400
+PLMZ0012,"Zakład Oczyszczalni Ścieków ""Południe""",0.72,line,110,0.802,486038725,400
+PLMZ0011,"Zakład Oczyszczalni Ścieków ""Czajka""",0.791,line,110,0.799,"Stacja elektroenergetyczna ""Płudy"" 110/15kV",110
+PLPL0010,Oczyszczalnia Ścieków w Białymstoku,0.614,line,110,0.998,ST 01-1941,400
+PLMZ0020,Radom,1.017,line,110,3.331,Perzanowskiej 4,400
+PLPK0010,Rzeszów,0.072,line,110,0.531,"Stacja elektroenergetyczna ""Rzeszów Staromieście"" 110/15/6kV",110
+PLPM0110,International Paper-Kwidzyn Sp z o.o.,0.753,line,110,0.855,"Stacja elektroenergetyczna 110/15kV ""Kwidzyn Celuloza""",110
+PLPM0010,Gdańsk-Wschód,0.76,line,110,0.726,Stacja elektroenergetyczna 110/15kV Pleniewo,110
+PLPM0020,Goś Dębogórze,0.613,line,110,1.178,T-2514,400
+PLWL0011,Centralna Oczyszczalnia Ścieków w Koziegłowach,0.16,line,110,0.387,Stacja elektroenergetyczna 110kV „COŚ”,110
+PLSL0042,Centralna Oczyszczalnia Ścieków (Coś),0.149,line,220,0.361,1385371030,400
+PLWL0012,Lewobrzeżna Oczyszczalnia Ścieków w Poznaniu,0.577,line,110,0.579,1086803994,400
+PLWL1330,Dopiewo,0.807,line,400,7.586,"Stacja elektroenergetyczna 110kV ""Stęszew""",110
+PLZA0011,Pomorzany,1.323,line,110,0.606,56258401,400
+PLSL0011,Radocha Ii,0.063,line,110,0.286,Stacja elektroenergetyczna 110/30/20/6kV „GPZ Mysłowice”,110
+PLSL0090,Centralna Oczyszczalnia Ścieków w Gliwicach,0.169,line,110,1.22,GLG G1004,400
+PT20501079,Rib. de Moinhos,2.796,line,150,61.034,Subestação de Setúbal,150
+PT18075792,Agra I e II,0.964,line,400,6.463,322377605,400
+PT7032853,Frielas,0.66,line,220,8.828,Subestação Alto de Mira,400
+RO1IS_51,ROWP DANCU IASI,0.135,line,110,13.628,Stația electrică „Ungheni”,110
+RO2CT_59,ROWP RAJA Constanta Sud,0.156,line,110,0.649,Stația de transformare 110/20/6kV Petrol Sud,110
+PT5000519,Matosinhos,4.98,line,220,5.668,Subestação de Custóias,220
+RO3AG_51,ROWP SC APA CANAL 2000 S.A. PITESTI,0.33,line,110,5.602,Pitești Sud,220
+RO5TM_528,ROWP RA Aquatim Timisoara,0.408,line,110,2.922,Stația Electrică Săcălaz,220
+RO7BV_511,ROWP SC COMPANIA APA SA Brasov,0.585,line,110,1.422,1005282731,110
+RO8IF_53,ROWP SC APA NOVA SA BUCURESTI,0.647,line,220,0.797,Stația Mostiștea,220
+RO2GL_51,ROWP GALATI,0.187,line,110,3.449,Filesti,220
+RO8IF_53_01,ROWP SC APA NOVA SA BUCURESTI,0.647,line,220,0.797,Stația Mostiștea,220
+SE1480-1131,Gryaab AB Ryaverket,1.42,line,132,5.226,59178177,132
+SE1280-50-001,Sjolunda Avloppsreningsverk,0.517,line,130,2.775,Sege,130
+SI_KCN_00098,UWWTP_LJUBLJANA (ZALOG),1.285,line,110,2.549,RTP Beričevo,400
+PTAGL103tp01,Serzedelo II,0.187,line,150,12.597,402988965,400
+SKCAO10200015293381,COV Vrakuna,2.85,line,110,3.728,Ts-1466,420
+UKSC_TP00070,"EDINBURGH, SEAFIELD WWTW",1.4,cable,275,2.166,32342648,275
+UKNI_TP00065,Newtownards (Ballyrickard),2.776,minor_line,230,4.937,Newtownards 110 kV Substation,110
+UKSC_TP00132,MEADOWHEAD W.W.T. SERVICE,0.378,line,132,0.386,Meadowhead,132
+UKNI_TP00023,Belfast,2.134,cable,110,1.372,North Main 110 kV Substation,110
+UKSC_TP00149,NIGG WWTW- ABERDEEN PFI,1.964,cable,132,2.372,Clayhills Grid Supply Point,132
+UKENNW_UU_TP000018,BLACKBURN STW,4.707,line,400,8.588,Ribble GSP Substation,132
+UKENNW_UU_TP000124,NORTH WARRINGTON   STW,0.58,line,132,0.752,Sankey Bridges Substation,132
+UKENMI_ST_TP000056,BURTON ON TRENT   STW,0.046,minor_line,132,1.769,Burton Substation,132
+UKENTH_TWU_TP000014,LONDON (Becton STW),0.03,line,400,1.237,Barking Substation,132
+UKENNW_UU_TP000133,WIGAN (HOSCAR) STW,0.65,line,275,4.252,247578860,132
+UKENTH_TWU_TP000015,LONDON (Beddington STW),0.134,line,275,0.322,MSS 9378,132
+UKENTH_TWU_TP000054,LONDON (Deepham STW),0.409,line,275,1.695,Tottenham Substation,275
+UKENTH_TWU_TP000052,LONDON (Crossness STW),1.857,line,400,2.595,Barking Substation,132
+UKENMI_ST_TP000207,STOKE ON TRENT (STRONGFORD) STW,0.281,line,132,2.136,Meaford C Substation,132
+UKENNW_UU_TP000042,Manchester and Salford (Davyhulme)STW,0.765,line,132,2.041,177849045,132
+UKENNE_NU_TP000031,NEWCASTLE  (Howdon) STW,0.059,line,275,1.416,296904396,132
+UKENNE_YW_TP000082,BRADFORD ESHOLT STW,0.37,line,275,4.549,Menston Substation,132
+UKENMI_ST_TP000156,BIRMINGHAM & BLACK COUNTRY NO. 1 (MINWORTH) STW,0.701,cable,132,5.266,Sutton Coldfield Substation,132
+UKENNE_NU_TP000012,MIDDLESBOROUGH   STW,0.812,line,275,1.011,Tod Point Substation,275
+UKENNE_YW_TP000098,LEEDS (KNOSTROP) STW,0.191,cable,132,0.212,Skelton Grange,132
+UKENNE_YW_TP000057,SHEFFIELD (BLACKBURN MEADOWS) STW,0.001,cable,132,0.188,Blackburn Meadows B,132
+UKENMI_ST_TP000163,NOTTINGHAM STW,0.063,line,400,1.635,Stoke Bardolph Substation,400
+UKENAN_AW_TP000107,NORTHAMPTON   STW,1.736,line,132,2.205,Northampton East Substation,132
+UKENMI_ST_TP000222,LEICESTER   STW,2.969,line,400,8.821,Leicester Substation,132
+UKENSW_WXW_TP000004,BRISTOL   STW,0.415,line,400,0.952,Avonmouth Substation,132
+UKENAN_AW_TP000069,MILTON KEYNES   STW,5.071,minor_line,400,5.378,Bletchley Substation,132
+UKENNE_YW_TP000095,HULL STW,0.122,cable,132,0.196,Saltend North Substation,132
+UKENAN_AW_TP000200,NORWICH   STW,2.706,line,132,2.931,Thorpe Grid,132
+UKENNW_UU_TP000050,Fleetwood and Blackpool (Fleetwood Marsh) STW,2.919,cable,132,3.804,Walney II OWF grid connection,132
+UKENTH_TWU_TP000126,Rye Meads STW,0.282,line,400,3.415,Harlow West Grid Substation,132
+UKENNW_UU_TP000019,BOLTON STW,0.0,line,275,0.07,Kearsley Substation,400
+UKENAN_AW_TP000308,"TILBURY STW, TILBURY, ESSEX""",0.47,line,132,0.742,Tilbury Substation,400
+UKENTH_TWU_TP000125,LONDON (Riverside STW),0.017,line,400,4.617,Barking Substation,400
+UKENMI_ST_TP000068,COVENTRY  STW,3.687,cable,132,7.605,Berkswell Substation,132
+UKENTH_TWU_TP000102,LONDON (Long Reach STW),0.415,line,400,0.384,Littlebrook Substation,400

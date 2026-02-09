@@ -1,0 +1,116 @@
+{
+  "excel_path": "Output/UWWTD_TP_Database.xlsx",
+  "id_columns": [
+    "UWWTD Code",
+    "Name"
+  ],
+  "winsorize_pct": 0.01,
+  "imputation_enabled": true,
+  "imputation_method": "median",
+  "category_weights": {
+    "H2 Renewables Potential": {
+      "weight": null,
+      "w_min": 0.25,
+      "w_max": 0.35
+    },
+    "H2 Logistics": {
+      "weight": null,
+      "w_min": 0.3,
+      "w_max": 0.44
+    },
+    "Grid Electricity": {
+      "weight": null,
+      "w_min": 0.1,
+      "w_max": 0.16
+    },
+    "District Heating": {
+      "weight": null,
+      "w_min": 0.01,
+      "w_max": 0.05
+    },
+    "Oxygen": {
+      "weight": null,
+      "w_min": 0.01,
+      "w_max": 0.05
+    },
+    "Risk": {
+      "weight": null,
+      "w_min": 0.12,
+      "w_max": 0.2
+    }
+  },
+  "kpi_weights": {
+    "H2 Renewables Potential::Calculated LCOH": {
+      "weight": null,
+      "w_min": 0.8,
+      "w_max": 1.0
+    },
+    "H2 Logistics::Pipeline Cost": {
+      "weight": null,
+      "w_min": 0.7,
+      "w_max": 0.8
+    },
+    "H2 Logistics::Offtakers Potential": {
+      "weight": null,
+      "w_min": 0.2,
+      "w_max": 0.3
+    },
+    "Grid Electricity::Distance to HV power line": {
+      "weight": null,
+      "w_min": 0.3,
+      "w_max": 0.7
+    },
+    "Grid Electricity::Distance to HV Substation": {
+      "weight": null,
+      "w_min": 0.3,
+      "w_max": 0.7
+    },
+    "District Heating::Max. Flow Temperature": {
+      "weight": null,
+      "w_min": 0.3,
+      "w_max": 0.4
+    },
+    "District Heating::Distance to District Heating Network": {
+      "weight": null,
+      "w_min": 0.6,
+      "w_max": 0.7
+    },
+    "Oxygen::Oxygen Usage Potential": {
+      "weight": null,
+      "w_min": null,
+      "w_max": null
+    },
+    "Risk::Flood Risk (inverted)": {
+      "weight": null,
+      "w_min": 0.2,
+      "w_max": 0.4
+    },
+    "Risk::Residential Risk (inverted)": {
+      "weight": null,
+      "w_min": 0.2,
+      "w_max": 0.4
+    },
+    "Risk::Protected Area Risk (inverted)": {
+      "weight": null,
+      "w_min": 0.2,
+      "w_max": 0.4
+    }
+  },
+  "risk_weights": {
+    "flood": {
+      "weight": 0.25,
+      "w_min": 0.2,
+      "w_max": 0.4
+    },
+    "residential": {
+      "weight": 0.25,
+      "w_min": 0.2,
+      "w_max": 0.4
+    },
+    "protected": {
+      "weight": 0.25,
+      "w_min": 0.2,
+      "w_max": 0.4
+    }
+  }
+}

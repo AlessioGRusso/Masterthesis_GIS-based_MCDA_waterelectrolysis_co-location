@@ -1,0 +1,915 @@
+2025-11-05T00:46:57 ======================================================
+2025-11-05T00:46:57 Start • Sites: 304 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T00:46:57 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T00:46:57 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T00:46:57 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T00:46:57 ======================================================
+2025-11-05T00:46:58 [1/304] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:58 [2/304] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:58 [3/304] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:58 [4/304] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:58 [5/304] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:59 [6/304] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:59 [7/304] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:59 [8/304] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:59 [9/304] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:59 [10/304] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:46:59 [11/304] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:00 [12/304] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:00 [13/304] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:00 [14/304] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:00 [15/304] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:00 [16/304] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:01 [17/304] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:01 [18/304] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:01 [19/304] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:01 [20/304] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:01 [21/304] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:02 [22/304] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:02 [23/304] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:02 [24/304] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:02 [25/304] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:02 [26/304] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:03 [27/304] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:03 [28/304] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:03 [29/304] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:03 [30/304] SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM | PV:COMPLETE -> PV_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:04 [31/304] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:04 [32/304] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:04 [33/304] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:04 [34/304] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:04 [35/304] AZV_Erdinger_Moos | PV:COMPLETE -> PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:05 [36/304] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:05 [37/304] Nürnberg_I | PV:COMPLETE -> PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv | WND:COMPLETE -> Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:05 [38/304] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:05 [39/304] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:05 [40/304] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:06 [41/304] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:06 [42/304] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:06 [43/304] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:06 [44/304] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:06 [45/304] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:07 [46/304] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T00:47:07 [47/304] 3520112001_KA_Cuxhaven Wind fehlt/inkomplett -> lade … (Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T00:47:07   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T00:47:07   !! 429 Too Many Requests – warte 710s (Retry-After=710)
+2025-11-05T01:20:52 ======================================================
+2025-11-05T01:20:52 Start • Sites: 304 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T01:20:52 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T01:20:52 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T01:20:52 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T01:20:52 ======================================================
+2025-11-05T01:20:52 [1/304] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:53 [2/304] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:53 [3/304] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:53 [4/304] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:53 [5/304] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:53 [6/304] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:53 [7/304] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [8/304] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [9/304] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [10/304] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [11/304] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [12/304] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [13/304] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:54 [14/304] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:55 [15/304] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:55 [16/304] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:55 [17/304] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:55 [18/304] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:55 [19/304] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:55 [20/304] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:56 [21/304] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:56 [22/304] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:56 [23/304] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:56 [24/304] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:56 [25/304] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:56 [26/304] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [27/304] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [28/304] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [29/304] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [30/304] SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM | PV:COMPLETE -> PV_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [31/304] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [32/304] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:57 [33/304] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:58 [34/304] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:58 [35/304] AZV_Erdinger_Moos | PV:COMPLETE -> PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:58 [36/304] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:58 [37/304] Nürnberg_I | PV:COMPLETE -> PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv | WND:COMPLETE -> Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:58 [38/304] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:58 [39/304] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [40/304] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [41/304] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [42/304] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [43/304] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [44/304] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [45/304] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:20:59 [46/304] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:21:00 [47/304] 3520112001_KA_Cuxhaven Wind fehlt/inkomplett -> lade … (Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T01:21:00   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T01:21:03 [47/304] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:21:03 [48/304] Aachen-Soers PV fehlt/inkomplett -> lade … (PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv)
+2025-11-05T01:21:03   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T01:21:05   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T01:21:07   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T01:21:09   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T01:21:12   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T01:21:15   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T01:21:17   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T01:21:19   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T01:21:21   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T01:21:24   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T01:21:26 [48/304] Aachen-Soers Wind fehlt/inkomplett -> lade … (Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T01:21:26   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T01:21:28   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T01:21:29   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T01:21:30   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T01:21:32   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T01:21:33   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T01:21:34   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T01:21:35   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T01:21:37   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T01:21:38   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T01:21:40 [48/304] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:21:40 [49/304] Dortmund-Deusen PV fehlt/inkomplett -> lade … (PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv)
+2025-11-05T01:21:40   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T01:21:42   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T01:21:44   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T01:21:46   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T01:21:48   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T01:21:50   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T01:21:53   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T01:21:55   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T01:21:57   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T01:22:00   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T01:22:02 [49/304] Dortmund-Deusen Wind fehlt/inkomplett -> lade … (Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T01:22:02   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T01:22:03   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T01:22:05   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T01:22:07   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T01:22:08   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T01:22:41   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T01:23:04   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T01:23:07   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T01:23:18   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T01:24:05   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T01:24:10 [49/304] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T01:24:10 [50/304] Bottrop PV fehlt/inkomplett -> lade … (PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv)
+2025-11-05T01:24:10   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T01:24:35   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T01:24:50   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T01:24:56   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T01:24:59   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T01:25:01   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T01:25:03   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T01:25:05   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:58:00 ======================================================
+2025-11-05T11:58:00 Start • Sites: 304 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T11:58:00 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T11:58:00 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T11:58:00 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T11:58:00 ======================================================
+2025-11-05T11:58:00 [1/304] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:00 [2/304] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:00 [3/304] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:01 [4/304] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:01 [5/304] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:01 [6/304] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:01 [7/304] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:01 [8/304] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:01 [9/304] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:02 [10/304] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:02 [11/304] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:02 [12/304] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:02 [13/304] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:03 [14/304] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:03 [15/304] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:03 [16/304] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:03 [17/304] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:03 [18/304] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:03 [19/304] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:04 [20/304] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:04 [21/304] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:04 [22/304] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:04 [23/304] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:04 [24/304] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:04 [25/304] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:05 [26/304] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:05 [27/304] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:05 [28/304] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:05 [29/304] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:05 [30/304] SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM | PV:COMPLETE -> PV_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:06 [31/304] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:06 [32/304] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:06 [33/304] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:06 [34/304] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:06 [35/304] AZV_Erdinger_Moos | PV:COMPLETE -> PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:06 [36/304] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:07 [37/304] Nürnberg_I | PV:COMPLETE -> PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv | WND:COMPLETE -> Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:07 [38/304] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:07 [39/304] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:07 [40/304] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:07 [41/304] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:07 [42/304] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:08 [43/304] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:08 [44/304] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:08 [45/304] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:08 [46/304] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:08 [47/304] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:08 [48/304] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:09 [49/304] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:09 [50/304] Bottrop PV fehlt/inkomplett -> lade … (PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv)
+2025-11-05T11:58:09   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:58:12   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T11:58:14   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T11:58:16 [50/304] Bottrop Wind fehlt/inkomplett -> lade … (Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T11:58:16   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T11:58:17   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T11:58:19   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T11:58:20   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T11:58:21   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T11:58:23   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T11:58:24   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T11:58:25   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:58:27   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T11:58:28   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T11:58:30 [50/304] Bottrop | PV:COMPLETE -> PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:58:30 [51/304] Köln_Stammheim PV fehlt/inkomplett -> lade … (PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv)
+2025-11-05T11:58:30   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T11:58:32   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T11:58:34   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T11:58:36   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T11:58:38   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T11:58:40   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T11:58:43   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T11:58:45   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:58:47   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T11:58:49   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T11:58:52 [51/304] Köln_Stammheim Wind fehlt/inkomplett -> lade … (Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T11:58:52   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T11:58:53   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T11:58:54   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T11:58:56   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T11:58:57   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T11:58:58   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T11:59:00   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T11:59:01   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:59:02   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T11:59:04   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T11:59:05 [51/304] Köln_Stammheim | PV:COMPLETE -> PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv | WND:COMPLETE -> Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T11:59:05 [52/304] Düsseldorf-Nord PV fehlt/inkomplett -> lade … (PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv)
+2025-11-05T11:59:05   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T11:59:08   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T11:59:10   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T11:59:12   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T11:59:14   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T11:59:16   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T11:59:19   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T11:59:21   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:59:23   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T11:59:25   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T11:59:28 [52/304] Düsseldorf-Nord Wind fehlt/inkomplett -> lade … (Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T11:59:28   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T11:59:29   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T11:59:30   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T11:59:31   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T11:59:33   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T11:59:34   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T11:59:35   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T11:59:36   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T11:59:36 Hourly-Limit 50/h erreicht – warte 58m32s (nächster Slot: 12:58:08)
+2025-11-05T13:53:02 ======================================================
+2025-11-05T13:53:02 Start • Sites: 304 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T13:53:02 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T13:53:02 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T13:53:02 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T13:53:02 ======================================================
+2025-11-05T13:53:03 [1/304] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:03 [2/304] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:03 [3/304] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:03 [4/304] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:03 [5/304] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:03 [6/304] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [7/304] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [8/304] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [9/304] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [10/304] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [11/304] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [12/304] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:04 [13/304] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [14/304] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [15/304] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [16/304] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [17/304] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [18/304] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [19/304] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:05 [20/304] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:06 [21/304] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:06 [22/304] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:06 [23/304] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:06 [24/304] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:06 [25/304] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:06 [26/304] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [27/304] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [28/304] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [29/304] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [30/304] SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM | PV:COMPLETE -> PV_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [31/304] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [32/304] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:07 [33/304] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:08 [34/304] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:08 [35/304] AZV_Erdinger_Moos | PV:COMPLETE -> PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:08 [36/304] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:08 [37/304] Nürnberg_I | PV:COMPLETE -> PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv | WND:COMPLETE -> Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:08 [38/304] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:08 [39/304] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [40/304] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [41/304] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [42/304] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [43/304] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [44/304] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [45/304] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:09 [46/304] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:10 [47/304] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:10 [48/304] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:10 [49/304] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:10 [50/304] Bottrop | PV:COMPLETE -> PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:10 [51/304] Köln_Stammheim | PV:COMPLETE -> PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv | WND:COMPLETE -> Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:10 [52/304] Düsseldorf-Nord Wind fehlt/inkomplett -> lade … (Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T13:53:10   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T13:53:12   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T13:53:14   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T13:53:15 [52/304] Düsseldorf-Nord | PV:COMPLETE -> PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv | WND:COMPLETE -> Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:15 [53/304] Krefeld PV fehlt/inkomplett -> lade … (PV_Krefeld_20150101-20241231_merra2_68f935552f.csv)
+2025-11-05T13:53:15   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T13:53:18   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T13:53:20   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T13:53:22   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T13:53:24   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T13:53:27   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T13:53:29   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T13:53:31   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T13:53:34   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T13:53:37   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T13:53:39 [53/304] Krefeld Wind fehlt/inkomplett -> lade … (Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T13:53:39   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T13:53:40   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T13:53:42   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T13:53:43   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T13:53:44   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T13:53:46   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T13:53:47   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T13:53:49   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T13:53:50   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T13:53:52   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T13:53:53 [53/304] Krefeld | PV:COMPLETE -> PV_Krefeld_20150101-20241231_merra2_68f935552f.csv | WND:COMPLETE -> Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:53:53 [54/304] Mönchengladbach_GWK_I PV fehlt/inkomplett -> lade … (PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv)
+2025-11-05T13:53:53   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T13:53:55   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T13:53:57   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T13:53:59   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T13:54:01   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T13:54:03   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T13:54:05   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T13:54:07   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T13:54:10   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T13:54:12   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T13:54:15 [54/304] Mönchengladbach_GWK_I Wind fehlt/inkomplett -> lade … (Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T13:54:15   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T13:54:16   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T13:54:17   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T13:54:18   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T13:54:19   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T13:54:21   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T13:54:22   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T13:54:23   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T13:54:24   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T13:54:25   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T13:54:27 [54/304] Mönchengladbach_GWK_I | PV:COMPLETE -> PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T13:54:27 [55/304] Neuss-Ost PV fehlt/inkomplett -> lade … (PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv)
+2025-11-05T13:54:27   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T13:54:29   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T13:54:31   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T13:54:33   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T13:54:35   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T13:54:37   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T13:54:39   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T13:54:41   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T13:54:41 Hourly-Limit 50/h erreicht – warte 58m29s (nächster Slot: 14:53:10)
+2025-11-05T13:55:41 ... noch 57m29s
+2025-11-05T13:56:41 ... noch 56m29s
+2025-11-05T13:57:41 ... noch 55m29s
+2025-11-05T13:58:41 ... noch 54m29s
+2025-11-05T13:59:41 ... noch 53m29s
+2025-11-05T14:00:41 ... noch 52m29s
+2025-11-05T14:01:41 ... noch 51m29s
+2025-11-05T14:02:41 ... noch 50m29s
+2025-11-05T14:03:41 ... noch 49m29s
+2025-11-05T14:04:41 ... noch 48m29s
+2025-11-05T14:05:41 ... noch 47m29s
+2025-11-05T14:06:41 ... noch 46m29s
+2025-11-05T14:07:41 ... noch 45m29s
+2025-11-05T14:08:41 ... noch 44m29s
+2025-11-05T14:09:41 ... noch 43m29s
+2025-11-05T14:10:41 ... noch 42m29s
+2025-11-05T14:11:41 ... noch 41m29s
+2025-11-05T14:12:41 ... noch 40m29s
+2025-11-05T14:13:41 ... noch 39m29s
+2025-11-05T14:14:41 ... noch 38m29s
+2025-11-05T14:15:41 ... noch 37m29s
+2025-11-05T14:16:41 ... noch 36m29s
+2025-11-05T14:17:41 ... noch 35m29s
+2025-11-05T14:18:41 ... noch 34m29s
+2025-11-05T15:33:18 ======================================================
+2025-11-05T15:33:18 Start • Sites: 304 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T15:33:18 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T15:33:18 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T15:33:18 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T15:33:18 ======================================================
+2025-11-05T15:33:18 [1/304] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:18 [2/304] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:18 [3/304] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:18 [4/304] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:18 [5/304] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:19 [6/304] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:19 [7/304] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:19 [8/304] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:19 [9/304] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:19 [10/304] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:19 [11/304] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [12/304] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [13/304] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [14/304] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [15/304] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [16/304] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [17/304] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:20 [18/304] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [19/304] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [20/304] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [21/304] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [22/304] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [23/304] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [24/304] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:21 [25/304] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [26/304] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [27/304] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [28/304] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [29/304] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [30/304] SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM | PV:COMPLETE -> PV_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [31/304] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:22 [32/304] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [33/304] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [34/304] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [35/304] AZV_Erdinger_Moos | PV:COMPLETE -> PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [36/304] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [37/304] Nürnberg_I | PV:COMPLETE -> PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv | WND:COMPLETE -> Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [38/304] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:23 [39/304] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:24 [40/304] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:24 [41/304] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:24 [42/304] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:24 [43/304] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:24 [44/304] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:24 [45/304] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [46/304] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [47/304] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [48/304] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [49/304] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [50/304] Bottrop | PV:COMPLETE -> PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [51/304] Köln_Stammheim | PV:COMPLETE -> PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv | WND:COMPLETE -> Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:25 [52/304] Düsseldorf-Nord | PV:COMPLETE -> PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv | WND:COMPLETE -> Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:26 [53/304] Krefeld | PV:COMPLETE -> PV_Krefeld_20150101-20241231_merra2_68f935552f.csv | WND:COMPLETE -> Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:26 [54/304] Mönchengladbach_GWK_I | PV:COMPLETE -> PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:26 [55/304] Neuss-Ost PV fehlt/inkomplett -> lade … (PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv)
+2025-11-05T15:33:26   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T15:33:29   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T15:33:31   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T15:33:33 [55/304] Neuss-Ost Wind fehlt/inkomplett -> lade … (Wind_Neuss-Ost_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T15:33:33   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T15:33:35   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T15:33:36   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T15:33:37   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T15:33:39   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T15:33:40   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T15:33:42   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T15:33:43   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T15:33:44   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T15:33:46   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T15:33:48 [55/304] Neuss-Ost | PV:COMPLETE -> PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Neuss-Ost_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:33:48 [56/304] Münster-Hauptkläranlage PV fehlt/inkomplett -> lade … (PV_Münster-Hauptkläranlage_20150101-20241231_merra2_60b618a189.csv)
+2025-11-05T15:33:48   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T15:33:50   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T15:33:52   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T15:33:55   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T15:33:57   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T15:33:59   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T15:34:01   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T15:34:04   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T15:34:06   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T15:34:08   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T15:34:11 [56/304] Münster-Hauptkläranlage Wind fehlt/inkomplett -> lade … (Wind_Münster-Hauptkläranlage_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T15:34:11   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T15:34:12   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T15:34:14   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T15:34:15   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T15:34:17   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T15:34:18   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T15:34:19   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T15:34:20   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T15:34:22   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T15:34:24   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T15:34:25 [56/304] Münster-Hauptkläranlage | PV:COMPLETE -> PV_Münster-Hauptkläranlage_20150101-20241231_merra2_60b618a189.csv | WND:COMPLETE -> Wind_Münster-Hauptkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T15:34:25 [57/304] Abwasserverband_Obere_Lutter PV fehlt/inkomplett -> lade … (PV_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_3644c1cbba.csv)
+2025-11-05T15:34:25   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T15:34:27   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T15:34:29   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T15:34:32   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T15:34:34   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T15:34:36   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T15:34:38   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T15:34:41   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T15:34:43   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T15:34:45   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T15:34:48 [57/304] Abwasserverband_Obere_Lutter Wind fehlt/inkomplett -> lade … (Wind_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T15:34:48   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T15:34:49   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T15:34:50   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T15:34:52   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T15:34:53   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T15:34:54   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T15:34:55   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T15:34:57   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T15:34:57 Hourly-Limit 50/h erreicht – warte 58m29s (nächster Slot: 16:33:26)
+2025-11-05T19:11:36 ======================================================
+2025-11-05T19:11:36 Start • Sites: 292 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T19:11:36 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T19:11:36 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T19:11:36 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T19:11:36 ======================================================
+2025-11-05T19:11:36 [1/292] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:36 [2/292] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:36 [3/292] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:36 [4/292] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:36 [5/292] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:36 [6/292] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [7/292] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [8/292] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [9/292] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [10/292] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [11/292] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [12/292] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:37 [13/292] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [14/292] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [15/292] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [16/292] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [17/292] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [18/292] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [19/292] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:38 [20/292] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [21/292] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [22/292] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [23/292] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [24/292] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [25/292] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [26/292] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [27/292] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:39 [28/292] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [29/292] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [30/292] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [31/292] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [32/292] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [33/292] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [34/292] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:40 [35/292] Nürnberg_I | PV:COMPLETE -> PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv | WND:COMPLETE -> Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [36/292] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [37/292] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [38/292] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [39/292] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [40/292] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [41/292] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:41 [42/292] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [43/292] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [44/292] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [45/292] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [46/292] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [47/292] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [48/292] Bottrop | PV:COMPLETE -> PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:42 [49/292] Köln_Stammheim | PV:COMPLETE -> PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv | WND:COMPLETE -> Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:43 [50/292] Düsseldorf-Nord | PV:COMPLETE -> PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv | WND:COMPLETE -> Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:43 [51/292] Krefeld | PV:COMPLETE -> PV_Krefeld_20150101-20241231_merra2_68f935552f.csv | WND:COMPLETE -> Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:43 [52/292] Mönchengladbach_GWK_I | PV:COMPLETE -> PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:43 [53/292] Neuss-Ost | PV:COMPLETE -> PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Neuss-Ost_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:43 [54/292] Münster-Hauptkläranlage | PV:COMPLETE -> PV_Münster-Hauptkläranlage_20150101-20241231_merra2_60b618a189.csv | WND:COMPLETE -> Wind_Münster-Hauptkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:43 [55/292] Abwasserverband_Obere_Lutter Wind fehlt/inkomplett -> lade … (Wind_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T19:11:43   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T19:11:45   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T19:11:47   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T19:11:48 [55/292] Abwasserverband_Obere_Lutter | PV:COMPLETE -> PV_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_3644c1cbba.csv | WND:COMPLETE -> Wind_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:11:48 [56/292] Düren PV fehlt/inkomplett -> lade … (PV_Düren_20150101-20241231_merra2_e8b4962e34.csv)
+2025-11-05T19:11:48   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T19:11:51   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T19:11:53   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T19:11:55   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T19:11:57   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T19:12:00   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T19:12:02   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T19:12:04   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T19:12:07   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T19:12:09   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T19:12:12 [56/292] Düren Wind fehlt/inkomplett -> lade … (Wind_Düren_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T19:12:12   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T19:12:14   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T19:12:15   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T19:12:17   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T19:12:18   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T19:12:20   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T19:12:21   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T19:12:23   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T19:12:24   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T19:12:26   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T19:12:27 [56/292] Düren | PV:COMPLETE -> PV_Düren_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Düren_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:12:27 [57/292] Paderborn_Sande PV fehlt/inkomplett -> lade … (PV_Paderborn_Sande_20150101-20241231_merra2_0fc64b1b27.csv)
+2025-11-05T19:12:27   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T19:12:29   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T19:12:31   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T19:12:33   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T19:12:36   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T19:12:38   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T19:12:40   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T19:12:42   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T19:12:44   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T19:12:47   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T19:12:49 [57/292] Paderborn_Sande Wind fehlt/inkomplett -> lade … (Wind_Paderborn_Sande_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T19:12:49   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T19:12:50   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T19:12:51   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T19:12:52   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T19:12:54   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T19:12:55   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T19:12:56   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T19:12:57   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T19:12:58   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T19:13:00   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T19:13:01 [57/292] Paderborn_Sande | PV:COMPLETE -> PV_Paderborn_Sande_20150101-20241231_merra2_0fc64b1b27.csv | WND:COMPLETE -> Wind_Paderborn_Sande_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T19:13:01 [58/292] Düsseldorf-Süd PV fehlt/inkomplett -> lade … (PV_Düsseldorf-Süd_20150101-20241231_merra2_664b044967.csv)
+2025-11-05T19:13:01   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T19:13:03   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T19:13:05   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T19:13:07   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T19:13:09   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T19:13:11   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T19:13:14   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T19:13:16   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T19:13:16 Hourly-Limit 50/h erreicht – warte 58m27s (nächster Slot: 20:11:43)
+2025-11-05T19:14:16 ... noch 57m27s
+2025-11-05T22:29:12 ======================================================
+2025-11-05T22:29:12 Start • Sites: 290 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T22:29:12 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T22:29:12 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T22:29:12 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T22:29:12 ======================================================
+2025-11-05T22:29:12 [1/290] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:12 [2/290] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:12 [3/290] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:12 [4/290] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:12 [5/290] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [6/290] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [7/290] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [8/290] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [9/290] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [10/290] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [11/290] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:13 [12/290] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [13/290] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [14/290] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [15/290] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [16/290] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [17/290] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [18/290] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:14 [19/290] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [20/290] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [21/290] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [22/290] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [23/290] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [24/290] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [25/290] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:15 [26/290] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [27/290] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [28/290] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [29/290] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [30/290] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [31/290] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [32/290] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:16 [33/290] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [34/290] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [35/290] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [36/290] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [37/290] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [38/290] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [39/290] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:17 [40/290] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [41/290] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [42/290] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [43/290] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [44/290] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [45/290] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [46/290] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [47/290] Bottrop | PV:COMPLETE -> PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:18 [48/290] Köln_Stammheim | PV:COMPLETE -> PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv | WND:COMPLETE -> Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [49/290] Düsseldorf-Nord | PV:COMPLETE -> PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv | WND:COMPLETE -> Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [50/290] Krefeld | PV:COMPLETE -> PV_Krefeld_20150101-20241231_merra2_68f935552f.csv | WND:COMPLETE -> Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [51/290] Mönchengladbach_GWK_I | PV:COMPLETE -> PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [52/290] Neuss-Ost | PV:COMPLETE -> PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Neuss-Ost_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [53/290] Münster-Hauptkläranlage | PV:COMPLETE -> PV_Münster-Hauptkläranlage_20150101-20241231_merra2_60b618a189.csv | WND:COMPLETE -> Wind_Münster-Hauptkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [54/290] Abwasserverband_Obere_Lutter | PV:COMPLETE -> PV_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_3644c1cbba.csv | WND:COMPLETE -> Wind_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:19 [55/290] Düren | PV:COMPLETE -> PV_Düren_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Düren_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:20 [56/290] Paderborn_Sande | PV:COMPLETE -> PV_Paderborn_Sande_20150101-20241231_merra2_0fc64b1b27.csv | WND:COMPLETE -> Wind_Paderborn_Sande_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:20 [57/290] Düsseldorf-Süd PV fehlt/inkomplett -> lade … (PV_Düsseldorf-Süd_20150101-20241231_merra2_664b044967.csv)
+2025-11-05T22:29:20   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T22:29:25   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T22:29:38   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T22:29:41 [57/290] Düsseldorf-Süd Wind fehlt/inkomplett -> lade … (Wind_Düsseldorf-Süd_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T22:29:41   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T22:29:43   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T22:29:45   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T22:29:47   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T22:29:48   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T22:29:49   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T22:29:51   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T22:29:52   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T22:29:54   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T22:29:57   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T22:29:58 [57/290] Düsseldorf-Süd | PV:COMPLETE -> PV_Düsseldorf-Süd_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Düsseldorf-Süd_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:29:58 [58/290] Wuppertal-Buchenhofen PV fehlt/inkomplett -> lade … (PV_Wuppertal-Buchenhofen_20150101-20241231_merra2_664b044967.csv)
+2025-11-05T22:29:58   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T22:30:01   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T22:30:03   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T22:30:11   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T22:30:19   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T22:30:41   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T22:30:47   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T22:30:49   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T22:30:51   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T22:30:54   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T22:30:56 [58/290] Wuppertal-Buchenhofen Wind fehlt/inkomplett -> lade … (Wind_Wuppertal-Buchenhofen_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T22:30:56   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T22:30:58   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T22:31:00   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T22:31:02   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T22:31:03   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T22:31:05   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T22:31:10   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T22:31:14   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T22:31:22   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T22:31:33   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T22:31:37 [58/290] Wuppertal-Buchenhofen | PV:COMPLETE -> PV_Wuppertal-Buchenhofen_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Wuppertal-Buchenhofen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T22:31:37 [59/290] Duisburg-Kaßlerfeld PV fehlt/inkomplett -> lade … (PV_Duisburg-Kaßlerfeld_20150101-20241231_merra2_68f935552f.csv)
+2025-11-05T22:31:37   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T22:31:39   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T22:31:41   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T22:31:44   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T22:31:46   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T22:31:49   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T22:31:51   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T22:31:54   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T22:31:56   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T22:31:59   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T22:32:02 [59/290] Duisburg-Kaßlerfeld Wind fehlt/inkomplett -> lade … (Wind_Duisburg-Kaßlerfeld_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T22:32:02   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T22:32:11   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T22:32:18   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T22:32:31   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T22:32:50   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T22:32:52   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T22:32:55   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T22:33:02   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T22:33:02 Hourly-Limit 50/h erreicht – warte 56m17s (nächster Slot: 23:29:19)
+2025-11-05T22:34:02 ... noch 55m17s
+2025-11-05T23:38:25 ======================================================
+2025-11-05T23:38:25 Start • Sites: 298 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-05T23:38:25 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-05T23:38:25 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-05T23:38:25 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-05T23:38:25 ======================================================
+2025-11-05T23:38:25 [1/298] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:25 [2/298] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:25 [3/298] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:25 [4/298] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [5/298] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [6/298] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [7/298] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [8/298] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [9/298] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [10/298] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:26 [11/298] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [12/298] UWWTP_Varna | PV:COMPLETE -> PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv | WND:COMPLETE -> Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [13/298] UWWTP_Plovdiv | PV:COMPLETE -> PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv | WND:COMPLETE -> Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [14/298] UWWTP_Sofia | PV:COMPLETE -> PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv | WND:COMPLETE -> Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [15/298] UCOV_Praha | PV:COMPLETE -> PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [16/298] COV_Plzen | PV:COMPLETE -> PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [17/298] COV_Steti_-Papirny_Mondi | PV:COMPLETE -> PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv | WND:COMPLETE -> Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:27 [18/298] COV_Brno_-_Modrice | PV:COMPLETE -> PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv | WND:COMPLETE -> Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [19/298] UCOV_Ostrava_-_Privoz | PV:COMPLETE -> PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv | WND:COMPLETE -> Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [20/298] Stahnsdorf | PV:COMPLETE -> PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [21/298] Ruhleben | PV:COMPLETE -> PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv | WND:COMPLETE -> Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [22/298] Schönerlinde | PV:COMPLETE -> PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv | WND:COMPLETE -> Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [23/298] Waßmannsdorf | PV:COMPLETE -> PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [24/298] Hauptklärwerk_Mühlhausen | PV:COMPLETE -> PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv | WND:COMPLETE -> Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:28 [25/298] Göppingen | PV:COMPLETE -> PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv | WND:COMPLETE -> Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:29 [26/298] SKA_Heilbronn | PV:COMPLETE -> PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv | WND:COMPLETE -> Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:29 [27/298] SKA_Karlsruhe_Neureut | PV:COMPLETE -> PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv | WND:COMPLETE -> Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:29 [28/298] SKA_AZV_Heidelberg | PV:COMPLETE -> PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv | WND:COMPLETE -> Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:29 [29/298] Kläranlage_Mannheim | PV:COMPLETE -> PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:29 [30/298] Würzburg | PV:COMPLETE -> PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv | WND:COMPLETE -> Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:29 [31/298] Augsburg | PV:COMPLETE -> PV_Augsburg_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:30 [32/298] Zweckverband_Klärwerk_Steinhäule | PV:COMPLETE -> PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:30 [33/298] München_II_-_Gut_Marienhof | PV:COMPLETE -> PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv | WND:COMPLETE -> Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:30 [34/298] AZV_Erdinger_Moos | PV:COMPLETE -> PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv | WND:COMPLETE -> Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:30 [35/298] Erlangen | PV:COMPLETE -> PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv | WND:COMPLETE -> Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:30 [36/298] Rosenheim | PV:COMPLETE -> PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:30 [37/298] Kläranlage_Seehausen | PV:COMPLETE -> PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv | WND:COMPLETE -> Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:31 [38/298] Frankfurt_am_Main_Sindlingen | PV:COMPLETE -> PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:31 [39/298] Frankfurt_am_Main_Niederrad_Griesheim | PV:COMPLETE -> PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:31 [40/298] Wiesbaden_Mitte | PV:COMPLETE -> PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv | WND:COMPLETE -> Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:31 [41/298] Klärwerksverbund_Köhlbrandhöft_Dradenau | PV:COMPLETE -> PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv | WND:COMPLETE -> Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:31 [42/298] 2530002102_KA_Herrenhausen | PV:COMPLETE -> PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:31 [43/298] 2530142095_KA_Gümmerwald | PV:COMPLETE -> PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv | WND:COMPLETE -> Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [44/298] 2550232001_KA_Holzminden | PV:COMPLETE -> PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv | WND:COMPLETE -> Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [45/298] 3520112001_KA_Cuxhaven | PV:COMPLETE -> PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv | WND:COMPLETE -> Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [46/298] Aachen-Soers | PV:COMPLETE -> PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [47/298] Dortmund-Deusen | PV:COMPLETE -> PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [48/298] Bottrop | PV:COMPLETE -> PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [49/298] Köln_Stammheim | PV:COMPLETE -> PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv | WND:COMPLETE -> Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:32 [50/298] Düsseldorf-Nord | PV:COMPLETE -> PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv | WND:COMPLETE -> Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:33 [51/298] Krefeld | PV:COMPLETE -> PV_Krefeld_20150101-20241231_merra2_68f935552f.csv | WND:COMPLETE -> Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:33 [52/298] Mönchengladbach_GWK_I | PV:COMPLETE -> PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:33 [53/298] Neuss-Ost | PV:COMPLETE -> PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Neuss-Ost_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:33 [54/298] Münster-Hauptkläranlage | PV:COMPLETE -> PV_Münster-Hauptkläranlage_20150101-20241231_merra2_60b618a189.csv | WND:COMPLETE -> Wind_Münster-Hauptkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:33 [55/298] Abwasserverband_Obere_Lutter | PV:COMPLETE -> PV_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_3644c1cbba.csv | WND:COMPLETE -> Wind_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:33 [56/298] Düren | PV:COMPLETE -> PV_Düren_20150101-20241231_merra2_e8b4962e34.csv | WND:COMPLETE -> Wind_Düren_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:34 [57/298] Paderborn_Sande | PV:COMPLETE -> PV_Paderborn_Sande_20150101-20241231_merra2_0fc64b1b27.csv | WND:COMPLETE -> Wind_Paderborn_Sande_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:34 [58/298] Düsseldorf-Süd | PV:COMPLETE -> PV_Düsseldorf-Süd_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Düsseldorf-Süd_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:34 [59/298] Wuppertal-Buchenhofen | PV:COMPLETE -> PV_Wuppertal-Buchenhofen_20150101-20241231_merra2_664b044967.csv | WND:COMPLETE -> Wind_Wuppertal-Buchenhofen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:34 [60/298] Duisburg-Kaßlerfeld Wind fehlt/inkomplett -> lade … (Wind_Duisburg-Kaßlerfeld_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T23:38:34   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T23:38:35   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T23:38:37   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T23:38:38 [60/298] Duisburg-Kaßlerfeld | PV:COMPLETE -> PV_Duisburg-Kaßlerfeld_20150101-20241231_merra2_68f935552f.csv | WND:COMPLETE -> Wind_Duisburg-Kaßlerfeld_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:38:38 [61/298] Emscherkläranlage PV fehlt/inkomplett -> lade … (PV_Emscherkläranlage_20150101-20241231_merra2_22f8980d0b.csv)
+2025-11-05T23:38:38   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T23:38:40   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T23:38:42   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T23:38:44   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T23:38:47   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T23:38:49   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T23:38:51   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T23:38:54   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T23:38:56   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T23:38:58   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T23:39:01 [61/298] Emscherkläranlage Wind fehlt/inkomplett -> lade … (Wind_Emscherkläranlage_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T23:39:01   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T23:39:02   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T23:39:03   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T23:39:04   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T23:39:05   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T23:39:06   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T23:39:07   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T23:39:08   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T23:39:09   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T23:39:10   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T23:39:12 [61/298] Emscherkläranlage | PV:COMPLETE -> PV_Emscherkläranlage_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Emscherkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:39:12 [62/298] Duisburg-Alte_Emscher PV fehlt/inkomplett -> lade … (PV_Duisburg-Alte_Emscher_20150101-20241231_merra2_22f8980d0b.csv)
+2025-11-05T23:39:12   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T23:39:14   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T23:39:15   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T23:39:18   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T23:39:20   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T23:39:22   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T23:39:24   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T23:39:26   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T23:39:28   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T23:39:30   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T23:39:33 [62/298] Duisburg-Alte_Emscher Wind fehlt/inkomplett -> lade … (Wind_Duisburg-Alte_Emscher_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-05T23:39:33   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T23:39:34   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T23:39:35   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T23:39:36   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T23:39:37   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T23:39:38   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T23:39:39   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T23:39:40   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T23:39:42   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-05T23:39:43   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-05T23:39:44 [62/298] Duisburg-Alte_Emscher | PV:COMPLETE -> PV_Duisburg-Alte_Emscher_20150101-20241231_merra2_22f8980d0b.csv | WND:COMPLETE -> Wind_Duisburg-Alte_Emscher_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-05T23:39:44 [63/298] Koblenz PV fehlt/inkomplett -> lade … (PV_Koblenz_20150101-20241231_merra2_92f73bd59e.csv)
+2025-11-05T23:39:44   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-05T23:39:46   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-05T23:39:48   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-05T23:39:50   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-05T23:39:52   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-05T23:39:54   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-05T23:39:56   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-05T23:39:58   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-05T23:39:58 Hourly-Limit 50/h erreicht – warte 58m35s (nächster Slot: 00:38:33)
+2025-11-05T23:40:58 ... noch 57m35s
+2025-11-05T23:41:58 ... noch 56m35s

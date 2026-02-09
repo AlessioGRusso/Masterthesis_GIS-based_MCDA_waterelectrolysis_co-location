@@ -1,0 +1,244 @@
+{
+  "excel_path": "Output/UWWTD_TP_Database.xlsx",
+  "id_columns": [
+    "UWWTD Code",
+    "Name"
+  ],
+  "default_sheet": null,
+  "winsorize_pct": 0.01,
+  "imputation_enabled": true,
+  "imputation_method": "median",
+  "categories": {
+    "H2 Renewables Potential": {
+      "name": "H2 Renewables Potential",
+      "sheet": "H2 Renewables",
+      "method": "custom",
+      "kpis": [
+        {
+          "name": "Calculated LCOH",
+          "column": "LCOH [€/kg]",
+          "sheet": "H2 Renewables",
+          "direction": "cost",
+          "weight": null,
+          "w_min": 0.8,
+          "w_max": 1.0
+        }
+      ],
+      "weight": null,
+      "w_min": 0.25,
+      "w_max": 0.35,
+      "subcategories": {},
+      "sub_agg_method": "weighted_average",
+      "sub_agg_weights": {},
+      "conditional_check": null
+    },
+    "H2 Logistics": {
+      "name": "H2 Logistics",
+      "sheet": "H2 Logistics",
+      "method": "custom",
+      "kpis": [
+        {
+          "name": "Pipeline Cost",
+          "column": "Price (EHB)",
+          "sheet": "H2 Logistics",
+          "direction": "cost",
+          "weight": null,
+          "w_min": 0.7,
+          "w_max": 0.8
+        },
+        {
+          "name": "Offtakers Potential",
+          "column": "Offtakers Potential",
+          "sheet": "H2 Logistics",
+          "direction": "benefit",
+          "weight": null,
+          "w_min": 0.2,
+          "w_max": 0.3
+        }
+      ],
+      "weight": null,
+      "w_min": 0.3,
+      "w_max": 0.44,
+      "subcategories": {},
+      "sub_agg_method": "weighted_average",
+      "sub_agg_weights": {},
+      "conditional_check": null
+    },
+    "Grid Electricity": {
+      "name": "Grid Electricity",
+      "sheet": "Grid Energy Connection",
+      "method": "custom",
+      "kpis": [
+        {
+          "name": "Distance to HV power line",
+          "column": "Direct Distance to Power Network [km]",
+          "sheet": "Grid Energy Connection",
+          "direction": "cost",
+          "weight": null,
+          "w_min": 0.3,
+          "w_max": 0.7
+        },
+        {
+          "name": "Distance to HV Substation",
+          "column": "Distance to Nearest Substation [km]",
+          "sheet": "Grid Energy Connection",
+          "direction": "cost",
+          "weight": null,
+          "w_min": 0.3,
+          "w_max": 0.7
+        }
+      ],
+      "weight": null,
+      "w_min": 0.1,
+      "w_max": 0.16,
+      "subcategories": {},
+      "sub_agg_method": "weighted_average",
+      "sub_agg_weights": {},
+      "conditional_check": null
+    },
+    "District Heating": {
+      "name": "District Heating",
+      "sheet": "District Heating",
+      "method": "custom",
+      "kpis": [
+        {
+          "name": "Max. Flow Temperature",
+          "column": "Max. Flow temperature",
+          "sheet": "District Heating",
+          "direction": "benefit",
+          "weight": null,
+          "w_min": 0.3,
+          "w_max": 0.4
+        },
+        {
+          "name": "Distance to District Heating Network",
+          "column": "Distance to network [km]",
+          "sheet": "District Heating",
+          "direction": "cost",
+          "weight": null,
+          "w_min": 0.6,
+          "w_max": 0.7
+        }
+      ],
+      "weight": null,
+      "w_min": 0.01,
+      "w_max": 0.05,
+      "subcategories": {},
+      "sub_agg_method": "weighted_average",
+      "sub_agg_weights": {},
+      "conditional_check": {
+        "type": "district_heating_automatic",
+        "description": "Automatic logic based on Network and Connection columns"
+      }
+    },
+    "Oxygen": {
+      "name": "Oxygen",
+      "sheet": "General Data",
+      "method": "custom",
+      "kpis": [
+        {
+          "name": "Oxygen Usage Potential",
+          "column": "Oxygen_Usage_Potential",
+          "sheet": "General Data",
+          "direction": "benefit",
+          "weight": null,
+          "w_min": null,
+          "w_max": null
+        }
+      ],
+      "weight": null,
+      "w_min": 0.01,
+      "w_max": 0.05,
+      "subcategories": {},
+      "sub_agg_method": "weighted_average",
+      "sub_agg_weights": {},
+      "conditional_check": null
+    },
+    "Risk": {
+      "name": "Risk",
+      "sheet": "Risks",
+      "method": "custom",
+      "kpis": [
+        {
+          "name": "Flood Risk (inverted)",
+          "column": "Distance to possible flood area [m]",
+          "sheet": "Risks",
+          "direction": "benefit",
+          "weight": null,
+          "w_min": 0.2,
+          "w_max": 0.4
+        },
+        {
+          "name": "Residential Risk (inverted)",
+          "column": "Distance to residential area [m]",
+          "sheet": "Risks",
+          "direction": "benefit",
+          "weight": null,
+          "w_min": 0.2,
+          "w_max": 0.4
+        },
+        {
+          "name": "Protected Area Risk (inverted)",
+          "column": "Distance to protected area [m]",
+          "sheet": "Risks",
+          "direction": "benefit",
+          "weight": null,
+          "w_min": 0.2,
+          "w_max": 0.4
+        }
+      ],
+      "weight": null,
+      "w_min": 0.12,
+      "w_max": 0.2,
+      "subcategories": {},
+      "sub_agg_method": "weighted_average",
+      "sub_agg_weights": {},
+      "conditional_check": null
+    }
+  },
+  "category_order": [
+    "H2 Renewables Potential",
+    "H2 Logistics",
+    "Grid Electricity",
+    "District Heating",
+    "Oxygen",
+    "Risk"
+  ],
+  "risk_sheet": "Risks",
+  "risk_cols": {
+    "flood": "Distance to possible flood area [m]",
+    "residential": "Distance to residential area [m]",
+    "protected": "Distance to protected area [m]"
+  },
+  "risk_thresholds": {
+    "flood": {
+      "safe": 250.0,
+      "critical": 50.0
+    },
+    "residential": {
+      "safe": 500.0,
+      "critical": 200.0
+    },
+    "protected": {
+      "safe": 500.0,
+      "critical": 100.0
+    }
+  },
+  "risk_weights": {
+    "flood": {
+      "weight": 0.25,
+      "w_min": 0.2,
+      "w_max": 0.4
+    },
+    "residential": {
+      "weight": 0.25,
+      "w_min": 0.2,
+      "w_max": 0.4
+    },
+    "protected": {
+      "weight": 0.25,
+      "w_min": 0.2,
+      "w_max": 0.4
+    }
+  }
+}

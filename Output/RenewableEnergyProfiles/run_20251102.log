@@ -1,0 +1,287 @@
+2025-11-02T17:01:37 ======================================================
+2025-11-02T17:01:37 Start • Sites: 288 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-02T17:01:37 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-02T17:01:37 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-02T17:01:37 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-02T17:01:37 ======================================================
+2025-11-02T17:01:37 [1/288] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T17:01:37 [2/288] Asten_-_Regionalkläranlage Wind fehlt/inkomplett -> lade … (Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T17:01:37   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T17:01:39 [2/288] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T17:01:39 [3/288] ARA_Siggerwiesen PV fehlt/inkomplett -> lade … (PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv)
+2025-11-02T17:01:39   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T17:01:41   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T17:01:43   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T17:01:45   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T17:01:47   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T17:01:49   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T17:01:52   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T17:01:54   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T17:01:56   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T17:01:59   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T17:02:01 [3/288] ARA_Siggerwiesen Wind fehlt/inkomplett -> lade … (Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T17:02:01   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T17:02:02   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T17:02:03   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T17:02:05   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T17:02:06   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T17:02:08   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T17:02:09   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T17:02:11   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T17:02:12   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T17:02:14   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T17:02:15 [3/288] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T17:02:15 [4/288] Graz-Gössendorf PV fehlt/inkomplett -> lade … (PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv)
+2025-11-02T17:02:15   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T17:02:17   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T17:02:19   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T17:02:21   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T17:02:23   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T17:02:26   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T17:02:28   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T17:02:30   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T17:02:32   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T17:02:34   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T17:02:36 [4/288] Graz-Gössendorf Wind fehlt/inkomplett -> lade … (Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T17:02:36   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T17:02:37   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T17:02:38   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T17:02:39   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T17:02:40   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T17:02:42   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T17:02:43   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T17:02:44   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T17:02:45   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T17:02:46   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T17:02:47 [4/288] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T17:02:47 [5/288] Gratkorn PV fehlt/inkomplett -> lade … (PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv)
+2025-11-02T17:02:47   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T17:02:49   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T17:02:51   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T17:02:53   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T17:02:55   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T17:02:57   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T17:02:59   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T17:03:01   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T17:03:03   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T17:03:06   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T17:03:06 Hourly-Limit 50/h erreicht – warte 58m31s (nächster Slot: 18:01:37)
+2025-11-02T17:04:06 ... noch 57m31s
+2025-11-02T18:48:02 ======================================================
+2025-11-02T18:48:02 Start • Sites: 304 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-02T18:48:02 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-02T18:48:02 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-02T18:48:02 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-02T18:48:02 ======================================================
+2025-11-02T18:48:02 [1/304] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T18:48:02 [2/304] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T18:48:02 [3/304] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T18:48:02 [4/304] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T18:48:02 [5/304] Gratkorn PV fehlt/inkomplett -> lade … (PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv)
+2025-11-02T18:48:02   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T18:48:05 [5/304] Gratkorn Wind fehlt/inkomplett -> lade … (Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T18:48:05   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T18:48:07   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T18:48:08   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T18:48:09   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T18:48:11   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T18:48:12   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T18:48:14   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T18:48:15   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T18:48:17   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T18:48:18   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T18:48:20 [5/304] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T18:48:20 [6/304] Innsbruck PV fehlt/inkomplett -> lade … (PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv)
+2025-11-02T18:48:20   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T18:48:22   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T18:48:24   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T18:48:26   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T18:48:28   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T18:48:30   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T18:48:32   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T18:48:34   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T18:48:37   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T18:48:39   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T18:48:41 [6/304] Innsbruck Wind fehlt/inkomplett -> lade … (Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T18:48:41   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T18:48:43   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T18:48:44   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T18:48:45   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T18:48:46   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T18:48:47   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T18:48:49   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T18:48:50   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T18:48:51   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T18:48:53   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T18:48:54 [6/304] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T18:48:54 [7/304] Meiningen PV fehlt/inkomplett -> lade … (PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv)
+2025-11-02T18:48:54   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T18:48:56   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T18:48:58   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T18:49:00   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T18:49:02   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T18:49:04   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T18:49:06   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T18:49:08   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T18:49:11   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T18:49:13   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T18:49:15 [7/304] Meiningen Wind fehlt/inkomplett -> lade … (Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T18:49:15   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T18:49:16   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T18:49:17   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T18:49:19   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T18:49:20   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T18:49:21   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T18:49:22   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T18:49:23   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T18:49:24   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T18:49:26   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T18:49:26 Hourly-Limit 50/h erreicht – warte 58m36s (nächster Slot: 19:48:02)
+2025-11-02T20:53:39 ======================================================
+2025-11-02T20:53:39 Start • Sites: 291 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-02T20:53:39 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-02T20:53:39 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-02T20:53:39 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-02T20:53:39 ======================================================
+2025-11-02T20:53:39 [1/291] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:39 [2/291] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:39 [3/291] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:39 [4/291] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:40 [5/291] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:40 [6/291] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:40 [7/291] Meiningen Wind fehlt/inkomplett -> lade … (Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T20:53:40   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T20:53:42 [7/291] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:53:42 [8/291] Hauptkläranlage_Wien PV fehlt/inkomplett -> lade … (PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv)
+2025-11-02T20:53:42   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T20:53:44   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T20:53:46   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T20:53:48   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T20:53:50   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T20:53:53   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T20:53:55   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T20:53:57   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T20:54:00   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T20:54:02   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T20:54:05 [8/291] Hauptkläranlage_Wien Wind fehlt/inkomplett -> lade … (Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T20:54:05   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T20:54:06   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T20:54:08   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T20:54:09   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T20:54:11   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T20:54:13   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T20:54:14   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T20:54:16   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T20:54:17   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T20:54:19   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T20:54:20 [8/291] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:54:20 [9/291] Bruxelles-nord PV fehlt/inkomplett -> lade … (PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv)
+2025-11-02T20:54:20   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T20:54:22   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T20:54:24   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T20:54:27   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T20:54:29   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T20:54:31   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T20:54:33   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T20:54:35   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T20:54:37   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T20:54:39   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T20:54:42 [9/291] Bruxelles-nord Wind fehlt/inkomplett -> lade … (Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T20:54:42   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T20:54:43   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T20:54:44   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T20:54:45   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T20:54:47   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T20:54:48   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T20:54:49   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T20:54:50   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T20:54:51   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T20:54:52   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T20:54:54 [9/291] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T20:54:54 [10/291] LIEGE_OUPEYE PV fehlt/inkomplett -> lade … (PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv)
+2025-11-02T20:54:54   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T20:54:56   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T20:54:58   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T20:55:00   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T20:55:02   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T20:55:04   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T20:55:06   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T20:55:08   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T20:55:10   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T20:55:12   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T20:55:12 Hourly-Limit 50/h erreicht – warte 58m27s (nächster Slot: 21:53:39)
+2025-11-02T22:25:34 ======================================================
+2025-11-02T22:25:34 Start • Sites: 285 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-11-02T22:25:34 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-11-02T22:25:34 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-11-02T22:25:34 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-11-02T22:25:34 ======================================================
+2025-11-02T22:25:34 [1/285] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:34 [2/285] Asten_-_Regionalkläranlage | PV:COMPLETE -> PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:34 [3/285] ARA_Siggerwiesen | PV:COMPLETE -> PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv | WND:COMPLETE -> Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:34 [4/285] Graz-Gössendorf | PV:COMPLETE -> PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv | WND:COMPLETE -> Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:34 [5/285] Gratkorn | PV:COMPLETE -> PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv | WND:COMPLETE -> Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:34 [6/285] Innsbruck | PV:COMPLETE -> PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:35 [7/285] Meiningen | PV:COMPLETE -> PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv | WND:COMPLETE -> Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:35 [8/285] Hauptkläranlage_Wien | PV:COMPLETE -> PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv | WND:COMPLETE -> Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:35 [9/285] Bruxelles-nord | PV:COMPLETE -> PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv | WND:COMPLETE -> Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:35 [10/285] LIEGE_OUPEYE PV fehlt/inkomplett -> lade … (PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv)
+2025-11-02T22:25:35   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T22:25:38 [10/285] LIEGE_OUPEYE Wind fehlt/inkomplett -> lade … (Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T22:25:38   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T22:25:39   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T22:25:40   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T22:25:42   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T22:25:43   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T22:25:44   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T22:25:46   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T22:25:47   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T22:25:48   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T22:25:50   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T22:25:51 [10/285] LIEGE_OUPEYE | PV:COMPLETE -> PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv | WND:COMPLETE -> Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:25:51 [11/285] UWWTP_Burgas PV fehlt/inkomplett -> lade … (PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv)
+2025-11-02T22:25:51   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T22:25:53   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T22:25:55   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T22:25:58   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T22:26:00   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T22:26:02   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T22:26:04   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T22:26:07   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T22:26:09   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T22:26:11   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T22:26:14 [11/285] UWWTP_Burgas Wind fehlt/inkomplett -> lade … (Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T22:26:14   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T22:26:15   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T22:26:16   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T22:26:17   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T22:26:19   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T22:26:20   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T22:26:21   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T22:26:22   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T22:26:23   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T22:26:25   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T22:26:26 [11/285] UWWTP_Burgas | PV:COMPLETE -> PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv | WND:COMPLETE -> Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv
+2025-11-02T22:26:26 [12/285] UWWTP_Varna PV fehlt/inkomplett -> lade … (PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv)
+2025-11-02T22:26:26   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T22:26:28   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T22:26:30   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T22:26:32   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T22:26:34   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T22:26:36   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T22:26:38   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T22:26:40   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T22:26:42   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T22:26:45   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T22:26:47 [12/285] UWWTP_Varna Wind fehlt/inkomplett -> lade … (Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-11-02T22:26:47   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-11-02T22:26:48   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-11-02T22:26:49   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-11-02T22:26:50   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-11-02T22:26:51   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-11-02T22:26:52   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-11-02T22:26:53   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-11-02T22:26:54   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-11-02T22:26:55   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-11-02T22:26:56   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-11-02T22:26:56 Hourly-Limit 50/h erreicht – warte 58m38s (nächster Slot: 23:25:34)

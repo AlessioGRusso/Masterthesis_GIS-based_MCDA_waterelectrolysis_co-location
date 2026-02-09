@@ -1,0 +1,1362 @@
+{
+  "version": 8,
+  "name": "OIM custom style",
+  "sources": {
+    "oim": {
+      "type": "vector",
+      "tiles": [
+        "https://openinframap.org/tiles/{z}/{x}/{y}.pbf"
+      ],
+      "maxzoom": 17
+    }
+  },
+  "sprite": "",
+  "glyphs": "https://fonts.openmaptiles.org/{fontstack}/{range}.pbf",
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "#ffffff"
+      }
+    },
+    {
+      "id": "power-line-<10kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          10000
+        ]
+      ],
+      "paint": {
+        "line-color": "#7A7A85",
+        "line-width": 1,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-10-25kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          10000
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          25000
+        ]
+      ],
+      "paint": {
+        "line-color": "#6E97B8",
+        "line-width": 1,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-25-52kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          25000
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          52000
+        ]
+      ],
+      "paint": {
+        "line-color": "#55B555",
+        "line-width": 2,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-52-132kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          52000
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          132000
+        ]
+      ],
+      "paint": {
+        "line-color": "#B59F10",
+        "line-width": 2,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-132-220kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          132000
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          220000
+        ]
+      ],
+      "paint": {
+        "line-color": "#B55D00",
+        "line-width": 3,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-220-310kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          220000
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          310000
+        ]
+      ],
+      "paint": {
+        "line-color": "#C73030",
+        "line-width": 4,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-310-550kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          310000
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          550000
+        ]
+      ],
+      "paint": {
+        "line-color": "#B54EB2",
+        "line-width": 5,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line->=550kV",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "minor_line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          ">=",
+          [
+            "to-number",
+            [
+              "get",
+              "voltage"
+            ]
+          ],
+          550000
+        ]
+      ],
+      "paint": {
+        "line-color": "#00C1CF",
+        "line-width": 5,
+        "line-opacity": 1
+      }
+    },
+    {
+      "id": "power-line-busbar",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          "==",
+          [
+            "get",
+            "line"
+          ],
+          "busbar"
+        ]
+      ],
+      "paint": {
+        "line-color": "#FFD800",
+        "line-width": 3
+      }
+    },
+    {
+      "id": "power-line-bay",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          "==",
+          [
+            "get",
+            "line"
+          ],
+          "bay"
+        ]
+      ],
+      "paint": {
+        "line-color": "#A0A0A0",
+        "line-width": 3
+      }
+    },
+    {
+      "id": "power-line-hvdc",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          "==",
+          [
+            "get",
+            "current"
+          ],
+          "dc"
+        ]
+      ],
+      "paint": {
+        "line-color": "#4E01B5",
+        "line-width": 5
+      }
+    },
+    {
+      "id": "power-line-traction",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          "<",
+          [
+            "to-number",
+            [
+              "get",
+              "frequency"
+            ]
+          ],
+          50
+        ]
+      ],
+      "paint": {
+        "line-color": "#A8B596",
+        "line-width": 3
+      }
+    },
+    {
+      "id": "power-line-underground",
+      "type": "line",
+      "source": "oim",
+      "source-layer": "power_line",
+      "filter": [
+        "all",
+        [
+          "in",
+          [
+            "get",
+            "power"
+          ],
+          [
+            "literal",
+            [
+              "line",
+              "cable"
+            ]
+          ]
+        ],
+        [
+          "==",
+          [
+            "get",
+            "location"
+          ],
+          "underground"
+        ]
+      ],
+      "paint": {
+        "line-color": "#7A7A85",
+        "line-width": 1,
+        "line-dasharray": [
+          3,
+          2
+        ]
+      }
+    },
+    {
+      "id": "power-plant-coal",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "coal"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjAiIHk9IjAiIHdpZHRoPSIyOC4zNDYiIGhlaWdodD0iMjguMzQ2IiB2aWV3Qm94PSIwLCAwLCAyOC4zNDYsIDI4LjM0NiI+CiAgPGcgaWQ9IkxheWVyXzEiPgogICAgPGc+CiAgICAgIDxwYXRoIGQ9Ik0yLjU3OSwyLjU3OSBMMjYuNzY3LDIuNTc5IEwyNi43NjcsMjYuNzY3IEwyLjU3OSwyNi43NjcgTDIuNTc5LDIuNTc5IHoiIGZpbGw9IiNGRkZGRkYiLz4KICAgICAgPHBhdGggZD0iTTIuNTc5LDIuNTc5IEwyNi43NjcsMi41NzkgTDI2Ljc2NywyNi43NjcgTDIuNTc5LDI2Ljc2NyBMMi41NzksMi41NzkgeiIgZmlsbC1vcGFjaXR5PSIwIiBzdHJva2U9IiMzQjNCM0IiIHN0cm9rZS13aWR0aD0iNCIvPgogICAgPC9nPgogICAgPHBhdGggZD0iTTIuMTg1LDExLjUwNyBMMjYuNzY3LDExLjUwNyIgZmlsbC1vcGFjaXR5PSIwIiBzdHJva2U9IiMzQjNCM0IiIHN0cm9rZS13aWR0aD0iMyIvPgogICAgPHBhdGggZD0iTTIuMTg1LDE2LjgyIEwyNi43NjcsMTYuODIiIGZpbGwtb3BhY2l0eT0iMCIgc3Ryb2tlPSIjM0IzQjNCIiBzdHJva2Utd2lkdGg9IjMiLz4KICA8L2c+Cjwvc3ZnPgo=",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-geothermal",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "geothermal"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-hydro",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "hydro"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-hydroelectric",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "hydroelectric"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-nuclear",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "nuclear"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-oil",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "oil"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-gas",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "gas"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-oilgas",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "oilgas"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-solar",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "solar"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-wind",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "wind"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-biomass",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "biomass"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-waste",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "waste"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-plant-battery",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_plant_point",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "battery"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "plant"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.8,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-generator-wind",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_generator",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "wind"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "generator"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-generator-solar-node",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_generator",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "source"
+          ],
+          "solar"
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "generator"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-generator-other",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_generator",
+      "filter": [
+        "all",
+        [
+          "!in",
+          [
+            "get",
+            "source"
+          ],
+          [
+            "literal",
+            [
+              "wind",
+              "solar"
+            ]
+          ]
+        ],
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "generator"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-support-tower",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_tower",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "tower"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.5,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-support-tower_transition",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_tower",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "tower"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.5,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-support-pole",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_tower",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "pole"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.5,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "power-support-pole_transition",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_tower",
+      "filter": [
+        "all",
+        [
+          "==",
+          [
+            "get",
+            "power"
+          ],
+          "pole"
+        ]
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.5,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-transformer",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_transformer",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-transformer_3windings",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_transformer",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-current_transformer",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_transformer",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-potential_transformer",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_transformer",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-disconnector",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_switch",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-circuit_breaker",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_switch",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-switch",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_switch",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-series_reactor",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_substation_point",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-shunt_reactor",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_substation_point",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-series_capacitor",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_compensator",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-shunt_capacitor",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_compensator",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-filter",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_compensator",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEwMCA4MCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxuczpzZXJpZj0iaHR0cDovL3d3dy5zZXJpZi5jb20vIiBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kO3N0cm9rZS1taXRlcmxpbWl0OjEuNTsiPgogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMS4wNTc0OSwwLDAsMC45NDEzMTksLTIuMDE0NzYsLTcuNTM1NjgpIj4KICAgICAgICA8cmVjdCB4PSI1Ljk0NiIgeT0iMTMuMjMiIHdpZHRoPSI4Ni40ODIiIGhlaWdodD0iNzQuNTM4IiBzdHlsZT0iZmlsbDpyZ2IoMjM1LDIzNSwyMzUpO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6Mi41MnB4OyIvPgogICAgPC9nPgogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMC4xNjU4MDcsMCwwLDAuMzI3ODczLC0yMy40ODk2LC02Mi4yNTAxKSI+CiAgICAgICAgPHBhdGggZD0iTTIyOS45NTcsMzE2Ljc1NUMyMzEuODE2LDMxNS4yNzcgMjMzLjY2OCwzMTMuNzkgMjM1LjUyLDMxMi4zMDNNMjM1LjUyLDMxMi4zMDNDMjQ4LjI4MSwzMDIuMDc5IDI2MS4wNTUsMjkxLjc5NCAyNzQuNzczLDI4Mi44N00yNzQuNzczLDI4Mi44N0MyODYuOTA0LDI3NC45NzggMjk5Ljk0MSwyNjguMDkgMzE0LjAyNywyNjQuNDdNMzE0LjAyNywyNjQuNDdDMzI2Ljg3NywyNjEuMTg2IDM0MC4zNTEsMjYwLjkzOSAzNTMuMjgsMjYzLjk1Nk0zNTMuMjgsMjYzLjk1NkMzNjcuMzQxLDI2Ny4xOTYgMzgwLjQxNSwyNzMuODI5IDM5Mi41MzQsMjgxLjUxOU0zOTIuNTM0LDI4MS41MTlDNDA2LjMwMSwyOTAuMjQ0IDQxOS4wODcsMzAwLjQyNyA0MzEuNzg3LDMxMC42MTlNNDMxLjc4NywzMTAuNjE5QzQ0NC42MDYsMzIwLjg4OCA0NTcuMzcyLDMzMS4yODkgNDcxLjA0MSwzNDAuNDE5TTQ3MS4wNDEsMzQwLjQxOUM0ODMuMTgsMzQ4LjU0NSA0OTYuMTg3LDM1NS43NzIgNTEwLjI5NCwzNTkuODIzTTUxMC4yOTQsMzU5LjgyM0M1MjMuMDQzLDM2My40ODQgNTM2LjUyMiwzNjQuMjQgNTQ5LjU0NywzNjEuNjA1TTU0OS41NDcsMzYxLjYwNUM1NjMuNTcyLDM1OC44MzEgNTc2LjY4NiwzNTIuNTM5IDU4OC44MDEsMzQ1LjEwMk01ODguODAxLDM0NS4xMDJDNjAyLjYxMywzMzYuNjEgNjE1LjQwNCwzMjYuNTcxIDYyOC4wNTQsMzE2LjQ1OE02MjguMDU0LDMxNi40NThDNjM3LjQ3MSwzMDguOTMxIDY0Ni44MzksMzAxLjMzNyA2NTYuNDksMjk0LjExIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MjQuMDZweDtzdHJva2UtbGluZWpvaW46bWl0ZXI7c3Ryb2tlLW1pdGVybGltaXQ6MjsiLz4KICAgIDwvZz4KICAgIDxnIHRyYW5zZm9ybT0ibWF0cml4KDEsMCwwLDEsMy4yNDM3OSwtMTAuNTk5MykiPgogICAgICAgIDxwYXRoIGQ9Ik0yNC4yNTEsNzUuMDAzTDY5LjI2MSwyNi42MiIgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjIuOTJweDsiLz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-compensator",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_compensator",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    },
+    {
+      "id": "switchgear-converter",
+      "type": "symbol",
+      "source": "oim",
+      "source-layer": "power_substation_point",
+      "filter": [
+        "all"
+      ],
+      "layout": {
+        "icon-image": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhRE9DVFlQRSBzdmcgUFVCTElDICItLy9XM0MvL0RURCBTVkcgMS4xLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL0dyYXBoaWNzL1NWRy8xLjEvRFREL3N2ZzExLmR0ZCI+Cjxzdmcgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDI1IDI1IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zOnNlcmlmPSJodHRwOi8vd3d3LnNlcmlmLmNvbS8iIHN0eWxlPSJmaWxsLXJ1bGU6ZXZlbm9kZDtjbGlwLXJ1bGU6ZXZlbm9kZDsiPgogICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwwLjUsMC4zMTM4MTQpIj4KICAgICAgICA8ZyBpZD0iTGF5ZXJfMSI+CiAgICAgICAgICAgIDxnPgogICAgICAgICAgICAgICAgPGcgdHJhbnNmb3JtPSJtYXRyaXgoMSwwLDAsMSwtMC41LC0wLjI4NDMxNCkiPgogICAgICAgICAgICAgICAgICAgIDxwYXRoIGQ9Ik0xMi41LDIzLjUyOUM2LjM3NywyMy41MjkgMS40MTMsMTguNTc4IDEuNDEzLDEyLjQ3MUMxLjQxMyw2LjM2MyA2LjM3NywxLjQxMiAxMi41LDEuNDEyQzE4LjYyMywxLjQxMiAyMy41ODcsNi4zNjMgMjMuNTg3LDEyLjQ3MUMyMy41ODcsMTguNTc4IDE4LjYyMywyMy41MjkgMTIuNSwyMy41MjlaIiBzdHlsZT0iZmlsbDp3aGl0ZTtmaWxsLXJ1bGU6bm9uemVybzsiLz4KICAgICAgICAgICAgICAgICAgICA8cGF0aCBkPSJNMTIuNSwyMy41MjlDNi4zNzcsMjMuNTI5IDEuNDEzLDE4LjU3OCAxLjQxMywxMi40NzFDMS40MTMsNi4zNjMgNi4zNzcsMS40MTIgMTIuNSwxLjQxMkMxOC42MjMsMS40MTIgMjMuNTg3LDYuMzYzIDIzLjU4NywxMi40NzFDMjMuNTg3LDE4LjU3OCAxOC42MjMsMjMuNTI5IDEyLjUsMjMuNTI5WiIgc3R5bGU9ImZpbGwtb3BhY2l0eTowO2ZpbGwtcnVsZTpub256ZXJvO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MS44cHg7Ii8+CiAgICAgICAgICAgICAgICA8L2c+CiAgICAgICAgICAgICAgICA8cGF0aCBkPSJNNC4wNzgsMjAuODg2TDIwLjg0OCw0LjA1NiIgc3R5bGU9ImZpbGw6bm9uZTtmaWxsLXJ1bGU6bm9uemVybztzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjAuNzJweDsiLz4KICAgICAgICAgICAgPC9nPgogICAgICAgIDwvZz4KICAgIDwvZz4KPC9zdmc+Cg==",
+        "icon-size": 0.6,
+        "icon-allow-overlap": true
+      }
+    }
+  ]
+}

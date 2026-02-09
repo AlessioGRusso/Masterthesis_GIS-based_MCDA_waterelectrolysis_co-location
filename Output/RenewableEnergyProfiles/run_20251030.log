@@ -1,0 +1,83 @@
+2025-10-30T22:49:58 ======================================================
+2025-10-30T22:49:58 Start • Sites: 305 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-10-30T22:49:58 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-10-30T22:49:58 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-10-30T22:49:58 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-10-30T22:49:58 ======================================================
+2025-10-30T22:49:58 [1/305] ARA_AWV_Schwechat PV fehlt/inkomplett -> lade … (PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv)
+2025-10-30T22:49:58   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-10-30T22:50:01   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-10-30T22:50:03   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-10-30T22:50:05   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-10-30T22:50:07   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-10-30T22:50:09   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-10-30T22:50:12   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-10-30T22:50:14   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-10-30T22:50:16   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-10-30T22:50:18   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-10-30T22:50:20 [1/305] ARA_AWV_Schwechat Wind fehlt/inkomplett -> lade … (Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-10-30T22:50:20   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-10-30T22:50:22   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-10-30T22:50:23   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-10-30T22:50:24   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-10-30T22:50:26   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-10-30T22:50:27   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-10-30T22:50:28   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-10-30T22:50:30   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-10-30T22:50:31   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-10-30T22:50:33   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-10-30T22:50:34 [1/305] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-10-30T22:50:34 [2/305] Asten_-_Regionalkläranlage PV fehlt/inkomplett -> lade … (PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv)
+2025-10-30T22:50:34   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-10-30T22:50:36   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-10-30T22:50:38   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-10-30T22:50:40   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-10-30T22:50:42   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-10-30T22:50:44   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-10-30T22:50:46   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-10-30T22:50:48   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-10-30T22:50:50   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-10-30T22:50:52   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-10-30T22:50:54 [2/305] Asten_-_Regionalkläranlage Wind fehlt/inkomplett -> lade … (Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-10-30T22:50:54   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-10-30T22:50:55   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-10-30T22:50:56   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-10-30T22:50:57   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-10-30T22:50:58   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-10-30T22:50:59   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-10-30T22:51:00   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-10-30T22:51:24 ======================================================
+2025-10-30T22:51:24 Start • Sites: 305 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-10-30T22:51:24 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-10-30T22:51:24 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-10-30T22:51:24 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-10-30T22:51:24 ======================================================
+2025-10-30T22:51:24 [1/305] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-10-30T22:51:24 [2/305] Asten_-_Regionalkläranlage Wind fehlt/inkomplett -> lade … (Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-10-30T22:51:24   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-10-30T22:51:25   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-10-30T22:51:26   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-10-30T22:51:27   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-10-30T22:51:29 ======================================================
+2025-10-30T22:51:29 FEHLER – Asten_-_Regionalkläranlage (48.23665,14.41223): Wind-Datei bleibt inkorrekt: Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv
+2025-10-30T22:51:29 Abbruch. Neustart setzt Downloads fort; bereits vollständige Dateien werden übersprungen.
+2025-10-30T22:51:29 ======================================================
+2025-10-30T22:52:00 ======================================================
+2025-10-30T22:52:00 Start • Sites: 305 • Zeitraum: 2015-01-01→2024-12-31 (Auto-Chunking ≤1Y)
+2025-10-30T22:52:00 Limiter: 1.0 req/s & 50 req/h (sichtbar)
+2025-10-30T22:52:00 Excel: C:\Users\aless\PycharmProjects\Masterthesis\Output\UWWTD_TP_Database.xlsx | Sheets: 'General Data' -> 'Energy'
+2025-10-30T22:52:00 Ausgabe: C:\Users\aless\PycharmProjects\Masterthesis\Output\RenewableEnergyProfiles (stabile Dateinamen, keine Doppel-Downloads)
+2025-10-30T22:52:00 ======================================================
+2025-10-30T22:52:00 [1/305] ARA_AWV_Schwechat | PV:COMPLETE -> PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv | WND:COMPLETE -> Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv
+2025-10-30T22:52:01 [2/305] Asten_-_Regionalkläranlage Wind fehlt/inkomplett -> lade … (Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv)
+2025-10-30T22:52:01   -> Chunk 1/10: 2015-01-01..2015-12-31
+2025-10-30T22:52:02   -> Chunk 2/10: 2016-01-01..2016-12-31
+2025-10-30T22:52:03   -> Chunk 3/10: 2017-01-01..2017-12-31
+2025-10-30T22:52:04   -> Chunk 4/10: 2018-01-01..2018-12-31
+2025-10-30T22:52:05   -> Chunk 5/10: 2019-01-01..2019-12-31
+2025-10-30T22:52:06   -> Chunk 6/10: 2020-01-01..2020-12-31
+2025-10-30T22:52:07   -> Chunk 7/10: 2021-01-01..2021-12-31
+2025-10-30T22:52:08   -> Chunk 8/10: 2022-01-01..2022-12-31
+2025-10-30T22:52:09   -> Chunk 9/10: 2023-01-01..2023-12-31
+2025-10-30T22:52:10   -> Chunk 10/10: 2024-01-01..2024-12-31
+2025-10-30T22:52:10   !! 429 Too Many Requests – warte 3469s (Retry-After=3469)

@@ -1,0 +1,3402 @@
+{
+  "cb80a70082::pv::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARA_AWV_Schwechat_20251022.csv",
+    "chunks": 10
+  },
+  "cb80a70082::wind::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARA_AWV_Schwechat_20251022.csv",
+    "chunks": 10
+  },
+  "ff9fe704aa::pv::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Asten_-_Regionalkläranlage_20251022.csv",
+    "chunks": 10
+  },
+  "ff9fe704aa::wind::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Asten_-_Regionalkläranlage_20251022.csv",
+    "chunks": 10
+  },
+  "3bec4090b1::pv::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARA_Siggerwiesen_20251023.csv",
+    "chunks": 10
+  },
+  "3bec4090b1::wind::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARA_Siggerwiesen_20251023.csv",
+    "chunks": 10
+  },
+  "98f0ecfbfb::pv::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Graz-Gössendorf_20251023.csv",
+    "chunks": 10
+  },
+  "98f0ecfbfb::wind::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Graz-Gössendorf_20251023.csv",
+    "chunks": 10
+  },
+  "be6c2395f4::pv::2015-01-01::2024-12-31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Gratkorn_20251023.csv",
+    "chunks": 10
+  },
+  "be6c2395f4::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "aadc978ce6::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "aadc978ce6::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "a6b7d03135::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "a6b7d03135::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "79014c4313::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "79014c4313::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "043d4fa06c::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "043d4fa06c::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "02acf52985::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "02acf52985::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "8285e70cbf::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "8285e70cbf::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "b2a85e5b94::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "b2a85e5b94::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "1fbe433306::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "1fbe433306::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "d5d94aa47d::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "d5d94aa47d::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "c5028629b4::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "c5028629b4::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "158f86ba26::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "158f86ba26::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "42bfc43f03::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "42bfc43f03::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "fcd36162bf::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "fcd36162bf::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "a74384b183::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "a74384b183::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "b1f5b086da::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "b1f5b086da::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "6ffb25c9f5::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "6ffb25c9f5::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "55d3bcfb54::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "55d3bcfb54::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "a85b79cce5::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "a85b79cce5::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "1f5c7682f3::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "1f5c7682f3::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "579dacedb4::pv::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "579dacedb4::wind::2015-01-01::2024-12-31": {
+    "status": "failed",
+    "code": 400,
+    "response_head": "Error: ['Unrecognized parameters: metadata']"
+  },
+  "ARA_AWV_Schwechat::pv::2015-01-01::2024-12-31::d96d7cca0e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARA_AWV_Schwechat_20150101-20241231_merra2_d96d7cca0e.csv",
+    "chunks": 10
+  },
+  "ARA_AWV_Schwechat::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARA_AWV_Schwechat_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Asten_-_Regionalkläranlage::pv::2015-01-01::2024-12-31::a44fae4635": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a44fae4635.csv",
+    "chunks": 10
+  },
+  "Asten_-_Regionalkläranlage::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Asten_-_Regionalkläranlage_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARA_Siggerwiesen::pv::2015-01-01::2024-12-31::365d0c7928": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARA_Siggerwiesen_20150101-20241231_merra2_365d0c7928.csv",
+    "chunks": 10
+  },
+  "ARA_Siggerwiesen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARA_Siggerwiesen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Graz-Gössendorf::pv::2015-01-01::2024-12-31::6639b0113f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Graz-Gössendorf_20150101-20241231_merra2_6639b0113f.csv",
+    "chunks": 10
+  },
+  "Graz-Gössendorf::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Graz-Gössendorf_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Gratkorn::pv::2015-01-01::2024-12-31::b30f8f1e31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Gratkorn_20150101-20241231_merra2_b30f8f1e31.csv",
+    "chunks": 10
+  },
+  "Gratkorn::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Gratkorn_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Innsbruck::pv::2015-01-01::2024-12-31::7db14877e1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Innsbruck_20150101-20241231_merra2_7db14877e1.csv",
+    "chunks": 10
+  },
+  "Innsbruck::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Innsbruck_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Meiningen::pv::2015-01-01::2024-12-31::7db14877e1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Meiningen_20150101-20241231_merra2_7db14877e1.csv",
+    "chunks": 10
+  },
+  "Meiningen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Meiningen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Hauptkläranlage_Wien::pv::2015-01-01::2024-12-31::a44fae4635": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Hauptkläranlage_Wien_20150101-20241231_merra2_a44fae4635.csv",
+    "chunks": 10
+  },
+  "Hauptkläranlage_Wien::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Hauptkläranlage_Wien_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Bruxelles-nord::pv::2015-01-01::2024-12-31::aa131a78fd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Bruxelles-nord_20150101-20241231_merra2_aa131a78fd.csv",
+    "chunks": 10
+  },
+  "Bruxelles-nord::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Bruxelles-nord_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LIEGE_OUPEYE::pv::2015-01-01::2024-12-31::5f797a9ee1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LIEGE_OUPEYE_20150101-20241231_merra2_5f797a9ee1.csv",
+    "chunks": 10
+  },
+  "LIEGE_OUPEYE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LIEGE_OUPEYE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_Burgas::pv::2015-01-01::2024-12-31::afebd23a41": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_Burgas_20150101-20241231_merra2_afebd23a41.csv",
+    "chunks": 10
+  },
+  "UWWTP_Burgas::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_Burgas_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_Varna::pv::2015-01-01::2024-12-31::7ea3568ef5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_Varna_20150101-20241231_merra2_7ea3568ef5.csv",
+    "chunks": 10
+  },
+  "UWWTP_Varna::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_Varna_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_Plovdiv::pv::2015-01-01::2024-12-31::ceccdc6c04": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_Plovdiv_20150101-20241231_merra2_ceccdc6c04.csv",
+    "chunks": 10
+  },
+  "UWWTP_Plovdiv::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_Plovdiv_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_Sofia::pv::2015-01-01::2024-12-31::4f434c11f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_Sofia_20150101-20241231_merra2_4f434c11f1.csv",
+    "chunks": 10
+  },
+  "UWWTP_Sofia::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_Sofia_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UCOV_Praha::pv::2015-01-01::2024-12-31::dff9f75620": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UCOV_Praha_20150101-20241231_merra2_dff9f75620.csv",
+    "chunks": 10
+  },
+  "UCOV_Praha::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UCOV_Praha_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "COV_Plzen::pv::2015-01-01::2024-12-31::45a48e10c0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_COV_Plzen_20150101-20241231_merra2_45a48e10c0.csv",
+    "chunks": 10
+  },
+  "COV_Plzen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_COV_Plzen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "COV_Steti_-Papirny_Mondi::pv::2015-01-01::2024-12-31::70c8be051e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_70c8be051e.csv",
+    "chunks": 10
+  },
+  "COV_Steti_-Papirny_Mondi::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_COV_Steti_-Papirny_Mondi_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "COV_Brno_-_Modrice::pv::2015-01-01::2024-12-31::518e9398da": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_COV_Brno_-_Modrice_20150101-20241231_merra2_518e9398da.csv",
+    "chunks": 10
+  },
+  "COV_Brno_-_Modrice::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_COV_Brno_-_Modrice_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UCOV_Ostrava_-_Privoz::pv::2015-01-01::2024-12-31::91eb67cd10": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_91eb67cd10.csv",
+    "chunks": 10
+  },
+  "UCOV_Ostrava_-_Privoz::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UCOV_Ostrava_-_Privoz_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Stahnsdorf::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Stahnsdorf_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "Stahnsdorf::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Stahnsdorf_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Ruhleben::pv::2015-01-01::2024-12-31::a8652e5125": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Ruhleben_20150101-20241231_merra2_a8652e5125.csv",
+    "chunks": 10
+  },
+  "Ruhleben::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Ruhleben_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Schönerlinde::pv::2015-01-01::2024-12-31::05f5cdfd03": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Schönerlinde_20150101-20241231_merra2_05f5cdfd03.csv",
+    "chunks": 10
+  },
+  "Schönerlinde::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Schönerlinde_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Waßmannsdorf::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Waßmannsdorf_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "Waßmannsdorf::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Waßmannsdorf_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Hauptklärwerk_Mühlhausen::pv::2015-01-01::2024-12-31::c6311ba2b1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_c6311ba2b1.csv",
+    "chunks": 10
+  },
+  "Hauptklärwerk_Mühlhausen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Hauptklärwerk_Mühlhausen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Göppingen::pv::2015-01-01::2024-12-31::d7147aef93": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Göppingen_20150101-20241231_merra2_d7147aef93.csv",
+    "chunks": 10
+  },
+  "Göppingen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Göppingen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SKA_Heilbronn::pv::2015-01-01::2024-12-31::fe09ef0dd2": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SKA_Heilbronn_20150101-20241231_merra2_fe09ef0dd2.csv",
+    "chunks": 10
+  },
+  "SKA_Heilbronn::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SKA_Heilbronn_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SKA_Karlsruhe_Neureut::pv::2015-01-01::2024-12-31::c2d7a3cf3a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_c2d7a3cf3a.csv",
+    "chunks": 10
+  },
+  "SKA_Karlsruhe_Neureut::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SKA_Karlsruhe_Neureut_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SKA_AZV_Heidelberg::pv::2015-01-01::2024-12-31::cd3819f6b5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SKA_AZV_Heidelberg_20150101-20241231_merra2_cd3819f6b5.csv",
+    "chunks": 10
+  },
+  "SKA_AZV_Heidelberg::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SKA_AZV_Heidelberg_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kläranlage_Mannheim::pv::2015-01-01::2024-12-31::09bc10e962": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kläranlage_Mannheim_20150101-20241231_merra2_09bc10e962.csv",
+    "chunks": 10
+  },
+  "Kläranlage_Mannheim::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kläranlage_Mannheim_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM::pv::2015-01-01::2024-12-31::a44fae4635": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a44fae4635.csv",
+    "chunks": 10
+  },
+  "SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SKA_AZV_BREISGAUER_BUCHT_-_KA_FORCHHEIM_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Würzburg::pv::2015-01-01::2024-12-31::45a48e10c0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Würzburg_20150101-20241231_merra2_45a48e10c0.csv",
+    "chunks": 10
+  },
+  "Würzburg::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Würzburg_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Augsburg::pv::2015-01-01::2024-12-31::116c94f817": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Augsburg_20150101-20241231_merra2_116c94f817.csv",
+    "chunks": 10
+  },
+  "Augsburg::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Augsburg_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Zweckverband_Klärwerk_Steinhäule::pv::2015-01-01::2024-12-31::116c94f817": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_116c94f817.csv",
+    "chunks": 10
+  },
+  "Zweckverband_Klärwerk_Steinhäule::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Zweckverband_Klärwerk_Steinhäule_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "München_II_-_Gut_Marienhof::pv::2015-01-01::2024-12-31::24c702f0f6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_München_II_-_Gut_Marienhof_20150101-20241231_merra2_24c702f0f6.csv",
+    "chunks": 10
+  },
+  "München_II_-_Gut_Marienhof::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_München_II_-_Gut_Marienhof_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "AZV_Erdinger_Moos::pv::2015-01-01::2024-12-31::116c94f817": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_AZV_Erdinger_Moos_20150101-20241231_merra2_116c94f817.csv",
+    "chunks": 10
+  },
+  "AZV_Erdinger_Moos::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_AZV_Erdinger_Moos_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Erlangen::pv::2015-01-01::2024-12-31::09bc10e962": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Erlangen_20150101-20241231_merra2_09bc10e962.csv",
+    "chunks": 10
+  },
+  "Erlangen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Erlangen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Nürnberg_I::pv::2015-01-01::2024-12-31::6d3c9cd668": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Nürnberg_I_20150101-20241231_merra2_6d3c9cd668.csv",
+    "chunks": 10
+  },
+  "Nürnberg_I::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Nürnberg_I_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rosenheim::pv::2015-01-01::2024-12-31::365d0c7928": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rosenheim_20150101-20241231_merra2_365d0c7928.csv",
+    "chunks": 10
+  },
+  "Rosenheim::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rosenheim_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kläranlage_Seehausen::pv::2015-01-01::2024-12-31::e8d919f64a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kläranlage_Seehausen_20150101-20241231_merra2_e8d919f64a.csv",
+    "chunks": 10
+  },
+  "Kläranlage_Seehausen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kläranlage_Seehausen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Frankfurt_am_Main_Sindlingen::pv::2015-01-01::2024-12-31::dff9f75620": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_dff9f75620.csv",
+    "chunks": 10
+  },
+  "Frankfurt_am_Main_Sindlingen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Frankfurt_am_Main_Sindlingen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Frankfurt_am_Main_Niederrad_Griesheim::pv::2015-01-01::2024-12-31::dff9f75620": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_dff9f75620.csv",
+    "chunks": 10
+  },
+  "Frankfurt_am_Main_Niederrad_Griesheim::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Frankfurt_am_Main_Niederrad_Griesheim_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Wiesbaden_Mitte::pv::2015-01-01::2024-12-31::dff9f75620": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Wiesbaden_Mitte_20150101-20241231_merra2_dff9f75620.csv",
+    "chunks": 10
+  },
+  "Wiesbaden_Mitte::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Wiesbaden_Mitte_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Klärwerksverbund_Köhlbrandhöft_Dradenau::pv::2015-01-01::2024-12-31::1005c77946": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_1005c77946.csv",
+    "chunks": 10
+  },
+  "Klärwerksverbund_Köhlbrandhöft_Dradenau::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Klärwerksverbund_Köhlbrandhöft_Dradenau_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "2530002102_KA_Herrenhausen::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_2530002102_KA_Herrenhausen_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "2530002102_KA_Herrenhausen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_2530002102_KA_Herrenhausen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "2530142095_KA_Gümmerwald::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_2530142095_KA_Gümmerwald_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "2530142095_KA_Gümmerwald::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_2530142095_KA_Gümmerwald_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "2550232001_KA_Holzminden::pv::2015-01-01::2024-12-31::466aadda05": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_2550232001_KA_Holzminden_20150101-20241231_merra2_466aadda05.csv",
+    "chunks": 10
+  },
+  "2550232001_KA_Holzminden::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_2550232001_KA_Holzminden_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "3520112001_KA_Cuxhaven::pv::2015-01-01::2024-12-31::f2393b5c8e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_3520112001_KA_Cuxhaven_20150101-20241231_merra2_f2393b5c8e.csv",
+    "chunks": 10
+  },
+  "3520112001_KA_Cuxhaven::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_3520112001_KA_Cuxhaven_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Aachen-Soers::pv::2015-01-01::2024-12-31::e8b4962e34": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Aachen-Soers_20150101-20241231_merra2_e8b4962e34.csv",
+    "chunks": 10
+  },
+  "Aachen-Soers::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Aachen-Soers_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dortmund-Deusen::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dortmund-Deusen_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "Dortmund-Deusen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dortmund-Deusen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Bottrop::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Bottrop_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "Bottrop::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Bottrop_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Köln_Stammheim::pv::2015-01-01::2024-12-31::567b6ddef7": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Köln_Stammheim_20150101-20241231_merra2_567b6ddef7.csv",
+    "chunks": 10
+  },
+  "Köln_Stammheim::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Köln_Stammheim_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Düsseldorf-Nord::pv::2015-01-01::2024-12-31::43b14af904": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Düsseldorf-Nord_20150101-20241231_merra2_43b14af904.csv",
+    "chunks": 10
+  },
+  "Düsseldorf-Nord::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Düsseldorf-Nord_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Krefeld::pv::2015-01-01::2024-12-31::68f935552f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Krefeld_20150101-20241231_merra2_68f935552f.csv",
+    "chunks": 10
+  },
+  "Krefeld::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Krefeld_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Mönchengladbach_GWK_I::pv::2015-01-01::2024-12-31::664b044967": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Mönchengladbach_GWK_I_20150101-20241231_merra2_664b044967.csv",
+    "chunks": 10
+  },
+  "Mönchengladbach_GWK_I::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Mönchengladbach_GWK_I_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Neuss-Ost::pv::2015-01-01::2024-12-31::664b044967": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Neuss-Ost_20150101-20241231_merra2_664b044967.csv",
+    "chunks": 10
+  },
+  "Neuss-Ost::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Neuss-Ost_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Münster-Hauptkläranlage::pv::2015-01-01::2024-12-31::60b618a189": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Münster-Hauptkläranlage_20150101-20241231_merra2_60b618a189.csv",
+    "chunks": 10
+  },
+  "Münster-Hauptkläranlage::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Münster-Hauptkläranlage_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Abwasserverband_Obere_Lutter::pv::2015-01-01::2024-12-31::3644c1cbba": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_3644c1cbba.csv",
+    "chunks": 10
+  },
+  "Abwasserverband_Obere_Lutter::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Abwasserverband_Obere_Lutter_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Düren::pv::2015-01-01::2024-12-31::e8b4962e34": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Düren_20150101-20241231_merra2_e8b4962e34.csv",
+    "chunks": 10
+  },
+  "Düren::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Düren_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Paderborn_Sande::pv::2015-01-01::2024-12-31::0fc64b1b27": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Paderborn_Sande_20150101-20241231_merra2_0fc64b1b27.csv",
+    "chunks": 10
+  },
+  "Paderborn_Sande::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Paderborn_Sande_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Düsseldorf-Süd::pv::2015-01-01::2024-12-31::664b044967": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Düsseldorf-Süd_20150101-20241231_merra2_664b044967.csv",
+    "chunks": 10
+  },
+  "Düsseldorf-Süd::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Düsseldorf-Süd_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Wuppertal-Buchenhofen::pv::2015-01-01::2024-12-31::664b044967": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Wuppertal-Buchenhofen_20150101-20241231_merra2_664b044967.csv",
+    "chunks": 10
+  },
+  "Wuppertal-Buchenhofen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Wuppertal-Buchenhofen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Duisburg-Kaßlerfeld::pv::2015-01-01::2024-12-31::68f935552f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Duisburg-Kaßlerfeld_20150101-20241231_merra2_68f935552f.csv",
+    "chunks": 10
+  },
+  "Duisburg-Kaßlerfeld::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Duisburg-Kaßlerfeld_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Emscherkläranlage::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Emscherkläranlage_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "Emscherkläranlage::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Emscherkläranlage_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Duisburg-Alte_Emscher::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Duisburg-Alte_Emscher_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "Duisburg-Alte_Emscher::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Duisburg-Alte_Emscher_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Koblenz::pv::2015-01-01::2024-12-31::92f73bd59e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Koblenz_20150101-20241231_merra2_92f73bd59e.csv",
+    "chunks": 10
+  },
+  "Koblenz::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Koblenz_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Mainz::pv::2015-01-01::2024-12-31::4c80d0bb5f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Mainz_20150101-20241231_merra2_4c80d0bb5f.csv",
+    "chunks": 10
+  },
+  "Mainz::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Mainz_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Trier_Hauptklärwerk::pv::2015-01-01::2024-12-31::45a48e10c0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Trier_Hauptklärwerk_20150101-20241231_merra2_45a48e10c0.csv",
+    "chunks": 10
+  },
+  "Trier_Hauptklärwerk::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Trier_Hauptklärwerk_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Hetlingen::pv::2015-01-01::2024-12-31::90cf341c59": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Hetlingen_20150101-20241231_merra2_90cf341c59.csv",
+    "chunks": 10
+  },
+  "Hetlingen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Hetlingen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Neumünster::pv::2015-01-01::2024-12-31::3e394c49d7": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Neumünster_20150101-20241231_merra2_3e394c49d7.csv",
+    "chunks": 10
+  },
+  "Neumünster::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Neumünster_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Bitterfeld-Wolfen::pv::2015-01-01::2024-12-31::0fc64b1b27": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Bitterfeld-Wolfen_20150101-20241231_merra2_0fc64b1b27.csv",
+    "chunks": 10
+  },
+  "Bitterfeld-Wolfen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Bitterfeld-Wolfen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Halle-Nord::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Halle-Nord_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "Halle-Nord::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Halle-Nord_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Schkopau::pv::2015-01-01::2024-12-31::68f935552f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Schkopau_20150101-20241231_merra2_68f935552f.csv",
+    "chunks": 10
+  },
+  "Schkopau::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Schkopau_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MD-Gerwisch::pv::2015-01-01::2024-12-31::5d989c5281": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MD-Gerwisch_20150101-20241231_merra2_5d989c5281.csv",
+    "chunks": 10
+  },
+  "MD-Gerwisch::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MD-Gerwisch_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Lynetten::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Lynetten_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Lynetten::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Lynetten_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Damhusåen::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Damhusåen_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Damhusåen::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Damhusåen_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SPILDEVANDSCENTER_AVEDØRE::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SPILDEVANDSCENTER_AVEDØRE_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "SPILDEVANDSCENTER_AVEDØRE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SPILDEVANDSCENTER_AVEDØRE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "EJBY_MØLLE_RENSEANLÆG::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_EJBY_MØLLE_RENSEANLÆG_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "EJBY_MØLLE_RENSEANLÆG::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_EJBY_MØLLE_RENSEANLÆG_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "FREDERICIA_CENTRALRENS::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_FREDERICIA_CENTRALRENS_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "FREDERICIA_CENTRALRENS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_FREDERICIA_CENTRALRENS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kohtla-Järve_regionaalne_reoveepuhasti::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kohtla-Järve_regionaalne_reoveepuhasti_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Kohtla-Järve_regionaalne_reoveepuhasti::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kohtla-Järve_regionaalne_reoveepuhasti_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Tallinna_reoveepuhastusjaam::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Tallinna_reoveepuhastusjaam_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Tallinna_reoveepuhastusjaam::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Tallinna_reoveepuhastusjaam_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "THESSALONIKI::pv::2015-01-01::2024-12-31::b45483d2b5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_THESSALONIKI_20150101-20241231_merra2_b45483d2b5.csv",
+    "chunks": 10
+  },
+  "THESSALONIKI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_THESSALONIKI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PSYTTALIA::pv::2015-01-01::2024-12-31::4704d624de": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PSYTTALIA_20150101-20241231_merra2_4704d624de.csv",
+    "chunks": 10
+  },
+  "PSYTTALIA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PSYTTALIA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "METAMORPHOSI::pv::2015-01-01::2024-12-31::ace8fefad0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_METAMORPHOSI_20150101-20241231_merra2_ace8fefad0.csv",
+    "chunks": 10
+  },
+  "METAMORPHOSI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_METAMORPHOSI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MONTE_ORGEGIA::pv::2015-01-01::2024-12-31::d84a23d990": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MONTE_ORGEGIA_20150101-20241231_merra2_d84a23d990.csv",
+    "chunks": 10
+  },
+  "MONTE_ORGEGIA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MONTE_ORGEGIA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "RINCON_DE_LEON::pv::2015-01-01::2024-12-31::e524009726": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_RINCON_DE_LEON_20150101-20241231_merra2_e524009726.csv",
+    "chunks": 10
+  },
+  "RINCON_DE_LEON::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_RINCON_DE_LEON_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ELX_-_ALGOROS::pv::2015-01-01::2024-12-31::14dc923e90": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ELX_-_ALGOROS_20150101-20241231_merra2_14dc923e90.csv",
+    "chunks": 10
+  },
+  "ELX_-_ALGOROS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ELX_-_ALGOROS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "EL_BOBAR::pv::2015-01-01::2024-12-31::6f2c0c9d85": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_EL_BOBAR_20150101-20241231_merra2_6f2c0c9d85.csv",
+    "chunks": 10
+  },
+  "EL_BOBAR::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_EL_BOBAR_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "QUART_-_BENAGER::pv::2015-01-01::2024-12-31::1638ed9587": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_QUART_-_BENAGER_20150101-20241231_merra2_1638ed9587.csv",
+    "chunks": 10
+  },
+  "QUART_-_BENAGER::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_QUART_-_BENAGER_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PINEDO_1::pv::2015-01-01::2024-12-31::75de5946c6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PINEDO_1_20150101-20241231_merra2_75de5946c6.csv",
+    "chunks": 10
+  },
+  "PINEDO_1::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PINEDO_1_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PINEDO_2::pv::2015-01-01::2024-12-31::75de5946c6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PINEDO_2_20150101-20241231_merra2_75de5946c6.csv",
+    "chunks": 10
+  },
+  "PINEDO_2::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PINEDO_2_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "GUADALETE::pv::2015-01-01::2024-12-31::8f4abb1405": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_GUADALETE_20150101-20241231_merra2_8f4abb1405.csv",
+    "chunks": 10
+  },
+  "GUADALETE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_GUADALETE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LA_GOLONDRINA::pv::2015-01-01::2024-12-31::7c200b6f8d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LA_GOLONDRINA_20150101-20241231_merra2_7c200b6f8d.csv",
+    "chunks": 10
+  },
+  "LA_GOLONDRINA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LA_GOLONDRINA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "GRANADA_SUR::pv::2015-01-01::2024-12-31::e3f4f3c7e0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_GRANADA_SUR_20150101-20241231_merra2_e3f4f3c7e0.csv",
+    "chunks": 10
+  },
+  "GRANADA_SUR::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_GRANADA_SUR_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "HUELVA::pv::2015-01-01::2024-12-31::e3f4f3c7e0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_HUELVA_20150101-20241231_merra2_e3f4f3c7e0.csv",
+    "chunks": 10
+  },
+  "HUELVA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_HUELVA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BENS_A_CORUÑA::pv::2015-01-01::2024-12-31::164424b95e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BENS_A_CORUÑA_20150101-20241231_merra2_164424b95e.csv",
+    "chunks": 10
+  },
+  "BENS_A_CORUÑA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BENS_A_CORUÑA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "FUENGIROLA::pv::2015-01-01::2024-12-31::1a652f8e58": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_FUENGIROLA_20150101-20241231_merra2_1a652f8e58.csv",
+    "chunks": 10
+  },
+  "FUENGIROLA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_FUENGIROLA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "GUADALHORCE::pv::2015-01-01::2024-12-31::b99774a27d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_GUADALHORCE_20150101-20241231_merra2_b99774a27d.csv",
+    "chunks": 10
+  },
+  "GUADALHORCE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_GUADALHORCE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SUR::pv::2015-01-01::2024-12-31::d7cf0631f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SUR_20150101-20241231_merra2_d7cf0631f1.csv",
+    "chunks": 10
+  },
+  "SUR::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SUR_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LA_CHINA::pv::2015-01-01::2024-12-31::d7cf0631f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LA_CHINA_20150101-20241231_merra2_d7cf0631f1.csv",
+    "chunks": 10
+  },
+  "LA_CHINA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LA_CHINA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BUTARQUE::pv::2015-01-01::2024-12-31::d7cf0631f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BUTARQUE_20150101-20241231_merra2_d7cf0631f1.csv",
+    "chunks": 10
+  },
+  "BUTARQUE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BUTARQUE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "VIVEROS_DE_LA_VILLA::pv::2015-01-01::2024-12-31::8c2730ad5a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_VIVEROS_DE_LA_VILLA_20150101-20241231_merra2_8c2730ad5a.csv",
+    "chunks": 10
+  },
+  "VIVEROS_DE_LA_VILLA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_VIVEROS_DE_LA_VILLA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "REJAS::pv::2015-01-01::2024-12-31::8c2730ad5a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_REJAS_20150101-20241231_merra2_8c2730ad5a.csv",
+    "chunks": 10
+  },
+  "REJAS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_REJAS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LA_GAVIA::pv::2015-01-01::2024-12-31::8cc87e4acd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LA_GAVIA_20150101-20241231_merra2_8cc87e4acd.csv",
+    "chunks": 10
+  },
+  "LA_GAVIA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LA_GAVIA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARROYO_CULEBRO_CUENCA_MEDIA_ALTA::pv::2015-01-01::2024-12-31::d7cf0631f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARROYO_CULEBRO_CUENCA_MEDIA_ALTA_20150101-20241231_merra2_d7cf0631f1.csv",
+    "chunks": 10
+  },
+  "ARROYO_CULEBRO_CUENCA_MEDIA_ALTA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARROYO_CULEBRO_CUENCA_MEDIA_ALTA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARROYO_CULEBRO_CUENCA_BAJA::pv::2015-01-01::2024-12-31::d7cf0631f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARROYO_CULEBRO_CUENCA_BAJA_20150101-20241231_merra2_d7cf0631f1.csv",
+    "chunks": 10
+  },
+  "ARROYO_CULEBRO_CUENCA_BAJA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARROYO_CULEBRO_CUENCA_BAJA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARROYO_DEL_SOTO::pv::2015-01-01::2024-12-31::d7cf0631f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARROYO_DEL_SOTO_20150101-20241231_merra2_d7cf0631f1.csv",
+    "chunks": 10
+  },
+  "ARROYO_DEL_SOTO::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARROYO_DEL_SOTO_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARROYO_DE_LA_VEGA::pv::2015-01-01::2024-12-31::8c2730ad5a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARROYO_DE_LA_VEGA_20150101-20241231_merra2_8c2730ad5a.csv",
+    "chunks": 10
+  },
+  "ARROYO_DE_LA_VEGA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARROYO_DE_LA_VEGA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TORREJÓN_DE_ARDOZ::pv::2015-01-01::2024-12-31::8cc87e4acd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TORREJÓN_DE_ARDOZ_20150101-20241231_merra2_8cc87e4acd.csv",
+    "chunks": 10
+  },
+  "TORREJÓN_DE_ARDOZ::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TORREJÓN_DE_ARDOZ_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PALOMARES::pv::2015-01-01::2024-12-31::a5b06fb063": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PALOMARES_20150101-20241231_merra2_a5b06fb063.csv",
+    "chunks": 10
+  },
+  "PALOMARES::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PALOMARES_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "COPERO::pv::2015-01-01::2024-12-31::a5b06fb063": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_COPERO_20150101-20241231_merra2_a5b06fb063.csv",
+    "chunks": 10
+  },
+  "COPERO::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_COPERO_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LA_RANILLA::pv::2015-01-01::2024-12-31::b1a083edd6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LA_RANILLA_20150101-20241231_merra2_b1a083edd6.csv",
+    "chunks": 10
+  },
+  "LA_RANILLA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LA_RANILLA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SAN_JERONIMO::pv::2015-01-01::2024-12-31::b1a083edd6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SAN_JERONIMO_20150101-20241231_merra2_b1a083edd6.csv",
+    "chunks": 10
+  },
+  "SAN_JERONIMO::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SAN_JERONIMO_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "CARTAGENA_CABEZO_BEAZA::pv::2015-01-01::2024-12-31::67d63df8fd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_CARTAGENA_CABEZO_BEAZA_20150101-20241231_merra2_67d63df8fd.csv",
+    "chunks": 10
+  },
+  "CARTAGENA_CABEZO_BEAZA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_CARTAGENA_CABEZO_BEAZA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MAR_MENOR_SUR::pv::2015-01-01::2024-12-31::67d63df8fd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MAR_MENOR_SUR_20150101-20241231_merra2_67d63df8fd.csv",
+    "chunks": 10
+  },
+  "MAR_MENOR_SUR::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MAR_MENOR_SUR_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARAZURI::pv::2015-01-01::2024-12-31::4f434c11f1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARAZURI_20150101-20241231_merra2_4f434c11f1.csv",
+    "chunks": 10
+  },
+  "ARAZURI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARAZURI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Crispijana::pv::2015-01-01::2024-12-31::22bbff71ab": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Crispijana_20150101-20241231_merra2_22bbff71ab.csv",
+    "chunks": 10
+  },
+  "Crispijana::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Crispijana_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Loiola::pv::2015-01-01::2024-12-31::262f03df89": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Loiola_20150101-20241231_merra2_262f03df89.csv",
+    "chunks": 10
+  },
+  "Loiola::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Loiola_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Galindo::pv::2015-01-01::2024-12-31::262f03df89": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Galindo_20150101-20241231_merra2_262f03df89.csv",
+    "chunks": 10
+  },
+  "Galindo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Galindo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LOGROÑO::pv::2015-01-01::2024-12-31::afebd23a41": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LOGROÑO_20150101-20241231_merra2_afebd23a41.csv",
+    "chunks": 10
+  },
+  "LOGROÑO::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LOGROÑO_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ZARAGOZA_LA_CARTUJA::pv::2015-01-01::2024-12-31::fb4b213c8b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ZARAGOZA_LA_CARTUJA_20150101-20241231_merra2_fb4b213c8b.csv",
+    "chunks": 10
+  },
+  "ZARAGOZA_LA_CARTUJA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ZARAGOZA_LA_CARTUJA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "GIJON_OESTE::pv::2015-01-01::2024-12-31::29a7b1e5d0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_GIJON_OESTE_20150101-20241231_merra2_29a7b1e5d0.csv",
+    "chunks": 10
+  },
+  "GIJON_OESTE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_GIJON_OESTE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "VILLAPEREZ::pv::2015-01-01::2024-12-31::164424b95e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_VILLAPEREZ_20150101-20241231_merra2_164424b95e.csv",
+    "chunks": 10
+  },
+  "VILLAPEREZ::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_VILLAPEREZ_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PALMA_II::pv::2015-01-01::2024-12-31::06947320cb": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PALMA_II_20150101-20241231_merra2_06947320cb.csv",
+    "chunks": 10
+  },
+  "PALMA_II::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PALMA_II_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PALMA_I::pv::2015-01-01::2024-12-31::1638ed9587": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PALMA_I_20150101-20241231_merra2_1638ed9587.csv",
+    "chunks": 10
+  },
+  "PALMA_I::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PALMA_I_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SAN_PANTALEON::pv::2015-01-01::2024-12-31::2b4023284b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SAN_PANTALEON_20150101-20241231_merra2_2b4023284b.csv",
+    "chunks": 10
+  },
+  "SAN_PANTALEON::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SAN_PANTALEON_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SAN_ROMÁN::pv::2015-01-01::2024-12-31::2b4023284b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SAN_ROMÁN_20150101-20241231_merra2_2b4023284b.csv",
+    "chunks": 10
+  },
+  "SAN_ROMÁN::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SAN_ROMÁN_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "VUELTA_OSTRERA::pv::2015-01-01::2024-12-31::164424b95e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_VUELTA_OSTRERA_20150101-20241231_merra2_164424b95e.csv",
+    "chunks": 10
+  },
+  "VUELTA_OSTRERA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_VUELTA_OSTRERA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BURGOS::pv::2015-01-01::2024-12-31::f789d74f1b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BURGOS_20150101-20241231_merra2_f789d74f1b.csv",
+    "chunks": 10
+  },
+  "BURGOS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BURGOS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LEON::pv::2015-01-01::2024-12-31::a91a5be34d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LEON_20150101-20241231_merra2_a91a5be34d.csv",
+    "chunks": 10
+  },
+  "LEON::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LEON_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SALAMANCA::pv::2015-01-01::2024-12-31::a542c095cd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SALAMANCA_20150101-20241231_merra2_a542c095cd.csv",
+    "chunks": 10
+  },
+  "SALAMANCA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SALAMANCA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "VALLADOLID::pv::2015-01-01::2024-12-31::fb4b213c8b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_VALLADOLID_20150101-20241231_merra2_fb4b213c8b.csv",
+    "chunks": 10
+  },
+  "VALLADOLID::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_VALLADOLID_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ALCAZAR_DE_SAN_JUAN-CAMPO_DE_CRIPTANA::pv::2015-01-01::2024-12-31::75de5946c6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ALCAZAR_DE_SAN_JUAN-CAMPO_DE_CRIPTANA_20150101-20241231_merra2_75de5946c6.csv",
+    "chunks": 10
+  },
+  "ALCAZAR_DE_SAN_JUAN-CAMPO_DE_CRIPTANA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ALCAZAR_DE_SAN_JUAN-CAMPO_DE_CRIPTANA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LLAGOSTA_LA::pv::2015-01-01::2024-12-31::932a0cca2d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LLAGOSTA_LA_20150101-20241231_merra2_932a0cca2d.csv",
+    "chunks": 10
+  },
+  "LLAGOSTA_LA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LLAGOSTA_LA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MONTCADA::pv::2015-01-01::2024-12-31::932a0cca2d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MONTCADA_20150101-20241231_merra2_932a0cca2d.csv",
+    "chunks": 10
+  },
+  "MONTCADA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MONTCADA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PRAT_DE_LLOBREGAT_EL::pv::2015-01-01::2024-12-31::0590dda631": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PRAT_DE_LLOBREGAT_EL_20150101-20241231_merra2_0590dda631.csv",
+    "chunks": 10
+  },
+  "PRAT_DE_LLOBREGAT_EL::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PRAT_DE_LLOBREGAT_EL_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SANT_FELIU_DE_LLOBREGAT::pv::2015-01-01::2024-12-31::389cfb5f4e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SANT_FELIU_DE_LLOBREGAT_20150101-20241231_merra2_389cfb5f4e.csv",
+    "chunks": 10
+  },
+  "SANT_FELIU_DE_LLOBREGAT::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SANT_FELIU_DE_LLOBREGAT_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TP_36_of_Helsingin_kt::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TP_36_of_Helsingin_kt_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "TP_36_of_Helsingin_kt::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TP_36_of_Helsingin_kt_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TP_101_of_Helsingin_kt::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TP_101_of_Helsingin_kt_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "TP_101_of_Helsingin_kt::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TP_101_of_Helsingin_kt_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LILLE-MARQUETTE-LEZ-LILLE::pv::2015-01-01::2024-12-31::5f797a9ee1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LILLE-MARQUETTE-LEZ-LILLE_20150101-20241231_merra2_5f797a9ee1.csv",
+    "chunks": 10
+  },
+  "LILLE-MARQUETTE-LEZ-LILLE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LILLE-MARQUETTE-LEZ-LILLE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MAXEVILLE::pv::2015-01-01::2024-12-31::d7147aef93": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MAXEVILLE_20150101-20241231_merra2_d7147aef93.csv",
+    "chunks": 10
+  },
+  "MAXEVILLE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MAXEVILLE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "METZ::pv::2015-01-01::2024-12-31::518e9398da": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_METZ_20150101-20241231_merra2_518e9398da.csv",
+    "chunks": 10
+  },
+  "METZ::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_METZ_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "STRASBOURG_-_LA_WANTZENAU::pv::2015-01-01::2024-12-31::cb478c541d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_STRASBOURG_-_LA_WANTZENAU_20150101-20241231_merra2_cb478c541d.csv",
+    "chunks": 10
+  },
+  "STRASBOURG_-_LA_WANTZENAU::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_STRASBOURG_-_LA_WANTZENAU_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SAUSHEIM::pv::2015-01-01::2024-12-31::07b5335b00": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SAUSHEIM_20150101-20241231_merra2_07b5335b00.csv",
+    "chunks": 10
+  },
+  "SAUSHEIM::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SAUSHEIM_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MONDEVILLE::pv::2015-01-01::2024-12-31::fe09ef0dd2": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MONDEVILLE_20150101-20241231_merra2_fe09ef0dd2.csv",
+    "chunks": 10
+  },
+  "MONDEVILLE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MONDEVILLE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "REIMS::pv::2015-01-01::2024-12-31::71847e0d00": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_REIMS_20150101-20241231_merra2_71847e0d00.csv",
+    "chunks": 10
+  },
+  "REIMS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_REIMS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LE_HAVRE::pv::2015-01-01::2024-12-31::6d3c9cd668": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LE_HAVRE_20150101-20241231_merra2_6d3c9cd668.csv",
+    "chunks": 10
+  },
+  "LE_HAVRE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LE_HAVRE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROUEN::pv::2015-01-01::2024-12-31::cd3819f6b5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROUEN_20150101-20241231_merra2_cd3819f6b5.csv",
+    "chunks": 10
+  },
+  "ROUEN::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROUEN_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE_AVAL::pv::2015-01-01::2024-12-31::c2d7a3cf3a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PARIS_SEINE_AVAL_20150101-20241231_merra2_c2d7a3cf3a.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE_AVAL::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PARIS_SEINE_AVAL_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "CARRE_DE_REUNION::pv::2015-01-01::2024-12-31::c6311ba2b1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_CARRE_DE_REUNION_20150101-20241231_merra2_c6311ba2b1.csv",
+    "chunks": 10
+  },
+  "CARRE_DE_REUNION::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_CARRE_DE_REUNION_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE_GRÉSILLONS::pv::2015-01-01::2024-12-31::c2d7a3cf3a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PARIS_SEINE_GRÉSILLONS_20150101-20241231_merra2_c2d7a3cf3a.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE_GRÉSILLONS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PARIS_SEINE_GRÉSILLONS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE-CENTRE::pv::2015-01-01::2024-12-31::de931062bf": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PARIS_SEINE-CENTRE_20150101-20241231_merra2_de931062bf.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE-CENTRE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PARIS_SEINE-CENTRE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PARIS_MARNE_AVAL::pv::2015-01-01::2024-12-31::de931062bf": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PARIS_MARNE_AVAL_20150101-20241231_merra2_de931062bf.csv",
+    "chunks": 10
+  },
+  "PARIS_MARNE_AVAL::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PARIS_MARNE_AVAL_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE-AMONT::pv::2015-01-01::2024-12-31::c6311ba2b1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_PARIS_SEINE-AMONT_20150101-20241231_merra2_c6311ba2b1.csv",
+    "chunks": 10
+  },
+  "PARIS_SEINE-AMONT::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_PARIS_SEINE-AMONT_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NEUVILLE_SUR_OISE::pv::2015-01-01::2024-12-31::c2d7a3cf3a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NEUVILLE_SUR_OISE_20150101-20241231_merra2_c2d7a3cf3a.csv",
+    "chunks": 10
+  },
+  "NEUVILLE_SUR_OISE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NEUVILLE_SUR_OISE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "RENNES::pv::2015-01-01::2024-12-31::d96d7cca0e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_RENNES_20150101-20241231_merra2_d96d7cca0e.csv",
+    "chunks": 10
+  },
+  "RENNES::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_RENNES_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TOURS_LA_RICHE_LA_GRANGE_DAVID::pv::2015-01-01::2024-12-31::32bd51aa00": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TOURS_LA_RICHE_LA_GRANGE_DAVID_20150101-20241231_merra2_32bd51aa00.csv",
+    "chunks": 10
+  },
+  "TOURS_LA_RICHE_LA_GRANGE_DAVID::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TOURS_LA_RICHE_LA_GRANGE_DAVID_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NANTES_1-TOUGAS::pv::2015-01-01::2024-12-31::eb3d1b34bd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NANTES_1-TOUGAS_20150101-20241231_merra2_eb3d1b34bd.csv",
+    "chunks": 10
+  },
+  "NANTES_1-TOUGAS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NANTES_1-TOUGAS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LMM_LE_MANS_-_LA_CHAUVINIÈRE::pv::2015-01-01::2024-12-31::d2db9f839f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LMM_LE_MANS_-_LA_CHAUVINIÈRE_20150101-20241231_merra2_d2db9f839f.csv",
+    "chunks": 10
+  },
+  "LMM_LE_MANS_-_LA_CHAUVINIÈRE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LMM_LE_MANS_-_LA_CHAUVINIÈRE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TOULOUSE_GINESTOUS::pv::2015-01-01::2024-12-31::29a7b1e5d0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TOULOUSE_GINESTOUS_20150101-20241231_merra2_29a7b1e5d0.csv",
+    "chunks": 10
+  },
+  "TOULOUSE_GINESTOUS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TOULOUSE_GINESTOUS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BEGLES_CLOS_DE_HILDE::pv::2015-01-01::2024-12-31::f9521f51cc": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BEGLES_CLOS_DE_HILDE_20150101-20241231_merra2_f9521f51cc.csv",
+    "chunks": 10
+  },
+  "BEGLES_CLOS_DE_HILDE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BEGLES_CLOS_DE_HILDE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "DIJON::pv::2015-01-01::2024-12-31::7db14877e1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_DIJON_20150101-20241231_merra2_7db14877e1.csv",
+    "chunks": 10
+  },
+  "DIJON::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_DIJON_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MAERA_EX_CEREIREDE::pv::2015-01-01::2024-12-31::29a7b1e5d0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MAERA_EX_CEREIREDE_20150101-20241231_merra2_29a7b1e5d0.csv",
+    "chunks": 10
+  },
+  "MAERA_EX_CEREIREDE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MAERA_EX_CEREIREDE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "GRENOBLE_AQUAPOLE::pv::2015-01-01::2024-12-31::d4c35c7cda": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_GRENOBLE_AQUAPOLE_20150101-20241231_merra2_d4c35c7cda.csv",
+    "chunks": 10
+  },
+  "GRENOBLE_AQUAPOLE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_GRENOBLE_AQUAPOLE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LYON_-_PIERRE_BÉNITE::pv::2015-01-01::2024-12-31::1fe6a0073e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LYON_-_PIERRE_BÉNITE_20150101-20241231_merra2_1fe6a0073e.csv",
+    "chunks": 10
+  },
+  "LYON_-_PIERRE_BÉNITE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LYON_-_PIERRE_BÉNITE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LYON_-_SAINT_FONS::pv::2015-01-01::2024-12-31::1fe6a0073e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LYON_-_SAINT_FONS_20150101-20241231_merra2_1fe6a0073e.csv",
+    "chunks": 10
+  },
+  "LYON_-_SAINT_FONS::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LYON_-_SAINT_FONS_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "FERNEY-VOLTAIRE_-_AIRE_2::pv::2015-01-01::2024-12-31::704f15d101": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_FERNEY-VOLTAIRE_-_AIRE_2_20150101-20241231_merra2_704f15d101.csv",
+    "chunks": 10
+  },
+  "FERNEY-VOLTAIRE_-_AIRE_2::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_FERNEY-VOLTAIRE_-_AIRE_2_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "AÏRE_SUISSE::pv::2015-01-01::2024-12-31::704f15d101": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_AÏRE_SUISSE_20150101-20241231_merra2_704f15d101.csv",
+    "chunks": 10
+  },
+  "AÏRE_SUISSE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_AÏRE_SUISSE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rijeka-Delta::pv::2015-01-01::2024-12-31::d4c35c7cda": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rijeka-Delta_20150101-20241231_merra2_d4c35c7cda.csv",
+    "chunks": 10
+  },
+  "Rijeka-Delta::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rijeka-Delta_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Zagreb::pv::2015-01-01::2024-12-31::0cad142a45": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Zagreb_20150101-20241231_merra2_0cad142a45.csv",
+    "chunks": 10
+  },
+  "Zagreb::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Zagreb_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Budapest_Csepel_Kp_szvtp_-_Szennyviztisztito_Telep::pv::2015-01-01::2024-12-31::32bd51aa00": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Budapest_Csepel_Kp_szvtp_-_Szennyviztisztito_Telep_20150101-20241231_merra2_32bd51aa00.csv",
+    "chunks": 10
+  },
+  "Budapest_Csepel_Kp_szvtp_-_Szennyviztisztito_Telep::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Budapest_Csepel_Kp_szvtp_-_Szennyviztisztito_Telep_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Miskolc_-_Szennyviztisztito_Telep::pv::2015-01-01::2024-12-31::d96d7cca0e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Miskolc_-_Szennyviztisztito_Telep_20150101-20241231_merra2_d96d7cca0e.csv",
+    "chunks": 10
+  },
+  "Miskolc_-_Szennyviztisztito_Telep::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Miskolc_-_Szennyviztisztito_Telep_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Pecs_-_Szennyviztisztito_Telep::pv::2015-01-01::2024-12-31::e2ae8c2f45": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Pecs_-_Szennyviztisztito_Telep_20150101-20241231_merra2_e2ae8c2f45.csv",
+    "chunks": 10
+  },
+  "Pecs_-_Szennyviztisztito_Telep::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Pecs_-_Szennyviztisztito_Telep_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Budapest_Eszak_Pest_-_Szennyviztisztito_Telep::pv::2015-01-01::2024-12-31::903d65181f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Budapest_Eszak_Pest_-_Szennyviztisztito_Telep_20150101-20241231_merra2_903d65181f.csv",
+    "chunks": 10
+  },
+  "Budapest_Eszak_Pest_-_Szennyviztisztito_Telep::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Budapest_Eszak_Pest_-_Szennyviztisztito_Telep_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Debrecen_-_Szennyviztisztito_Telep::pv::2015-01-01::2024-12-31::3b94e5c316": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Debrecen_-_Szennyviztisztito_Telep_20150101-20241231_merra2_3b94e5c316.csv",
+    "chunks": 10
+  },
+  "Debrecen_-_Szennyviztisztito_Telep::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Debrecen_-_Szennyviztisztito_Telep_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Gyor_-_Szennyviztisztito_Telep::pv::2015-01-01::2024-12-31::b580b5a525": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Gyor_-_Szennyviztisztito_Telep_20150101-20241231_merra2_b580b5a525.csv",
+    "chunks": 10
+  },
+  "Gyor_-_Szennyviztisztito_Telep::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Gyor_-_Szennyviztisztito_Telep_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Cork_city::pv::2015-01-01::2024-12-31::3644c1cbba": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Cork_city_20150101-20241231_merra2_3644c1cbba.csv",
+    "chunks": 10
+  },
+  "Cork_city::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Cork_city_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Ringsend::pv::2015-01-01::2024-12-31::0ab78f665d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Ringsend_20150101-20241231_merra2_0ab78f665d.csv",
+    "chunks": 10
+  },
+  "Ringsend::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Ringsend_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Cossato_Spolina::pv::2015-01-01::2024-12-31::82bc1fd638": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Cossato_Spolina_20150101-20241231_merra2_82bc1fd638.csv",
+    "chunks": 10
+  },
+  "Cossato_Spolina::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Cossato_Spolina_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Castiglione::pv::2015-01-01::2024-12-31::0d28724238": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Castiglione_20150101-20241231_merra2_0d28724238.csv",
+    "chunks": 10
+  },
+  "Castiglione::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Castiglione_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01209001_Lonate_Pozzolo::pv::2015-01-01::2024-12-31::1be69779c8": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01209001_Lonate_Pozzolo_20150101-20241231_merra2_1be69779c8.csv",
+    "chunks": 10
+  },
+  "Dp01209001_Lonate_Pozzolo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01209001_Lonate_Pozzolo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01514601_Milano_Nosedo::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01514601_Milano_Nosedo_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Dp01514601_Milano_Nosedo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01514601_Milano_Nosedo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01514602_Milano_S_Rocco::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01514602_Milano_S_Rocco_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Dp01514602_Milano_S_Rocco::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01514602_Milano_S_Rocco_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01514901_Monza_S_Rocco::pv::2015-01-01::2024-12-31::1be69779c8": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01514901_Monza_S_Rocco_20150101-20241231_merra2_1be69779c8.csv",
+    "chunks": 10
+  },
+  "Dp01514901_Monza_S_Rocco::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01514901_Monza_S_Rocco_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01517001_Pero_Olona_Sud::pv::2015-01-01::2024-12-31::82bc1fd638": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01517001_Pero_Olona_Sud_20150101-20241231_merra2_82bc1fd638.csv",
+    "chunks": 10
+  },
+  "Dp01517001_Pero_Olona_Sud::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01517001_Pero_Olona_Sud_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01517101_Peschiera_Borromeo::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01517101_Peschiera_Borromeo_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Dp01517101_Peschiera_Borromeo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01517101_Peschiera_Borromeo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dp01518401_Robecco_Sul_Naviglio::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dp01518401_Robecco_Sul_Naviglio_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Dp01518401_Robecco_Sul_Naviglio::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dp01518401_Robecco_Sul_Naviglio_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Peschiera_Del_Garda_Paradiso::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Peschiera_Del_Garda_Paradiso_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Peschiera_Del_Garda_Paradiso::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Peschiera_Del_Garda_Paradiso_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Verona_Via_Avesani::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Verona_Via_Avesani_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Verona_Via_Avesani::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Verona_Via_Avesani_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Arzignano_Via_Altura::pv::2015-01-01::2024-12-31::82bc1fd638": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Arzignano_Via_Altura_20150101-20241231_merra2_82bc1fd638.csv",
+    "chunks": 10
+  },
+  "Arzignano_Via_Altura::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Arzignano_Via_Altura_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Montebello_Vicentino_Via_Fracanzana::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Montebello_Vicentino_Via_Fracanzana_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Montebello_Vicentino_Via_Fracanzana::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Montebello_Vicentino_Via_Fracanzana_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Venezia_Fusina_Via_Dei_Cantieri::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Venezia_Fusina_Via_Dei_Cantieri_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "Venezia_Fusina_Via_Dei_Cantieri::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Venezia_Fusina_Via_Dei_Cantieri_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "San_Giorgio_Di_Nogaro::pv::2015-01-01::2024-12-31::0cad142a45": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_San_Giorgio_Di_Nogaro_20150101-20241231_merra2_0cad142a45.csv",
+    "chunks": 10
+  },
+  "San_Giorgio_Di_Nogaro::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_San_Giorgio_Di_Nogaro_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Bologna_Corticella::pv::2015-01-01::2024-12-31::530a57f04d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Bologna_Corticella_20150101-20241231_merra2_530a57f04d.csv",
+    "chunks": 10
+  },
+  "Bologna_Corticella::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Bologna_Corticella_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Modena_Naviglio::pv::2015-01-01::2024-12-31::bb292df811": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Modena_Naviglio_20150101-20241231_merra2_bb292df811.csv",
+    "chunks": 10
+  },
+  "Modena_Naviglio::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Modena_Naviglio_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rimini_S_Giustina::pv::2015-01-01::2024-12-31::d7cee85b21": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rimini_S_Giustina_20150101-20241231_merra2_d7cee85b21.csv",
+    "chunks": 10
+  },
+  "Rimini_S_Giustina::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rimini_S_Giustina_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Idl_Baciacavallo::pv::2015-01-01::2024-12-31::c8de9bf719": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Idl_Baciacavallo_20150101-20241231_merra2_c8de9bf719.csv",
+    "chunks": 10
+  },
+  "Idl_Baciacavallo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Idl_Baciacavallo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Idl_San_Colombano::pv::2015-01-01::2024-12-31::c8de9bf719": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Idl_San_Colombano_20150101-20241231_merra2_c8de9bf719.csv",
+    "chunks": 10
+  },
+  "Idl_San_Colombano::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Idl_San_Colombano_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Idi_Aquarno::pv::2015-01-01::2024-12-31::c8eb689891": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Idi_Aquarno_20150101-20241231_merra2_c8eb689891.csv",
+    "chunks": 10
+  },
+  "Idi_Aquarno::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Idi_Aquarno_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Idi_Cuoio_Depur::pv::2015-01-01::2024-12-31::c8eb689891": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Idi_Cuoio_Depur_20150101-20241231_merra2_c8eb689891.csv",
+    "chunks": 10
+  },
+  "Idi_Cuoio_Depur::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Idi_Cuoio_Depur_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Idi_Casa_Del_Lupo::pv::2015-01-01::2024-12-31::c8de9bf719": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Idi_Casa_Del_Lupo_20150101-20241231_merra2_c8de9bf719.csv",
+    "chunks": 10
+  },
+  "Idi_Casa_Del_Lupo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Idi_Casa_Del_Lupo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROMA_EST::pv::2015-01-01::2024-12-31::f50fb36411": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROMA_EST_20150101-20241231_merra2_f50fb36411.csv",
+    "chunks": 10
+  },
+  "ROMA_EST::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROMA_EST_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROMA_NORD::pv::2015-01-01::2024-12-31::b96483a9d0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROMA_NORD_20150101-20241231_merra2_b96483a9d0.csv",
+    "chunks": 10
+  },
+  "ROMA_NORD::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROMA_NORD_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROMA_SUD::pv::2015-01-01::2024-12-31::a6459409e0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROMA_SUD_20150101-20241231_merra2_a6459409e0.csv",
+    "chunks": 10
+  },
+  "ROMA_SUD::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROMA_SUD_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Caivano_Depuratore_Di_Acerra::pv::2015-01-01::2024-12-31::a542c095cd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Caivano_Depuratore_Di_Acerra_20150101-20241231_merra2_a542c095cd.csv",
+    "chunks": 10
+  },
+  "Caivano_Depuratore_Di_Acerra::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Caivano_Depuratore_Di_Acerra_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Orta_Di_Atella_Ce_Impianto_Napoli_Nord::pv::2015-01-01::2024-12-31::a542c095cd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Orta_Di_Atella_Ce_Impianto_Napoli_Nord_20150101-20241231_merra2_a542c095cd.csv",
+    "chunks": 10
+  },
+  "Orta_Di_Atella_Ce_Impianto_Napoli_Nord::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Orta_Di_Atella_Ce_Impianto_Napoli_Nord_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Marigliano_Na_Depuratore_Di_Nola::pv::2015-01-01::2024-12-31::a542c095cd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Marigliano_Na_Depuratore_Di_Nola_20150101-20241231_merra2_a542c095cd.csv",
+    "chunks": 10
+  },
+  "Marigliano_Na_Depuratore_Di_Nola::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Marigliano_Na_Depuratore_Di_Nola_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Marcianise_Ce_Depuratore_Di_Marcianise::pv::2015-01-01::2024-12-31::a542c095cd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Marcianise_Ce_Depuratore_Di_Marcianise_20150101-20241231_merra2_a542c095cd.csv",
+    "chunks": 10
+  },
+  "Marcianise_Ce_Depuratore_Di_Marcianise::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Marcianise_Ce_Depuratore_Di_Marcianise_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Salerno_Impianto_Salerno::pv::2015-01-01::2024-12-31::8324b44cc7": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Salerno_Impianto_Salerno_20150101-20241231_merra2_8324b44cc7.csv",
+    "chunks": 10
+  },
+  "Salerno_Impianto_Salerno::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Salerno_Impianto_Salerno_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Bari_Est::pv::2015-01-01::2024-12-31::9c68a404e1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Bari_Est_20150101-20241231_merra2_9c68a404e1.csv",
+    "chunks": 10
+  },
+  "Bari_Est::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Bari_Est_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Impianto_Consortile_Di_Catania::pv::2015-01-01::2024-12-31::b1a083edd6": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Impianto_Consortile_Di_Catania_20150101-20241231_merra2_b1a083edd6.csv",
+    "chunks": 10
+  },
+  "Impianto_Consortile_Di_Catania::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Impianto_Consortile_Di_Catania_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Impianto_C_Da_Magnisi_Casale_Vecchie_Saline_Depuratore_Ias_Priolo::pv::2015-01-01::2024-12-31::b3e31556a4": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Impianto_C_Da_Magnisi_Casale_Vecchie_Saline_Depuratore_Ias_Priolo_20150101-20241231_merra2_b3e31556a4.csv",
+    "chunks": 10
+  },
+  "Impianto_C_Da_Magnisi_Casale_Vecchie_Saline_Depuratore_Ias_Priolo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Impianto_C_Da_Magnisi_Casale_Vecchie_Saline_Depuratore_Ias_Priolo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Porto_Torres_Agglomerato_Industriale::pv::2015-01-01::2024-12-31::4b33411689": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Porto_Torres_Agglomerato_Industriale_20150101-20241231_merra2_4b33411689.csv",
+    "chunks": 10
+  },
+  "Porto_Torres_Agglomerato_Industriale::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Porto_Torres_Agglomerato_Industriale_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Bolzano::pv::2015-01-01::2024-12-31::65146df9d0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Bolzano_20150101-20241231_merra2_65146df9d0.csv",
+    "chunks": 10
+  },
+  "Bolzano::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Bolzano_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Vilniaus_nuoteku_valykla::pv::2015-01-01::2024-12-31::fad02411b0": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Vilniaus_nuoteku_valykla_20150101-20241231_merra2_fad02411b0.csv",
+    "chunks": 10
+  },
+  "Vilniaus_nuoteku_valykla::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Vilniaus_nuoteku_valykla_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kauno_nuoteku_valykla::pv::2015-01-01::2024-12-31::f91f860aed": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kauno_nuoteku_valykla_20150101-20241231_merra2_f91f860aed.csv",
+    "chunks": 10
+  },
+  "Kauno_nuoteku_valykla::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kauno_nuoteku_valykla_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Klaipedos_nuoteku_valykla::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Klaipedos_nuoteku_valykla_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Klaipedos_nuoteku_valykla::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Klaipedos_nuoteku_valykla_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BAI_Daugavgrīva::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BAI_Daugavgrīva_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "BAI_Daugavgrīva::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BAI_Daugavgrīva_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Ta_Barkat_Urban_Wastewater_Treatment_Plant::pv::2015-01-01::2024-12-31::0764215219": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Ta_Barkat_Urban_Wastewater_Treatment_Plant_20150101-20241231_merra2_0764215219.csv",
+    "chunks": 10
+  },
+  "Ta_Barkat_Urban_Wastewater_Treatment_Plant::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Ta_Barkat_Urban_Wastewater_Treatment_Plant_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_AMSTERDAM-WEST::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_AMSTERDAM-WEST_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "UWWTP_AMSTERDAM-WEST::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_AMSTERDAM-WEST_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_HARNASCHPOLDER::pv::2015-01-01::2024-12-31::60b618a189": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_HARNASCHPOLDER_20150101-20241231_merra2_60b618a189.csv",
+    "chunks": 10
+  },
+  "UWWTP_HARNASCHPOLDER::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_HARNASCHPOLDER_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_KRALINGSEVEER::pv::2015-01-01::2024-12-31::3644c1cbba": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_KRALINGSEVEER_20150101-20241231_merra2_3644c1cbba.csv",
+    "chunks": 10
+  },
+  "UWWTP_KRALINGSEVEER::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_KRALINGSEVEER_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_NIEUWVEER::pv::2015-01-01::2024-12-31::75cba1d1db": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_NIEUWVEER_20150101-20241231_merra2_75cba1d1db.csv",
+    "chunks": 10
+  },
+  "UWWTP_NIEUWVEER::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_NIEUWVEER_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_BATH::pv::2015-01-01::2024-12-31::68f935552f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_BATH_20150101-20241231_merra2_68f935552f.csv",
+    "chunks": 10
+  },
+  "UWWTP_BATH::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_BATH_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_EINDHOVEN::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_EINDHOVEN_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "UWWTP_EINDHOVEN::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_EINDHOVEN_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_AMSTERDAN-WESTPOORT::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_AMSTERDAN-WESTPOORT_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "UWWTP_AMSTERDAN-WESTPOORT::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_AMSTERDAN-WESTPOORT_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_TILBURG-NOORD::pv::2015-01-01::2024-12-31::75cba1d1db": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_TILBURG-NOORD_20150101-20241231_merra2_75cba1d1db.csv",
+    "chunks": 10
+  },
+  "UWWTP_TILBURG-NOORD::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_TILBURG-NOORD_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Wrocławska_Oczyszczalnia_Ścieków::pv::2015-01-01::2024-12-31::664b044967": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Wrocławska_Oczyszczalnia_Ścieków_20150101-20241231_merra2_664b044967.csv",
+    "chunks": 10
+  },
+  "Wrocławska_Oczyszczalnia_Ścieków::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Wrocławska_Oczyszczalnia_Ścieków_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Toruń_Centralna_Oczyszczalnia_Ścieków::pv::2015-01-01::2024-12-31::449a40782c": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Toruń_Centralna_Oczyszczalnia_Ścieków_20150101-20241231_merra2_449a40782c.csv",
+    "chunks": 10
+  },
+  "Toruń_Centralna_Oczyszczalnia_Ścieków::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Toruń_Centralna_Oczyszczalnia_Ścieków_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Lublin-Hajdów::pv::2015-01-01::2024-12-31::43b14af904": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Lublin-Hajdów_20150101-20241231_merra2_43b14af904.csv",
+    "chunks": 10
+  },
+  "Lublin-Hajdów::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Lublin-Hajdów_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Goś_Łam::pv::2015-01-01::2024-12-31::0fc64b1b27": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Goś_Łam_20150101-20241231_merra2_0fc64b1b27.csv",
+    "chunks": 10
+  },
+  "Goś_Łam::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Goś_Łam_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kutno::pv::2015-01-01::2024-12-31::5d989c5281": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kutno_20150101-20241231_merra2_5d989c5281.csv",
+    "chunks": 10
+  },
+  "Kutno::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kutno_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kraków-Płaszów::pv::2015-01-01::2024-12-31::4c80d0bb5f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kraków-Płaszów_20150101-20241231_merra2_4c80d0bb5f.csv",
+    "chunks": 10
+  },
+  "Kraków-Płaszów::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kraków-Płaszów_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Kraków-Kujawy::pv::2015-01-01::2024-12-31::dff9f75620": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Kraków-Kujawy_20150101-20241231_merra2_dff9f75620.csv",
+    "chunks": 10
+  },
+  "Kraków-Kujawy::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Kraków-Kujawy_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Tarnów::pv::2015-01-01::2024-12-31::4c80d0bb5f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Tarnów_20150101-20241231_merra2_4c80d0bb5f.csv",
+    "chunks": 10
+  },
+  "Tarnów::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Tarnów_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Zakład_Oczyszczalni_Ścieków_Czajka::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Zakład_Oczyszczalni_Ścieków_Czajka_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "Zakład_Oczyszczalni_Ścieków_Czajka::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Zakład_Oczyszczalni_Ścieków_Czajka_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Zakład_Oczyszczalni_Ścieków_Południe::pv::2015-01-01::2024-12-31::5d989c5281": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Zakład_Oczyszczalni_Ścieków_Południe_20150101-20241231_merra2_5d989c5281.csv",
+    "chunks": 10
+  },
+  "Zakład_Oczyszczalni_Ścieków_Południe::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Zakład_Oczyszczalni_Ścieków_Południe_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Radom::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Radom_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "Radom::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Radom_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rzeszów::pv::2015-01-01::2024-12-31::dff9f75620": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rzeszów_20150101-20241231_merra2_dff9f75620.csv",
+    "chunks": 10
+  },
+  "Rzeszów::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rzeszów_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Oczyszczalnia_Ścieków_w_Białymstoku::pv::2015-01-01::2024-12-31::b4e9c33f6f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Oczyszczalnia_Ścieków_w_Białymstoku_20150101-20241231_merra2_b4e9c33f6f.csv",
+    "chunks": 10
+  },
+  "Oczyszczalnia_Ścieków_w_Białymstoku::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Oczyszczalnia_Ścieków_w_Białymstoku_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Gdańsk-Wschód::pv::2015-01-01::2024-12-31::670025dcb1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Gdańsk-Wschód_20150101-20241231_merra2_670025dcb1.csv",
+    "chunks": 10
+  },
+  "Gdańsk-Wschód::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Gdańsk-Wschód_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Goś_Dębogórze::pv::2015-01-01::2024-12-31::c5d989ea6e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Goś_Dębogórze_20150101-20241231_merra2_c5d989ea6e.csv",
+    "chunks": 10
+  },
+  "Goś_Dębogórze::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Goś_Dębogórze_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "International_Paper-Kwidzyn_Sp_z_o_o::pv::2015-01-01::2024-12-31::6b8e8b39fc": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_International_Paper-Kwidzyn_Sp_z_o_o_20150101-20241231_merra2_6b8e8b39fc.csv",
+    "chunks": 10
+  },
+  "International_Paper-Kwidzyn_Sp_z_o_o::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_International_Paper-Kwidzyn_Sp_z_o_o_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Radocha_Ii::pv::2015-01-01::2024-12-31::d01102af89": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Radocha_Ii_20150101-20241231_merra2_d01102af89.csv",
+    "chunks": 10
+  },
+  "Radocha_Ii::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Radocha_Ii_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Centralna_Oczyszczalnia_Ścieków_Coś::pv::2015-01-01::2024-12-31::e8b4962e34": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Centralna_Oczyszczalnia_Ścieków_Coś_20150101-20241231_merra2_e8b4962e34.csv",
+    "chunks": 10
+  },
+  "Centralna_Oczyszczalnia_Ścieków_Coś::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Centralna_Oczyszczalnia_Ścieków_Coś_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Centralna_Oczyszczalnia_Ścieków_w_Gliwicach::pv::2015-01-01::2024-12-31::d01102af89": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Centralna_Oczyszczalnia_Ścieków_w_Gliwicach_20150101-20241231_merra2_d01102af89.csv",
+    "chunks": 10
+  },
+  "Centralna_Oczyszczalnia_Ścieków_w_Gliwicach::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Centralna_Oczyszczalnia_Ścieków_w_Gliwicach_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Centralna_Oczyszczalnia_Ścieków_w_Koziegłowach::pv::2015-01-01::2024-12-31::a8652e5125": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Centralna_Oczyszczalnia_Ścieków_w_Koziegłowach_20150101-20241231_merra2_a8652e5125.csv",
+    "chunks": 10
+  },
+  "Centralna_Oczyszczalnia_Ścieków_w_Koziegłowach::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Centralna_Oczyszczalnia_Ścieków_w_Koziegłowach_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Lewobrzeżna_Oczyszczalnia_Ścieków_w_Poznaniu::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Lewobrzeżna_Oczyszczalnia_Ścieków_w_Poznaniu_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "Lewobrzeżna_Oczyszczalnia_Ścieków_w_Poznaniu::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Lewobrzeżna_Oczyszczalnia_Ścieków_w_Poznaniu_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Dopiewo::pv::2015-01-01::2024-12-31::d7aff8dd20": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Dopiewo_20150101-20241231_merra2_d7aff8dd20.csv",
+    "chunks": 10
+  },
+  "Dopiewo::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Dopiewo_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Pomorzany::pv::2015-01-01::2024-12-31::7a851f3f09": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Pomorzany_20150101-20241231_merra2_7a851f3f09.csv",
+    "chunks": 10
+  },
+  "Pomorzany::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Pomorzany_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Agra_I_e_II::pv::2015-01-01::2024-12-31::389cfb5f4e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Agra_I_e_II_20150101-20241231_merra2_389cfb5f4e.csv",
+    "chunks": 10
+  },
+  "Agra_I_e_II::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Agra_I_e_II_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rib_de_Moinhos::pv::2015-01-01::2024-12-31::74b860a09d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rib_de_Moinhos_20150101-20241231_merra2_74b860a09d.csv",
+    "chunks": 10
+  },
+  "Rib_de_Moinhos::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rib_de_Moinhos_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Matosinhos::pv::2015-01-01::2024-12-31::8ac7a8ab1b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Matosinhos_20150101-20241231_merra2_8ac7a8ab1b.csv",
+    "chunks": 10
+  },
+  "Matosinhos::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Matosinhos_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Frielas::pv::2015-01-01::2024-12-31::9cdc463b64": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Frielas_20150101-20241231_merra2_9cdc463b64.csv",
+    "chunks": 10
+  },
+  "Frielas::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Frielas_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Serzedelo_II::pv::2015-01-01::2024-12-31::389cfb5f4e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Serzedelo_II_20150101-20241231_merra2_389cfb5f4e.csv",
+    "chunks": 10
+  },
+  "Serzedelo_II::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Serzedelo_II_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_DANCU_IASI::pv::2015-01-01::2024-12-31::b30f8f1e31": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_DANCU_IASI_20150101-20241231_merra2_b30f8f1e31.csv",
+    "chunks": 10
+  },
+  "ROWP_DANCU_IASI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_DANCU_IASI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_RAJA_Constanta_Sud::pv::2015-01-01::2024-12-31::d7cee85b21": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_RAJA_Constanta_Sud_20150101-20241231_merra2_d7cee85b21.csv",
+    "chunks": 10
+  },
+  "ROWP_RAJA_Constanta_Sud::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_RAJA_Constanta_Sud_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_GALATI::pv::2015-01-01::2024-12-31::1755f79552": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_GALATI_20150101-20241231_merra2_1755f79552.csv",
+    "chunks": 10
+  },
+  "ROWP_GALATI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_GALATI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_SC_APA_CANAL_2000_S_A_PITESTI::pv::2015-01-01::2024-12-31::f9521f51cc": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_SC_APA_CANAL_2000_S_A_PITESTI_20150101-20241231_merra2_f9521f51cc.csv",
+    "chunks": 10
+  },
+  "ROWP_SC_APA_CANAL_2000_S_A_PITESTI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_SC_APA_CANAL_2000_S_A_PITESTI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_RA_Aquatim_Timisoara::pv::2015-01-01::2024-12-31::1fe6a0073e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_RA_Aquatim_Timisoara_20150101-20241231_merra2_1fe6a0073e.csv",
+    "chunks": 10
+  },
+  "ROWP_RA_Aquatim_Timisoara::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_RA_Aquatim_Timisoara_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_SC_COMPANIA_APA_SA_Brasov::pv::2015-01-01::2024-12-31::1fe6a0073e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_SC_COMPANIA_APA_SA_Brasov_20150101-20241231_merra2_1fe6a0073e.csv",
+    "chunks": 10
+  },
+  "ROWP_SC_COMPANIA_APA_SA_Brasov::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_SC_COMPANIA_APA_SA_Brasov_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ROWP_SC_APA_NOVA_SA_BUCURESTI::pv::2015-01-01::2024-12-31::17a0eb86f9": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ROWP_SC_APA_NOVA_SA_BUCURESTI_20150101-20241231_merra2_17a0eb86f9.csv",
+    "chunks": 10
+  },
+  "ROWP_SC_APA_NOVA_SA_BUCURESTI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ROWP_SC_APA_NOVA_SA_BUCURESTI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Sjolunda_Avloppsreningsverk::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Sjolunda_Avloppsreningsverk_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Sjolunda_Avloppsreningsverk::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Sjolunda_Avloppsreningsverk_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Gryaab_AB_Ryaverket::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Gryaab_AB_Ryaverket_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Gryaab_AB_Ryaverket::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Gryaab_AB_Ryaverket_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_LJUBLJANA_ZALOG::pv::2015-01-01::2024-12-31::e2ae8c2f45": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_LJUBLJANA_ZALOG_20150101-20241231_merra2_e2ae8c2f45.csv",
+    "chunks": 10
+  },
+  "UWWTP_LJUBLJANA_ZALOG::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_LJUBLJANA_ZALOG_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "COV_Vrakuna::pv::2015-01-01::2024-12-31::a44fae4635": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_COV_Vrakuna_20150101-20241231_merra2_a44fae4635.csv",
+    "chunks": 10
+  },
+  "COV_Vrakuna::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_COV_Vrakuna_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Belfast::pv::2015-01-01::2024-12-31::c5d989ea6e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Belfast_20150101-20241231_merra2_c5d989ea6e.csv",
+    "chunks": 10
+  },
+  "Belfast::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Belfast_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Newtownards_Ballyrickard::pv::2015-01-01::2024-12-31::c5d989ea6e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Newtownards_Ballyrickard_20150101-20241231_merra2_c5d989ea6e.csv",
+    "chunks": 10
+  },
+  "Newtownards_Ballyrickard::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Newtownards_Ballyrickard_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "EDINBURGH_SEAFIELD_WWTW::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_EDINBURGH_SEAFIELD_WWTW_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "EDINBURGH_SEAFIELD_WWTW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_EDINBURGH_SEAFIELD_WWTW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MEADOWHEAD_W_W_T_SERVICE::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MEADOWHEAD_W_W_T_SERVICE_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "MEADOWHEAD_W_W_T_SERVICE::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MEADOWHEAD_W_W_T_SERVICE_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NIGG_WWTW-_ABERDEEN_PFI::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NIGG_WWTW-_ABERDEEN_PFI_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "NIGG_WWTW-_ABERDEEN_PFI::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NIGG_WWTW-_ABERDEEN_PFI_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NORTH_WARRINGTON_STW::pv::2015-01-01::2024-12-31::7a851f3f09": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NORTH_WARRINGTON_STW_20150101-20241231_merra2_7a851f3f09.csv",
+    "chunks": 10
+  },
+  "NORTH_WARRINGTON_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NORTH_WARRINGTON_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BLACKBURN_STW::pv::2015-01-01::2024-12-31::f2393b5c8e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BLACKBURN_STW_20150101-20241231_merra2_f2393b5c8e.csv",
+    "chunks": 10
+  },
+  "BLACKBURN_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BLACKBURN_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BURTON_ON_TRENT_STW::pv::2015-01-01::2024-12-31::163d2412ed": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BURTON_ON_TRENT_STW_20150101-20241231_merra2_163d2412ed.csv",
+    "chunks": 10
+  },
+  "BURTON_ON_TRENT_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BURTON_ON_TRENT_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LONDON_Becton_STW::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LONDON_Becton_STW_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "LONDON_Becton_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LONDON_Becton_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LONDON_Beddington_STW::pv::2015-01-01::2024-12-31::68f935552f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LONDON_Beddington_STW_20150101-20241231_merra2_68f935552f.csv",
+    "chunks": 10
+  },
+  "LONDON_Beddington_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LONDON_Beddington_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LONDON_Deepham_STW::pv::2015-01-01::2024-12-31::75cba1d1db": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LONDON_Deepham_STW_20150101-20241231_merra2_75cba1d1db.csv",
+    "chunks": 10
+  },
+  "LONDON_Deepham_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LONDON_Deepham_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LONDON_Crossness_STW::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LONDON_Crossness_STW_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "LONDON_Crossness_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LONDON_Crossness_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "WIGAN_HOSCAR_STW::pv::2015-01-01::2024-12-31::90cf341c59": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_WIGAN_HOSCAR_STW_20150101-20241231_merra2_90cf341c59.csv",
+    "chunks": 10
+  },
+  "WIGAN_HOSCAR_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_WIGAN_HOSCAR_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BRISTOL_STW::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BRISTOL_STW_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "BRISTOL_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BRISTOL_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Manchester_and_Salford_Davyhulme_STW::pv::2015-01-01::2024-12-31::1005c77946": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Manchester_and_Salford_Davyhulme_STW_20150101-20241231_merra2_1005c77946.csv",
+    "chunks": 10
+  },
+  "Manchester_and_Salford_Davyhulme_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Manchester_and_Salford_Davyhulme_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "STOKE_ON_TRENT_STRONGFORD_STW::pv::2015-01-01::2024-12-31::8eb6df4f7e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_STOKE_ON_TRENT_STRONGFORD_STW_20150101-20241231_merra2_8eb6df4f7e.csv",
+    "chunks": 10
+  },
+  "STOKE_ON_TRENT_STRONGFORD_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_STOKE_ON_TRENT_STRONGFORD_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BIRMINGHAM_BLACK_COUNTRY_NO_1_MINWORTH_STW::pv::2015-01-01::2024-12-31::a8652e5125": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BIRMINGHAM_BLACK_COUNTRY_NO_1_MINWORTH_STW_20150101-20241231_merra2_a8652e5125.csv",
+    "chunks": 10
+  },
+  "BIRMINGHAM_BLACK_COUNTRY_NO_1_MINWORTH_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BIRMINGHAM_BLACK_COUNTRY_NO_1_MINWORTH_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BRADFORD_ESHOLT_STW::pv::2015-01-01::2024-12-31::f2393b5c8e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BRADFORD_ESHOLT_STW_20150101-20241231_merra2_f2393b5c8e.csv",
+    "chunks": 10
+  },
+  "BRADFORD_ESHOLT_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BRADFORD_ESHOLT_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NEWCASTLE_Howdon_STW::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NEWCASTLE_Howdon_STW_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "NEWCASTLE_Howdon_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NEWCASTLE_Howdon_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LEEDS_KNOSTROP_STW::pv::2015-01-01::2024-12-31::f2393b5c8e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LEEDS_KNOSTROP_STW_20150101-20241231_merra2_f2393b5c8e.csv",
+    "chunks": 10
+  },
+  "LEEDS_KNOSTROP_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LEEDS_KNOSTROP_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "SHEFFIELD_BLACKBURN_MEADOWS_STW::pv::2015-01-01::2024-12-31::7a851f3f09": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_SHEFFIELD_BLACKBURN_MEADOWS_STW_20150101-20241231_merra2_7a851f3f09.csv",
+    "chunks": 10
+  },
+  "SHEFFIELD_BLACKBURN_MEADOWS_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_SHEFFIELD_BLACKBURN_MEADOWS_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MIDDLESBOROUGH_STW::pv::2015-01-01::2024-12-31::c5d989ea6e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MIDDLESBOROUGH_STW_20150101-20241231_merra2_c5d989ea6e.csv",
+    "chunks": 10
+  },
+  "MIDDLESBOROUGH_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MIDDLESBOROUGH_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LEICESTER_STW::pv::2015-01-01::2024-12-31::05f5cdfd03": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LEICESTER_STW_20150101-20241231_merra2_05f5cdfd03.csv",
+    "chunks": 10
+  },
+  "LEICESTER_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LEICESTER_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NOTTINGHAM_STW::pv::2015-01-01::2024-12-31::449a40782c": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NOTTINGHAM_STW_20150101-20241231_merra2_449a40782c.csv",
+    "chunks": 10
+  },
+  "NOTTINGHAM_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NOTTINGHAM_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NORTHAMPTON_STW::pv::2015-01-01::2024-12-31::d7aff8dd20": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NORTHAMPTON_STW_20150101-20241231_merra2_d7aff8dd20.csv",
+    "chunks": 10
+  },
+  "NORTHAMPTON_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NORTHAMPTON_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MILTON_KEYNES_STW::pv::2015-01-01::2024-12-31::7b950c34b1": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MILTON_KEYNES_STW_20150101-20241231_merra2_7b950c34b1.csv",
+    "chunks": 10
+  },
+  "MILTON_KEYNES_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MILTON_KEYNES_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "HULL_STW::pv::2015-01-01::2024-12-31::6b8e8b39fc": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_HULL_STW_20150101-20241231_merra2_6b8e8b39fc.csv",
+    "chunks": 10
+  },
+  "HULL_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_HULL_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rye_Meads_STW::pv::2015-01-01::2024-12-31::466aadda05": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rye_Meads_STW_20150101-20241231_merra2_466aadda05.csv",
+    "chunks": 10
+  },
+  "Rye_Meads_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rye_Meads_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TILBURY_STW_TILBURY_ESSEX::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TILBURY_STW_TILBURY_ESSEX_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "TILBURY_STW_TILBURY_ESSEX::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TILBURY_STW_TILBURY_ESSEX_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "NORWICH_STW::pv::2015-01-01::2024-12-31::04cc83c3ff": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_NORWICH_STW_20150101-20241231_merra2_04cc83c3ff.csv",
+    "chunks": 10
+  },
+  "NORWICH_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_NORWICH_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Fleetwood_and_Blackpool_Fleetwood_Marsh_STW::pv::2015-01-01::2024-12-31::f20cad98af": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Fleetwood_and_Blackpool_Fleetwood_Marsh_STW_20150101-20241231_merra2_f20cad98af.csv",
+    "chunks": 10
+  },
+  "Fleetwood_and_Blackpool_Fleetwood_Marsh_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Fleetwood_and_Blackpool_Fleetwood_Marsh_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BOLTON_STW::pv::2015-01-01::2024-12-31::1005c77946": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BOLTON_STW_20150101-20241231_merra2_1005c77946.csv",
+    "chunks": 10
+  },
+  "BOLTON_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BOLTON_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "COVENTRY_STW::pv::2015-01-01::2024-12-31::aaef4f714e": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_COVENTRY_STW_20150101-20241231_merra2_aaef4f714e.csv",
+    "chunks": 10
+  },
+  "COVENTRY_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_COVENTRY_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LONDON_Riverside_STW::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LONDON_Riverside_STW_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "LONDON_Riverside_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LONDON_Riverside_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "LONDON_Long_Reach_STW::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_LONDON_Long_Reach_STW_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "LONDON_Long_Reach_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_LONDON_Long_Reach_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Casic_Loc_Sa_Marra::pv::2015-01-01::2024-12-31::8240175661": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Casic_Loc_Sa_Marra_20150101-20241231_merra2_8240175661.csv",
+    "chunks": 10
+  },
+  "Casic_Loc_Sa_Marra::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Casic_Loc_Sa_Marra_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "BARRANCO_SECO_II::pv::2015-01-01::2024-12-31::dd89c25401": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_BARRANCO_SECO_II_20150101-20241231_merra2_dd89c25401.csv",
+    "chunks": 10
+  },
+  "BARRANCO_SECO_II::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_BARRANCO_SECO_II_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "EDAR_de_Buenos_Aires::pv::2015-01-01::2024-12-31::dd89c25401": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_EDAR_de_Buenos_Aires_20150101-20241231_merra2_dd89c25401.csv",
+    "chunks": 10
+  },
+  "EDAR_de_Buenos_Aires::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_EDAR_de_Buenos_Aires_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "DEWSBURY_AND_BATLEY_STW::pv::2015-01-01::2024-12-31::6b8e8b39fc": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_DEWSBURY_AND_BATLEY_STW_20150101-20241231_merra2_6b8e8b39fc.csv",
+    "chunks": 10
+  },
+  "DEWSBURY_AND_BATLEY_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_DEWSBURY_AND_BATLEY_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Rostock_-_Bramow::pv::2015-01-01::2024-12-31::3e394c49d7": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Rostock_-_Bramow_20150101-20241231_merra2_3e394c49d7.csv",
+    "chunks": 10
+  },
+  "Rostock_-_Bramow::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Rostock_-_Bramow_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "ARROYO_DE_LA_VIBORA::pv::2015-01-01::2024-12-31::1a652f8e58": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_ARROYO_DE_LA_VIBORA_20150101-20241231_merra2_1a652f8e58.csv",
+    "chunks": 10
+  },
+  "ARROYO_DE_LA_VIBORA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_ARROYO_DE_LA_VIBORA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "TERRASSA::pv::2015-01-01::2024-12-31::932a0cca2d": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_TERRASSA_20150101-20241231_merra2_932a0cca2d.csv",
+    "chunks": 10
+  },
+  "TERRASSA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_TERRASSA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Pozzuoli_Na_Impianto_Napoli_Ovest_Cuma::pv::2015-01-01::2024-12-31::ae3c22b6e8": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Pozzuoli_Na_Impianto_Napoli_Ovest_Cuma_20150101-20241231_merra2_ae3c22b6e8.csv",
+    "chunks": 10
+  },
+  "Pozzuoli_Na_Impianto_Napoli_Ovest_Cuma::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Pozzuoli_Na_Impianto_Napoli_Ovest_Cuma_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "UWWTP_AARLE-RIXTEL::pv::2015-01-01::2024-12-31::22f8980d0b": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_UWWTP_AARLE-RIXTEL_20150101-20241231_merra2_22f8980d0b.csv",
+    "chunks": 10
+  },
+  "UWWTP_AARLE-RIXTEL::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_UWWTP_AARLE-RIXTEL_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Ellinge_Avloppsreningsverk::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Ellinge_Avloppsreningsverk_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Ellinge_Avloppsreningsverk::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Ellinge_Avloppsreningsverk_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Chemnitz_Heinersdorf_ZKA::pv::2015-01-01::2024-12-31::aa131a78fd": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Chemnitz_Heinersdorf_ZKA_20150101-20241231_merra2_aa131a78fd.csv",
+    "chunks": 10
+  },
+  "Chemnitz_Heinersdorf_ZKA::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Chemnitz_Heinersdorf_ZKA_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Erfurt::pv::2015-01-01::2024-12-31::567b6ddef7": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Erfurt_20150101-20241231_merra2_567b6ddef7.csv",
+    "chunks": 10
+  },
+  "Erfurt::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Erfurt_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "Sentralrenseanlegget_for_Nord_Jæren_SNJ::pv::2015-01-01::2024-12-31::66fe5cfdc5": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_Sentralrenseanlegget_for_Nord_Jæren_SNJ_20150101-20241231_merra2_66fe5cfdc5.csv",
+    "chunks": 10
+  },
+  "Sentralrenseanlegget_for_Nord_Jæren_SNJ::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_Sentralrenseanlegget_for_Nord_Jæren_SNJ_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "MAPLE_LODGE_BUCKS_STW::pv::2015-01-01::2024-12-31::75cba1d1db": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_MAPLE_LODGE_BUCKS_STW_20150101-20241231_merra2_75cba1d1db.csv",
+    "chunks": 10
+  },
+  "MAPLE_LODGE_BUCKS_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_MAPLE_LODGE_BUCKS_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  },
+  "READING_STW::pv::2015-01-01::2024-12-31::68f935552f": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\PV\\PV_READING_STW_20150101-20241231_merra2_68f935552f.csv",
+    "chunks": 10
+  },
+  "READING_STW::wind::2015-01-01::2024-12-31::a6d7f2589a": {
+    "status": "done",
+    "path": "C:\\Users\\aless\\PycharmProjects\\Masterthesis\\Output\\RenewableEnergyProfiles\\Wind\\Wind_READING_STW_20150101-20241231_merra2_a6d7f2589a.csv",
+    "chunks": 10
+  }
+}

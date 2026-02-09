@@ -1,0 +1,111 @@
+sheet,name,field,old_value,new_value,source
+General Data,Gratkorn,coordinates,"(47.1341111979, 15.3340554504)","(47.124132, 15.342714)","Falsche Koordinaten 47,124132  15,342714 / Netz vorhanden in Ortsteil aber kein Plan"
+General Data,UCOV Praha,coordinates,"(50.0827, 14.4691)","(50.1140634, 14.3984658)","Falsche Koordinaten 50,1140634 14,3984658"
+General Data,München I,coordinates,"(48.2095, 11.7052)","(48.209137, 11.628912)","Sehr nah zu bestehendem FWG/ Falsche Koordinaten 48,209137 11,628912"
+General Data,Chemnitz Heinersdorf ZKA,coordinates,"(50.8836, 12.8921)","(50.87664, 12.89768)","Falsche Koordinaten  50,876640  12,897680"
+General Data,Bitterfeld-Wolfen,coordinates,"(51.6518, 12.3106)","(51.66339, 12.2875)","Falsche koordinaten 51,663390 12,287500"
+General Data,Damhusåen,coordinates,"(55.63677649, 12.60951822)","(55.6392283, 12.508493)","Heizwerk direkt angeschlossen/ Falsche Koordinaten 55,6392283 12,5084930"
+General Data,SAN PANTALEON,coordinates,"(43.44221, -3.45325)","(43.46107, -3.5239584)","Kein bekanntes Fernwärmenetz in der Nähe/ Falsche Koordinaten 43,461070 -3,5239584"
+General Data,ROUEN,coordinates,"(49.4283909998, 1.0279567331)","(49.428625, 1.04236132)","Netz verläuft direkt neben Anlage/ Falsche Koordinaten 49,4286250, 1,04236132"
+General Data,Miskolc - Szennyviztisztito Telep,coordinates,"(48.08445, 20.855507)","(48.085467, 20.848491)","Keine Daten gefunden/ Falsche Koordinaten 48,085467 20,848491"
+General Data,Cork city,coordinates,"(51.89653, -8.46689)","(51.888792, -8.336269)","Kein bekanntes Fernwärmenetz in der Nähe, Umgeben von Industrieparks,Falsche Koordinaten 51,888792  -8,336269"
+General Data,Ringsend,coordinates,"(53.35607, -6.28966)","(53.338528, -6.1963557)","Anlage direkt daneben, Dublin Waste to heat/ Falsche Koordinaten 53,338528 -6,1963557"
+General Data,Bolzano,coordinates,"(46.504155, 11.3141878294)","(46.47568, 11.31053)","Falsche Koordinaten 46,475680  11,310530"
+General Data,ROWP DANCU IASI,coordinates,"(47.156, 27.594)","(47.148496, 27.65861)","Koordinaten Anlage falsch / 47,148496 27,658610"
+General Data,ROWP RAJA Constanta Sud,coordinates,"(44.176, 28.627)","(44.136628, 28.629618)","Koordinaten Anlage falsch / 44,136628 28,629618"
+General Data,ROWP GALATI,coordinates,"(45.441, 28.041)","(45.406389, 28.002566)","Koordinaten Anlage falsch / 45,406389  28,002566 "
+General Data,ROWP SC APA CANAL 2000 S.A. PITESTI,coordinates,"(44.836, 24.923)","(44.836, 24.923)","Koordinaten Anlage falsch / 44,836000 24,923000"
+General Data,ROWP SC COMPANIA APA SA Brasov,coordinates,"(45.65, 25.579)","(45.681905, 25.57339)","Koordinaten Anlage falsch / 45,681905 25,573390"
+General Data,LEEDS (KNOSTROP) STW,coordinates,"(53.77159342, -1.47577525)","(53.779774, -1.489746)","Netz direkt neben Anlage in Erwägung gezogen/Falsche Koordinaten 53,779774 -1,489746"
+General Data,Manchester and Salford (Davyhulme)STW,PE/Capacity,11206250,1200000,Manual patch for Manchester Salford
+General Data,FERNEY-VOLTAIRE - AIRE 2,PE/Capacity,600000,1000000,Manual patch for Aire 2
+General Data,HW_56333,Name,nan,Tirana,HydroWASTE Balkan plant name patch
+General Data,HW_56475,Name,nan,Belgrade,HydroWASTE Balkan plant name patch
+General Data,HW_56525,Name,nan,Novi Sad,HydroWASTE Balkan plant name patch
+General Data,HW_56424,Name,nan,Sarajevo,HydroWASTE Balkan plant name patch
+Technical Data - Plant Metrics,Gratkorn,Waste Water Treated,NaN,29181750.00,Calculated from Capacity (533000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Kohtla-Järve regionaalne reoveepuhasti,Waste Water Treated,NaN,18590253.00,Calculated from Capacity (339548) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Tallinna reoveepuhastusjaam,Waste Water Treated,NaN,24637500.00,Calculated from Capacity (450000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,AÏRE (SUISSE),Waste Water Treated,NaN,32850000.00,Calculated from Capacity (600000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Rijeka-Delta,Waste Water Treated,NaN,29565000.00,Calculated from Capacity (540000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Zagreb,Waste Water Treated,NaN,65700000.00,Calculated from Capacity (1200000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Impianto_C_Da_Magnisi_Casale_Vecchie_Saline_Depuratore_Ias_Priolo,Waste Water Treated,NaN,41062500.00,Calculated from Capacity (750000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Guia,Waste Water Treated,NaN,50370000.00,Calculated from Capacity (920000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Agra I e II,Waste Water Treated,NaN,19586265.00,Calculated from Capacity (357740) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Rib. de Moinhos,Waste Water Treated,NaN,19710000.00,Calculated from Capacity (360000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Matosinhos,Waste Water Treated,NaN,26876227.50,Calculated from Capacity (490890) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Alcanena,Waste Water Treated,NaN,21900000.00,Calculated from Capacity (400000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Alcantara,Waste Water Treated,NaN,41391000.00,Calculated from Capacity (756000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Frielas,Waste Water Treated,NaN,38325000.00,Calculated from Capacity (700000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Serzedelo II,Waste Water Treated,NaN,17276253.00,Calculated from Capacity (315548) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Belfast,Waste Water Treated,NaN,164250000.00,Calculated from Capacity (3000000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Newtownards (Ballyrickard),Waste Water Treated,NaN,27324630.00,Calculated from Capacity (499080) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,DALMARNOCK S.T.W.,Waste Water Treated,NaN,18067500.00,Calculated from Capacity (330000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,DALMUIR PFI - DALMUIR WWTW,Waste Water Treated,NaN,32510659.50,Calculated from Capacity (593802) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,"EDINBURGH, SEAFIELD WWTW",Waste Water Treated,NaN,41192093.25,Calculated from Capacity (752367) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,"LEVEN VALLEY, LEVENMOUTH WWTW",Waste Water Treated,NaN,23724981.75,Calculated from Capacity (433333) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,MEADOWHEAD W.W.T. SERVICE,Waste Water Treated,NaN,25746187.50,Calculated from Capacity (470250) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,NIGG WWTW- ABERDEEN PFI,Waste Water Treated,NaN,23268750.00,Calculated from Capacity (425000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,SHIELDHALL S.T.W.,Waste Water Treated,NaN,31426500.00,Calculated from Capacity (574000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,NORTH WARRINGTON   STW,Waste Water Treated,NaN,18807172.50,Calculated from Capacity (343510) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BLACKBURN STW,Waste Water Treated,NaN,20187529.50,Calculated from Capacity (368722) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BURTON ON TRENT   STW,Waste Water Treated,NaN,22447500.00,Calculated from Capacity (410000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Becton STW),Waste Water Treated,NaN,195948990.75,Calculated from Capacity (3578977) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,"MAPLE LODGE, BUCKS STW""",Waste Water Treated,NaN,32622459.00,Calculated from Capacity (595844) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (HOGSMILL Valley STW),Waste Water Treated,NaN,23925038.25,Calculated from Capacity (436987) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Beddington STW),Waste Water Treated,NaN,26027219.25,Calculated from Capacity (475383) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Deepham STW),Waste Water Treated,NaN,58674972.75,Calculated from Capacity (1071689) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Crossness STW),Waste Water Treated,NaN,117120324.00,Calculated from Capacity (2139184) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,HUDDERSFIELD STW,Waste Water Treated,NaN,28151409.75,Calculated from Capacity (514181) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LIVERPOOL (SANDON [NORTH LIVERPOOL DOCKS] ) STW,Waste Water Treated,NaN,37968249.00,Calculated from Capacity (693484) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,WIGAN (HOSCAR) STW,Waste Water Treated,NaN,22474765.50,Calculated from Capacity (410498) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BRISTOL   STW,Waste Water Treated,NaN,54993637.50,Calculated from Capacity (1004450) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Manchester and Salford (Davyhulme)STW,Waste Water Treated,NaN,613542187.50,Calculated from Capacity (11206250) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,STOKE ON TRENT (STRONGFORD) STW,Waste Water Treated,NaN,23856655.50,Calculated from Capacity (435738) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BIRMINGHAM & BLACK COUNTRY NO. 1 (MINWORTH) STW,Waste Water Treated,NaN,104025000.00,Calculated from Capacity (1900000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BRADFORD ESHOLT STW,Waste Water Treated,NaN,31101887.25,Calculated from Capacity (568071) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,DEWSBURY AND BATLEY   STW,Waste Water Treated,NaN,20790436.50,Calculated from Capacity (379734) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,NEWCASTLE  (Howdon) STW,Waste Water Treated,NaN,54957228.75,Calculated from Capacity (1003785) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LEEDS (KNOSTROP) STW,Waste Water Treated,NaN,47776328.25,Calculated from Capacity (872627) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,DERBY STW,Waste Water Treated,NaN,22447500.00,Calculated from Capacity (410000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,SHEFFIELD (BLACKBURN MEADOWS) STW,Waste Water Treated,NaN,32048843.25,Calculated from Capacity (585367) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,MIDDLESBOROUGH   STW,Waste Water Treated,NaN,31140869.25,Calculated from Capacity (568783) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LEICESTER   STW,Waste Water Treated,NaN,38325000.00,Calculated from Capacity (700000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,NOTTINGHAM STW,Waste Water Treated,NaN,35587500.00,Calculated from Capacity (650000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,READING STW,Waste Water Treated,NaN,16458452.25,Calculated from Capacity (300611) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,NORTHAMPTON   STW,Waste Water Treated,NaN,18470295.75,Calculated from Capacity (337357) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,MILTON KEYNES   STW,Waste Water Treated,NaN,17854029.75,Calculated from Capacity (326101) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Mogden STW),Waste Water Treated,NaN,110243724.00,Calculated from Capacity (2013584) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,HULL STW,Waste Water Treated,NaN,30155971.50,Calculated from Capacity (550794) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Rye Meads STW,Waste Water Treated,NaN,22300605.75,Calculated from Capacity (407317) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,"TILBURY STW, TILBURY, ESSEX""",Waste Water Treated,NaN,17793750.00,Calculated from Capacity (325000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,NORWICH   STW,Waste Water Treated,NaN,24637500.00,Calculated from Capacity (450000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LOWESTOFT STW,Waste Water Treated,NaN,22173750.00,Calculated from Capacity (405000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Fleetwood and Blackpool (Fleetwood Marsh) STW,Waste Water Treated,NaN,16429434.75,Calculated from Capacity (300081) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BOLTON STW,Waste Water Treated,NaN,23312221.50,Calculated from Capacity (425794) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,COVENTRY  STW,Waste Water Treated,NaN,26507595.75,Calculated from Capacity (484157) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,PORTSMOUTH AND HAVANT   STW,Waste Water Treated,NaN,20827940.25,Calculated from Capacity (380419) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,PEACEHAVEN WASTEWATER TREATMENT WKS,Waste Water Treated,NaN,16540139.25,Calculated from Capacity (302103) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Riverside STW),Waste Water Treated,NaN,23465631.00,Calculated from Capacity (428596) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LONDON (Long Reach STW),Waste Water Treated,NaN,50364470.25,Calculated from Capacity (919899) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,ZUERICHWERDHOELZLI,Waste Water Treated,NaN,36682500.00,Calculated from Capacity (670000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,ARA REGION BERN AG,Waste Water Treated,NaN,27375000.00,Calculated from Capacity (500000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,BASEL,Waste Water Treated,NaN,18888750.00,Calculated from Capacity (345000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,LAUSANNE,Waste Water Treated,NaN,22584375.00,Calculated from Capacity (412500) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Monthey CIMO,Waste Water Treated,NaN,19710000.00,Calculated from Capacity (360000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Regional ARA Visp,Waste Water Treated,NaN,21288606.75,Calculated from Capacity (388833) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,SAINT JULIEN EN GENEVOIS,Waste Water Treated,NaN,32850000.00,Calculated from Capacity (600000) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,,Waste Water Treated,NaN,38353579.50,Calculated from Capacity (700522) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,,Waste Water Treated,NaN,18165885.75,Calculated from Capacity (331797) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,,Waste Water Treated,NaN,46976814.00,Calculated from Capacity (858024) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,,Waste Water Treated,NaN,16526889.75,Calculated from Capacity (301861) × 54.75 m³/(PE·a)
+Technical Data - Plant Metrics,Manchester and Salford (Davyhulme)STW,PE/Capacity,11206250,1200000,Manual patch for Manchester Salford
+Technical Data - Plant Metrics,FERNEY-VOLTAIRE - AIRE 2,PE/Capacity,600000,1000000,Manual patch for Aire 2
+Technical Data - Plant Metrics,HW_56333,Name,nan,Tirana,HydroWASTE Balkan plant name patch
+Technical Data - Plant Metrics,HW_56475,Name,nan,Belgrade,HydroWASTE Balkan plant name patch
+Technical Data - Plant Metrics,HW_56525,Name,nan,Novi Sad,HydroWASTE Balkan plant name patch
+Technical Data - Plant Metrics,HW_56424,Name,nan,Sarajevo,HydroWASTE Balkan plant name patch
+ALL,FERNEY-VOLTAIRE - AIRE 2,merge,"FERNEY-VOLTAIRE - AIRE 2 (General Data), AÏRE (SUISSE) (General Data), FERNEY-VOLTAIRE - AIRE 2 (Technical Data - Plant Metrics), AÏRE (SUISSE) (Technical Data - Plant Metrics)","Capacity: 3200000, WW: 32855315.0",Aire plants merged across all sheets
+ALL,PINEDO 1,merge,"PINEDO 1 (General Data), PINEDO 2 (General Data), PINEDO 1 (Technical Data - Plant Metrics), PINEDO 2 (Technical Data - Plant Metrics)","Capacity: 3551146, WW: 119220952.0",Pinedo plants merged across all sheets
+ALL,PALMA II,merge,"PALMA II (General Data), PALMA I (General Data), PALMA II (Technical Data - Plant Metrics), PALMA I (Technical Data - Plant Metrics)","Capacity: 2024000, WW: 28444529.0",Palma plants merged across all sheets
+ALL,ROWP SC APA NOVA SA BUCURESTI,merge,"ROWP SC APA NOVA SA BUCURESTI (General Data), ROWP SC APA NOVA SA BUCURESTI (General Data), ROWP SC APA NOVA SA BUCURESTI (Technical Data - Plant Metrics), ROWP SC APA NOVA SA BUCURESTI (Technical Data - Plant Metrics)","Capacity: 4696000, WW: 230994420.0",Bucuresti plants merged across all sheets

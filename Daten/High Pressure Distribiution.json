@@ -1,0 +1,2351 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "id" : 1, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [8.44680880785887, 55.4684072060644], 
+          [8.55242862671379, 55.5192362532102], 
+          [8.58042866394481, 55.5310825299539], 
+          [8.59841427027409, 55.5393533299675], 
+          [8.62437121704257, 55.552320048761], 
+          [8.65046217148278, 55.5618238700436], 
+          [8.67357511973762, 55.569561718573], 
+          [8.69967018246022, 55.5796317551898], 
+          [8.74100746335928, 55.5904248143228], 
+          [8.78236706963866, 55.6012044602707], 
+          [8.8217148502084, 55.6119518250667], 
+          [8.85002634791175, 55.6179758022223], 
+          [8.87834638871933, 55.623993481186], 
+          [8.92896798606492, 55.63365336639], 
+          [8.95940706680924, 55.6373648696044], 
+          [8.99598805204516, 55.6399648080156], 
+          [9.03053798840242, 55.6425387195829], 
+          [9.07730798838138, 55.645192477316], 
+          [9.12405873418541, 55.6489817300293], 
+          [9.17392084041969, 55.6504682742101], 
+          [9.2278816840286, 55.6508073470592], 
+          [9.26657110538643, 55.6510363644184], 
+          [9.30323473114322, 55.6506661090313], 
+          [9.34705304510782, 55.6485929723831], 
+          [9.39395606013298, 55.6442138447508], 
+          [9.43576746325801, 55.6392185578626], 
+          [9.48571769412724, 55.6336663431072], 
+          [9.54383431585806, 55.6246656994781], 
+          [9.61314821082924, 55.6122147574208], 
+          [9.67022567177316, 55.5985421708775], 
+          [9.70284216636064, 55.5882475386532], 
+          [9.72322190162347, 55.5813768568266], 
+          [9.74361686582158, 55.5710445974734], 
+          [9.75785689681403, 55.5687669872168]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 1, 
+        "Project_Na" : "Feasibility study South Jutland", 
+        "Promoter_N" : "Evida", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2026", 
+        "Share_of_t" : 100, 
+        "Location" : "Denmark/South Jutland between Esbjerg and Fredericia", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Feasiblity study of around 90 km new hydrogen pipeline between Esbjerg and Fredericia for operations in 2026.", 
+        "Website" : "https://evida.dk/", 
+        "Shape__Length" : 159115.53495807736, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 2, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [9.42732581588392, 56.6433684781488], 
+          [9.42701558098081, 56.6641215321394], 
+          [9.42663586191824, 56.6894864991119], 
+          [9.43258068542555, 56.7117084706952], 
+          [9.44648135301829, 56.7633669431298], 
+          [9.4625947647539, 56.8095564850821], 
+          [9.47893648008089, 56.8419084811723], 
+          [9.48714879339831, 56.8557777906542], 
+          [9.50258936673198, 56.8797637034139], 
+          [9.5202034564238, 56.8997200798832], 
+          [9.55563227017551, 56.9272308699512], 
+          [9.58592621914166, 56.9475091702797], 
+          [9.61836501481399, 56.9672101919278], 
+          [9.65192317703364, 56.983446897043], 
+          [9.69181905083311, 57.001707965362], 
+          [9.71495047489354, 57.0101202264753], 
+          [9.74651867154731, 57.0202746215923], 
+          [9.83505259600572, 57.036559174873], 
+          [9.88146272629902, 57.0435278889011], 
+          [9.91944468352502, 57.0504752771766]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 2, 
+        "Project_Na" : "Feasibility study South Jutland", 
+        "Promoter_N" : "Evida", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2026", 
+        "Share_of_t" : 100, 
+        "Location" : "Denmark/South Jutland between Esbjerg and Fredericia", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Feasiblity study of around 90 km new hydrogen pipeline between Esbjerg and Fredericia for operations in 2026.", 
+        "Website" : "https://evida.dk/", 
+        "Shape__Length" : 109340.31502705328, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 3, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [8.53781414334089, 56.3573386368197], 
+          [8.58164645356617, 56.3921330004623], 
+          [8.62237003348447, 56.4288968834364], 
+          [8.65665511402392, 56.458662089762], 
+          [8.70663032898697, 56.5029895462639], 
+          [8.74890736373984, 56.5472231003294], 
+          [8.77116123560383, 56.5681919976174], 
+          [8.78943149081739, 56.5839308376968], 
+          [8.80368790041644, 56.5950176371982], 
+          [8.81991501064359, 56.6101566709551], 
+          [8.84733388863361, 56.6289608523996], 
+          [8.86568960341601, 56.6438246101445], 
+          [8.88572717046004, 56.6552407900061], 
+          [8.89652155501853, 56.6613867010728], 
+          [8.92082773507071, 56.6742135441734], 
+          [8.95190713764087, 56.6858314042164], 
+          [8.98209576651215, 56.6947291314262], 
+          [9.01138659150734, 56.7009073297116], 
+          [9.03775503181094, 56.706516187866], 
+          [9.06809850261771, 56.7105248098968], 
+          [9.09310500903993, 56.7120542157305], 
+          [9.18669193220073, 56.7115576232431], 
+          [9.35621390269379, 56.7107767105817], 
+          [9.40541828468259, 56.7089929105815], 
+          [9.44729920034423, 56.7068713878128], 
+          [9.54776969178638, 56.7038001197842], 
+          [9.68589795454249, 56.6984416560166], 
+          [9.77798617782449, 56.6905602794256], 
+          [9.81147730419322, 56.684848099076], 
+          [9.84182349724133, 56.6788350031022], 
+          [9.87581641340942, 56.6733954319823], 
+          [9.89934650130655, 56.6688062816638], 
+          [9.93855189397975, 56.6604690136279], 
+          [9.95945644033715, 56.6541357587959], 
+          [9.98296480075437, 56.6492407551818]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 3, 
+        "Project_Na" : "Feasibility study South Jutland", 
+        "Promoter_N" : "Evida", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2026", 
+        "Share_of_t" : 100, 
+        "Location" : "Denmark/South Jutland between Esbjerg and Fredericia", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Feasiblity study of around 90 km new hydrogen pipeline between Esbjerg and Fredericia for operations in 2026.", 
+        "Website" : "https://evida.dk/", 
+        "Shape__Length" : 198839.61703484092, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 4, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [11.6903166441812, 51.8956274510882], 
+          [11.6797142696819, 51.8810298665543], 
+          [11.634858069877, 51.8749880998596], 
+          [11.5973419754948, 51.864413054488]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 4, 
+        "Project_Na" : "Energieregion Stassfurt", 
+        "Promoter_N" : "Energie Mittelsachsen GmbH, MVV Umwelt GmbH, Stadtwerke Stasfurt GmbH", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced (commissioning before 31 Dec 2030)", 
+        "Commission" : "2025", 
+        "Share_of_t" : 100, 
+        "Location" : "Stassfurt", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "In collaboration with the city of Stassfurt and the Salzlandkreis an H2-gas station is planned to provide Green Hydrogen for the municipal mobility sector of the Salzlandkreis (buses and garbage trucks) as well as nationwide car and truck traffic.", 
+        "Website" : "https://energieregion.stassfurt.de", 
+        "Shape__Length" : 12587.027224354741, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 5, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [16.4734845857048, 48.1664541359776], 
+          [16.5114882912139, 48.117590455285], 
+          [16.6730928187493, 48.0383969445428], 
+          [16.8338856996657, 48.042538301839], 
+          [17.0034607637303, 47.9341650427217]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 5, 
+        "Project_Na" : "H2 Collector", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2026", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "The H2 Collector Ost project is the first milestone for an Austrian hydrogen network. It is intended to supply regionally produced hydrogen to industrial consumers in the eastern region. Commissioning is planned from 2026 onwards.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 75507.616103756183, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 6, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [16.8790858924189, 48.3284365703256], 
+          [16.7631123570748, 48.3631692118607], 
+          [16.762385665824, 48.5295568086478], 
+          [16.7990562396015, 48.6060090857073]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 6, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2030", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 55577.235647749527, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 7, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [15.8538512951447, 48.4178853460996], 
+          [15.7424483618186, 48.4070312862254], 
+          [15.7127666547171, 48.3795841025506], 
+          [15.7647878876168, 48.34998939069], 
+          [15.9541834148793, 48.3307128883297]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 7, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2030", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 47152.087974275608, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 8, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [14.4879319462127, 48.5401300703045], 
+          [14.4840939049411, 48.2254365080605], 
+          [14.3323717053546, 48.2246555951693], 
+          [13.8743298086783, 48.0247407017473], 
+          [13.7121135213837, 47.9876295652239], 
+          [13.5910912169877, 47.978759827254], 
+          [13.5464305312032, 47.9871417844806], 
+          [13.579370470776, 48.0198620517403]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 8, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2030", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 174923.66182839137, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 9, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [14.3318823961957, 48.2246402093562], 
+          [14.31497096669, 48.2825291866578], 
+          [14.3189386374983, 48.2936417139274]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 9, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2030", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 11770.605149995938, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 10, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [15.5073474537301, 46.8935413379177], 
+          [15.3112888346528, 46.9831390632194], 
+          [15.240012894221, 47.3999393500975]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 10, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2030", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 95000.142214117717, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 11, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [16.8810935062427, 48.3124116853882], 
+          [16.7354708490328, 48.3212534098247], 
+          [16.3828763313772, 47.9956465875326], 
+          [16.2280711990933, 47.7619547118752], 
+          [15.4791262400437, 47.5170393267494], 
+          [15.2605763766575, 47.4375865882226], 
+          [15.239910400363, 47.4000414659222]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 11, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2040", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 252640.48994187691, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 12, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [15.2401059932032, 47.399773803523], 
+          [15.0674616208166, 47.4015709840178], 
+          [14.9973816314903, 47.3510344901295]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 12, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2040", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.e-netze.at", 
+        "Shape__Length" : 30617.222312927202, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 13, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [16.873179512627, 48.3153994416911], 
+          [16.6225152310561, 48.3728282769124], 
+          [16.1980946195702, 48.4148124133885], 
+          [15.9396756771051, 48.3241808823312], 
+          [15.005326476173, 48.0986810561748], 
+          [14.4690758151392, 48.1342828358428]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 13, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2050", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 280424.73978269042, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 14, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [14.4687863205472, 48.1342348350651], 
+          [13.8668653018423, 48.0235058070795], 
+          [13.6484602172812, 48.0521059842948], 
+          [13.5760459119107, 48.0168118358386], 
+          [13.5470695738318, 47.9895285861614], 
+          [13.0966283937412, 48.0717226617674], 
+          [12.8316278049873, 48.157472715936]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 14, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2050", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.aggm.at/en/energy-transition/h2-roadmap/", 
+        "Shape__Length" : 194575.56660427109, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 15, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [14.4690736707459, 48.1344908396744], 
+          [14.3317242459582, 48.224815227436]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 15, 
+        "Project_Na" : "H2 Roadmap", 
+        "Promoter_N" : "AGGM Austrian Gas Grid Management AG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2050", 
+        "Share_of_t" : 100, 
+        "Location" : "Distribution Austria", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Within the framework of the H2 Roadmap, the development of a hydrogen grid is being driven forward to transition to a renewable grid. A hydrogen network will be parallel to a methane network, while the latter is to be gradually repurposed by 2050.", 
+        "Website" : "https://www.netzooe.at/", 
+        "Shape__Length" : 21474.654278062717, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 16, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [-8.83259971001781, 37.9681636467883], 
+          [-8.85986560189686, 37.9577817373019], 
+          [-8.86095004092134, 37.9568045407038], 
+          [-8.86497795639961, 37.9559494830155], 
+          [-8.87163950950876, 37.9544836466775], 
+          [-8.87489282658212, 37.9513686480421], 
+          [-8.87706170463106, 37.9510021688471], 
+          [-8.87961788143329, 37.9530788601127], 
+          [-8.88449785614507, 37.9563770131039], 
+          [-8.88480769586635, 37.9602857435323], 
+          [-8.88163183962159, 37.9635225040391], 
+          [-8.87628710532787, 37.9655988406152], 
+          [-8.87194934923003, 37.9661484494803], 
+          [-8.86745667416982, 37.9643164046393], 
+          [-8.8640484381341, 37.9621789603927], 
+          [-8.85940084231495, 37.9621178896429], 
+          [-8.85521800697604, 37.965049227636], 
+          [-8.85111263156746, 37.9669423216892], 
+          [-8.84514821693289, 37.9671255217492], 
+          [-8.83988094256951, 37.9664537859611], 
+          [-8.83476858806675, 37.9674919204979], 
+          [-8.83252225008749, 37.96822471251], 
+          [-8.83019845307625, 37.966270584225], 
+          [-8.82609307676933, 37.9607132483798], 
+          [-8.82369181982776, 37.9558884070855], 
+          [-8.82291722052457, 37.9517962047923], 
+          [-8.82438895920063, 37.9470929443886], 
+          [-8.8271775157938, 37.9428780787036], 
+          [-8.82911401405177, 37.9408621875747], 
+          [-8.83825428403281, 37.9441608890126], 
+          [-8.84933105317012, 37.9435500301246], 
+          [-8.85366880836966, 37.9468486109093], 
+          [-8.85777418377825, 37.9478259399514], 
+          [-8.86218939980644, 37.9496583961574], 
+          [-8.86397097820378, 37.9530788601127], 
+          [-8.86629477521503, 37.9543614923289], 
+          [-8.87156204957844, 37.9545447237756]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 16, 
+        "Project_Na" : "H2GVILLAGE", 
+        "Promoter_N" : "FLOENE (FLOENE, REN, BOSCH)", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2025", 
+        "Share_of_t" : 100, 
+        "Location" : "Pipeline connecting the Backbone to Sines existing network + 30 customer conversion", 
+        "Increment" : "0.0003", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "H2GVILLAGE aims to leave the network of Sines to be fully converted to 100 H2 and, until Dec 2025 to convert a pilot of 30 customers. Appliances will be developed by BOSCH. The project will be connected to REN's H2GREEN Backbone project", 
+        "Website" : "No data available", 
+        "Shape__Length" : 23643.923966126749, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 17, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [-9.1535697517004, 39.4124114343033], 
+          [-9.15150134841936, 39.4064756047657], 
+          [-9.15238780684005, 39.4007675994019], 
+          [-9.15091037554003, 39.3952874749832], 
+          [-9.14647808343661, 39.3866097304194], 
+          [-9.13643155526773, 39.3802149123904], 
+          [-9.13140829028497, 39.3742763428993], 
+          [-9.11840690041437, 39.3685657030708], 
+          [-9.1113152330489, 39.3660528739195], 
+          [-9.10185967596272, 39.3665097584829], 
+          [-9.09535898057826, 39.3687941378535], 
+          [-9.08797182767144, 39.3683372682353], 
+          [-9.082062104268, 39.3655959863671], 
+          [-9.07319752006115, 39.3655959863671], 
+          [-9.06374196387329, 39.3639968553534], 
+          [-9.05635481006815, 39.3605700232397], 
+          [-9.05221800440439, 39.3580569057064], 
+          [-9.04246696177686, 39.3569145501083], 
+          [-9.03389786311137, 39.352344940221], 
+          [-9.02887459902693, 39.3477750307658], 
+          [-9.02444230692351, 39.3402340275425], 
+          [-9.01262286101494, 39.3358918684962], 
+          [-8.99459820616159, 39.3315494404427], 
+          [-8.97568709288757, 39.3237781055458], 
+          [-8.96593605026003, 39.3226351896074], 
+          [-8.9576624380342, 39.3214922542983], 
+          [-8.95441209079114, 39.3221780174468], 
+          [-8.97361868960651, 39.3434333408638], 
+          [-8.97420966248586, 39.3530304007922], 
+          [-8.9706638288031, 39.3612554031126], 
+          [-8.96977737038244, 39.3694794370235], 
+          [-8.96652702224104, 39.3751900021235], 
+          [-8.96239021657728, 39.392547251333], 
+          [-8.96593605026003, 39.4158357216245], 
+          [-8.96504959183934, 39.4224555332979], 
+          [-8.98011938499098, 39.4249663324382]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 17, 
+        "Project_Na" : "H2GRID", 
+        "Promoter_N" : "FLOENE (ESSENTIAL ADVANTAGE, FLOENE)", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2024", 
+        "Share_of_t" : 10, 
+        "Location" : "Direct injection in existing natural gas 20 bar pipeline operated by FLOENE (distribution) - Rio Maior, Caldas da Rainha and Benedita", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Production and injection of up to 300 Nm3/h of H2 in the natural gas existing network, downstream to the connection to the transmission pressure reducing station of Rio Maior.\r\nBlend up to 10%. 14,000 customers. 60 industrial customers", 
+        "Website" : "No data available", 
+        "Shape__Length" : 45626.8233116066, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 18, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [2.81775586345885, 42.5236737785107], 
+            [2.82366558686227, 42.5302066188976], 
+            [2.82780239252604, 42.5336905213057], 
+            [2.83784892159322, 42.5371742293791], 
+            [2.8473044777811, 42.5430525457062], 
+            [2.85025933948281, 42.5491479924728], 
+            [2.84907739462246, 42.5548075181091], 
+            [2.84375864409835, 42.567213142906], 
+            [2.84523607539838, 42.5800514552555], 
+            [2.84996385304316, 42.5922345267209], 
+            [2.85262322830522, 42.6046327080872], 
+            [2.85262322830522, 42.6124618673955], 
+            [2.85764649328797, 42.6250734433153], 
+            [2.86089684053104, 42.6339869820856], 
+            [2.86148781341039, 42.6531141691278], 
+            [2.86237427183104, 42.6735389867473], 
+            [2.86296524381206, 42.6969975143374], 
+            [2.87005691117754, 42.712848724066], 
+            [2.87833052340335, 42.7263082170345], 
+            [2.88571767720852, 42.7391137323886], 
+            [2.89162739971365, 42.7458409947568], 
+            [2.89162739971365, 42.7599441749443], 
+            [2.892809344574, 42.7703567706936], 
+            [2.89517323339637, 42.7833700541572], 
+            [2.89546871983605, 42.7937787118894], 
+            [2.89724163667741, 42.800500039999], 
+            [2.90433330404289, 42.810472278112], 
+            [2.90935656812732, 42.8223934961296], 
+            [2.91053851298767, 42.8314954239498], 
+            [2.91024302654801, 42.837779306007], 
+            [2.91231142982907, 42.8431959332744], 
+            [2.91969858363419, 42.8453624513514], 
+            [2.92649476456002, 42.8462290367813], 
+            [2.9341774039065, 42.8514282967049], 
+            [2.94067809929096, 42.8535945260604], 
+            [2.9471787946754, 42.8557606794355], 
+            [2.95397497560122, 42.8585765651658], 
+            [2.96224858782704, 42.8590097667046], 
+            [2.97199963045457, 42.8631250320447], 
+            [2.98293261794246, 42.8676731638418], 
+            [2.99031977174758, 42.8767684221746], 
+            [2.99297914700965, 42.8852128190159], 
+            [2.99209268858894, 42.8938725384835], 
+            [2.9941610909717, 42.9018816965543], 
+            [2.99091074372859, 42.91075549401], 
+            [2.98322810438211, 42.9187624589876], 
+            [2.97377254729593, 42.9250374606497], 
+            [2.97022671361321, 42.9302300823313], 
+            [2.97022671361321, 42.9384508385378], 
+            [2.97111317203388, 42.9496985156853], 
+            [2.96993122807186, 42.9609441378175], 
+            [2.96904476965116, 42.9669986210454], 
+            [2.97199963045457, 42.9721877042192], 
+            [2.97406803373562, 42.9775925338904], 
+            [2.97377254729593, 42.9845100228665], 
+            [2.96638539349081, 42.9972621017578], 
+            [2.96343053268739, 43.0041773774145], 
+            [2.95456594848056, 43.0100115354666], 
+            [2.95249754519951, 43.0171414205822], 
+            [2.95338400362021, 43.0283747114219], 
+            [2.9527930316392, 43.0374462533373], 
+            [2.9495426834978, 43.0415496058197], 
+            [2.94097358573062, 43.0486758285835], 
+            [2.93772323758922, 43.0586079702025], 
+            [2.93683677916855, 43.0655163370223], 
+            [2.9380187240289, 43.0704812447836], 
+            [2.9365412936272, 43.0773882742911], 
+            [2.93624580718751, 43.0834312863565], 
+            [2.93890518244957, 43.0879631541], 
+            [2.94038261374961, 43.0961628242278], 
+            [2.94392844743233, 43.1015567457082], 
+            [2.95072462835814, 43.1093231575481], 
+            [2.95545240690122, 43.1153630190964], 
+            [2.95870275414432, 43.120755248951], 
+            [2.960180184546, 43.1259313423438], 
+            [2.96874928321151, 43.1330477556845], 
+            [2.9755454641373, 43.1382228089624], 
+            [2.9811597011011, 43.1451221985218], 
+            [2.98500102122347, 43.1528830813592], 
+            [2.98884234044758, 43.159996358948], 
+            [2.99859338397341, 43.1664622557925], 
+            [3.01277671870436, 43.1705569694002], 
+            [3.02577810857496, 43.1737894444839], 
+            [3.0370065825025, 43.1783146221718], 
+            [3.04705311067139, 43.182408541822], 
+            [3.06064547342133, 43.1862867385941], 
+            [3.07157846090921, 43.1925344267177], 
+            [3.08014755957469, 43.2002892872509], 
+            [3.08753471248152, 43.2093353789404], 
+            [3.09167151904358, 43.2162267386815], 
+            [3.0969902695677, 43.2233326386954], 
+            [3.10408193693317, 43.2282847452542], 
+            [3.11678784126242, 43.2306530017189], 
+            [3.13097117599337, 43.2323753128548], 
+            [3.1416086770416, 43.236896146871], 
+            [3.1537236084915, 43.2472282223737], 
+            [3.16495208241907, 43.2577737423015], 
+            [3.17618055544828, 43.2659506430669], 
+            [3.18209027885173, 43.2730507450472], 
+            [3.18770451491717, 43.2835917929693], 
+            [3.19538715516198, 43.2917652262342], 
+            [3.20454722580851, 43.2986472649626], 
+            [3.2169576436981, 43.3025180696015], 
+            [3.2314364648687, 43.3046684103565], 
+            [3.24384688275829, 43.3074637395617], 
+            [3.25743924550823, 43.3143440015166], 
+            [3.27250903865984, 43.3250928523164], 
+            [3.28314653970807, 43.3326159159044], 
+            [3.29260209589592, 43.3377740496883], 
+            [3.31003577876827, 43.3427168505304], 
+            [3.32510557191988, 43.3457253144172], 
+            [3.33219723928536, 43.349593120621], 
+            [3.34017536507154, 43.3573279936483], 
+            [3.35051738057841, 43.3618395476427], 
+            [3.36617814571106, 43.3626988534437], 
+            [3.37977050846097, 43.3629136781555], 
+            [3.39188544080921, 43.3682840428443], 
+            [3.40281842739879, 43.3732243592845], 
+            [3.41493335974703, 43.3768756383411], 
+            [3.43000315289864, 43.3770904128461], 
+            [3.44241357078823, 43.3779495019529], 
+            [3.45423301669677, 43.3839627881614], 
+            [3.46693892102605, 43.3949140265789], 
+            [3.48230420061735, 43.4039312084289], 
+            [3.49294170166555, 43.4069366370607], 
+            [3.50623857797584, 43.4101565739331], 
+            [3.52189934400679, 43.4161666649956], 
+            [3.5340142754567, 43.4204592216376], 
+            [3.54583372136528, 43.423034609683], 
+            [3.55794865281517, 43.4266828889814], 
+            [3.56740420990135, 43.4354807743785], 
+            [3.57597330766854, 43.4451355181375], 
+            [3.58365594791335, 43.4492115031432], 
+            [3.59281601766154, 43.4507131127318], 
+            [3.60168060186838, 43.4520001768063], 
+            [3.6093632421132, 43.4567191769754], 
+            [3.61911428474072, 43.461008858408], 
+            [3.62886532736826, 43.4627246453756], 
+            [3.64127574525785, 43.4702306422066], 
+            [3.65161776076469, 43.4755914971287], 
+            [3.66402817865428, 43.4796654293766], 
+            [3.6805754022076, 43.4805230644951], 
+            [3.69180387613517, 43.4837390869508], 
+            [3.70864658612818, 43.4871693224239], 
+            [3.71662471191432, 43.4908137337393], 
+            [3.72814867138321, 43.500888315801], 
+            [3.73878617243144, 43.5068893948415], 
+            [3.73937714531078, 43.5068893948415], 
+            [3.74558235425556, 43.5124612920604], 
+            [3.75208304964002, 43.5188897645662], 
+            [3.76419798108993, 43.5248890545859], 
+            [3.77808583027952, 43.532601550595], 
+            [3.78576846962604, 43.5396704722711], 
+            [3.79522402581388, 43.5465243925928], 
+            [3.80172472119835, 43.5497368996071], 
+            [3.81147576382589, 43.5516643216315], 
+            [3.8191584040707, 43.5527350854452], 
+            [3.82772750183785, 43.559373393343], 
+            [3.83570562762402, 43.5647263353368], 
+            [3.8475250735326, 43.5681519686879], 
+            [3.85964000588084, 43.5702928906851], 
+            [3.86791361720833, 43.5713633228211], 
+            [3.87943757757555, 43.5754307924721], 
+            [3.88918862020309, 43.5833508658212], 
+            [3.90071257967198, 43.5914839103276], 
+            [3.91548688638394, 43.598759913808], 
+            [3.92937473557354, 43.6047512561387], 
+            [3.93617091649935, 43.6077467032341], 
+            [3.94444452872518, 43.6143789488143], 
+            [3.95301362649237, 43.6188713446565], 
+            [3.9633556419992, 43.6255023634189], 
+            [3.97103828134569, 43.6338435737026], 
+            [3.97576605988879, 43.6423974588908], 
+            [3.98078932397322, 43.6475292053607], 
+            [3.99556363158351, 43.6565087068066], 
+            [4.00383724380933, 43.6637768438962], 
+            [4.01211085513686, 43.6712578302403], 
+            [4.02777162116782, 43.6766008214452], 
+            [4.04431884561948, 43.6819433369446], 
+            [4.05732023549008, 43.6883537273471], 
+            [4.07061711180032, 43.6907040319742], 
+            [4.08745982179334, 43.6956180079131], 
+            [4.10282510138464, 43.6975407585421], 
+            [4.11109871361046, 43.6996770760368], 
+            [4.12114524267768, 43.7060855711763], 
+            [4.13444211898794, 43.7150563134895], 
+            [4.14803448173788, 43.72231735976], 
+            [4.16103587160848, 43.724239254074], 
+            [4.17581017921876, 43.7250934097502], 
+            [4.18792511066867, 43.728936958604], 
+            [4.19413031961345, 43.7342748119765], 
+            [4.19974455657725, 43.7430278610338], 
+            [4.20654073750303, 43.7472971772639], 
+            [4.21599629458921, 43.7507124102401], 
+            [4.22663379563744, 43.7509258560741], 
+            [4.24111261680805, 43.7490048181109], 
+            [4.25175011785628, 43.7498586205896], 
+            [4.26091018850276, 43.7556214672916], 
+            [4.26800185586824, 43.7645847924811], 
+            [4.27450255125271, 43.7699194677786], 
+            [4.28602651072159, 43.7765338036908], 
+            [4.29223171966641, 43.7825074143966], 
+            [4.29873241505084, 43.787627176937], 
+            [4.30552859597666, 43.794239554794], 
+            [4.31084734650078, 43.799998126345], 
+            [4.32089387556796, 43.8029838342816], 
+            [4.33005394621449, 43.8055428933834], 
+            [4.3460101977868, 43.8102342165857], 
+            [4.36255742134012, 43.8147119545169], 
+            [4.37378589526769, 43.8187629521428], 
+            [4.39269700854171, 43.8279299843211], 
+            [4.40392548157095, 43.8341116062098], 
+            [4.41397201063813, 43.8396532062609], 
+            [4.42165464998462, 43.850734861761], 
+            [4.42992826221044, 43.8594708690481], 
+            [4.43731541601561, 43.867779542157], 
+            [4.44943034746551, 43.8750220561503], 
+            [4.46154527981375, 43.8794949338019], 
+            [4.47602410098439, 43.8814117785836], 
+            [4.48902549085499, 43.8839674756944], 
+            [4.50261785360489, 43.8899303428045], 
+            [4.51355084109277, 43.8967443166958], 
+            [4.52684771740307, 43.9014284718529], 
+            [4.53984910727367, 43.9031317099884], 
+            [4.5525550116029, 43.9048348987481], 
+            [4.56673834633386, 43.909518417389], 
+            [4.58033070908376, 43.9188843484837], 
+            [4.58742237644924, 43.9233539324101], 
+            [4.60101473919918, 43.9335688633544], 
+            [4.6110612682664, 43.9405906113977], 
+            [4.61785744919218, 43.9456968159656], 
+            [4.62110779733359, 43.9508025819525], 
+            [4.62613106141801, 43.9561206213814], 
+            [4.63558661850419, 43.9625016416755], 
+            [4.64504217469207, 43.9686693090389], 
+            [4.65331578691789, 43.9744110445788], 
+            [4.66424877440577, 43.9803648508869], 
+            [4.67725016427637, 43.9852550305093], 
+            [4.68581926294186, 43.9901448079638], 
+            [4.69231995742799, 43.9948216086288], 
+            [4.69941162479347, 43.9992854846981], 
+            [4.70650329215894, 44.0033239393367], 
+            [4.71329947398306, 44.009487367514], 
+            [4.72039114134853, 44.0150126546091], 
+            [4.73073315595711, 44.0177751054419], 
+            [4.73871128264158, 44.0228746761705], 
+            [4.74580295000706, 44.027548897569], 
+            [4.7552585061949, 44.0313729862145], 
+            [4.76294114643972, 44.0356216840107], 
+            [4.76560052170177, 44.0419941598952], 
+            [4.76500954882244, 44.0481535688708], 
+            [4.76737343854314, 44.0530381614229], 
+            [4.76855538250519, 44.0585593903245], 
+            [4.76560052170177, 44.0642924288622], 
+            [4.76737343854314, 44.0708741213919], 
+            [4.77239670262756, 44.0797900869918], 
+            [4.77978385643272, 44.0876435141142], 
+            [4.7868755237982, 44.0933737356965], 
+            [4.79012587104127, 44.1029228719167], 
+            [4.78923941262057, 44.1109853851953], 
+            [4.78864844063956, 44.1169254811323], 
+            [4.79012587104127, 44.1226528651057], 
+            [4.79189878788263, 44.1294401565902]
+          ], 
+          [
+            [2.98379543719643, 43.1509601990901], 
+            [2.97623099188682, 43.1520639235344], 
+            [2.96658632416198, 43.1533055900367], 
+            [2.95958921256499, 43.1538574342276], 
+            [2.95429410120759, 43.1548231480967], 
+            [2.95070098919142, 43.1579961025635], 
+            [2.94502765565837, 43.1600653316185], 
+            [2.93992165493964, 43.1606171141108], 
+            [2.93311365398135, 43.1592376485367], 
+            [2.92781854262392, 43.1592376485367], 
+            [2.91911943078736, 43.1600653316185], 
+            [2.9089074293499, 43.1574442964013], 
+            [2.90077565032762, 43.156478623299], 
+            [2.89321120501801, 43.1567545313633], 
+            [2.887348759948, 43.1556508916315], 
+            [2.88224276012756, 43.1533055900367], 
+            [2.87675853723317, 43.1519259593966], 
+            [2.86995053627487, 43.152753741518], 
+            [2.86144053507697, 43.1556508916315], 
+            [2.85085031146382, 43.1606171141108], 
+            [2.84158386681297, 43.1644794533383], 
+            [2.83439764367898, 43.166272598983], 
+            [2.82456386441718, 43.1669622565711], 
+            [2.81416275234102, 43.1690311819621], 
+            [2.80565275114313, 43.1709621161181], 
+            [2.79846652800917, 43.1712379587778], 
+            [2.78617430505478, 43.1709621161181], 
+            [2.77199097032383, 43.1705483494651], 
+            [2.75894230211983, 43.1705483494651], 
+            [2.74797385633104, 43.169858732366], 
+            [2.73605985465398, 43.168203620346], 
+            [2.72395674233826, 43.1675139767733], 
+            [2.71109718567124, 43.1687553293359], 
+            [2.69918318399419, 43.1712379587778], 
+            [2.68953851626935, 43.1733067393424], 
+            [2.68046118225712, 43.1727550714646], 
+            [2.67195118105923, 43.1730309060264], 
+            [2.66325206922267, 43.1745479741749], 
+            [2.65549851237606, 43.1734446558608], 
+            [2.6485014007791, 43.1739963175095], 
+            [2.63942406676688, 43.1750996258569], 
+            [2.62959028750504, 43.1735825714126], 
+            [2.61918917542892, 43.1708241939935], 
+            [2.61143561858231, 43.1702725036908], 
+            [2.60349295109703, 43.1723413169583], 
+            [2.59517206143613, 43.1767545516582], 
+            [2.58609472742391, 43.1790989525014], 
+            [2.57512628163513, 43.1788231453479], 
+            [2.56775094786251, 43.1790989525014], 
+            [2.55943005730328, 43.1802021686568], 
+            [2.54732694498756, 43.1788231453479], 
+            [2.54070805556622, 43.1777199042757], 
+            [2.53219805436833, 43.1790989525014], 
+            [2.52198605382916, 43.1821327496187], 
+            [2.51385427480692, 43.1815811614746], 
+            [2.50345316273077, 43.1792368559385], 
+            [2.49815805137337, 43.1777199042757], 
+            [2.48851338364852, 43.1785473369486], 
+            [2.4762211597958, 43.1821327496187], 
+            [2.46392893594312, 43.1883377744884], 
+            [2.45504071256956, 43.1912332364779], 
+            [2.44955649057351, 43.1935770820107], 
+            [2.43896626696038, 43.1953693733163], 
+            [2.43083448793812, 43.1967480228649], 
+            [2.42175715392593, 43.1956451057178], 
+            [2.41476004232893, 43.1923362340165], 
+            [2.40870848572192, 43.1888893015853], 
+            [2.40057670669965, 43.1866831626417], 
+            [2.39263403921441, 43.1862695031632], 
+            [2.38223292713825, 43.1888893015853], 
+            [2.3733447037647, 43.1920604866644], 
+            [2.36540203627945, 43.1927498523812], 
+            [2.35481181356463, 43.1910953607932], 
+            [2.34630181236674, 43.1926119801227], 
+            [2.3364680331049, 43.1948179047757], 
+            [2.32663425474139, 43.1938528225104], 
+            [2.31906980943177, 43.1923362340165], 
+            [2.30791225210603, 43.1934392109661], 
+            [2.29580913979031, 43.1963344315982], 
+            [2.28143669442069, 43.1989537980111], 
+            [2.27235935951015, 43.2019866083949], 
+            [2.26328202549796, 43.2032272601606], 
+            [2.25458291366136, 43.2036408053608], 
+            [2.24720757899045, 43.2043300409133], 
+            [2.23907580086651, 43.2076382622541], 
+            [2.2343480223234, 43.2124624301326], 
+            [2.22621624330116, 43.2164593089148], 
+            [2.21505868687372, 43.2200424945396], 
+            [2.20182090713272, 43.221558394351], 
+            [2.19123068441793, 43.2214205871918], 
+            [2.18215334950742, 43.2210071625358], 
+            [2.17080668154298, 43.2222474274388], 
+            [2.15964912511552, 43.2248656812359], 
+            [2.14849156868808, 43.2274838232388], 
+            [2.14035978966585, 43.2287239563805], 
+            [2.12995867758968, 43.2277594104891], 
+            [2.12220512074311, 43.2274838232388], 
+            [2.11142578649133, 43.2296884870086], 
+            [2.10197023030345, 43.2346486881121], 
+            [2.09667511804772, 43.2368530927163], 
+            [2.0875977840355, 43.2389196493225], 
+            [2.07644022670976, 43.2430525529254], 
+            [2.06641733680926, 43.247460673681], 
+            [2.05734000279704, 43.2499401017142], 
+            [2.04221111217781, 43.2548986549931], 
+            [2.02632577720729, 43.2602699650222], 
+            [2.01289888682763, 43.2660539231088], 
+            [2.00022844079928, 43.2726634885061], 
+            [1.98907088437183, 43.2781709110616], 
+            [1.97753510487044, 43.2824388206734], 
+            [1.9671339927943, 43.2851921518862], 
+            [1.95540910265421, 43.2862934492182], 
+            [1.94387332405114, 43.2886336401749], 
+            [1.93593065656587, 43.2920749344084], 
+            [1.92931176624623, 43.2966171443418], 
+            [1.91815420981878, 43.3032233900549], 
+            [1.91002243079652, 43.3079023790746], 
+            [1.89848665219345, 43.3109297685229], 
+            [1.887329095766, 43.3139570071816], 
+            [1.87522598255195, 43.3182224057754], 
+            [1.85952975911843, 43.3234505505486], 
+            [1.84893953550527, 43.3288158105687], 
+            [1.84080775648303, 43.3345932524812], 
+            [1.82983931159259, 43.3403701447948], 
+            [1.81660153185158, 43.3472466806941], 
+            [1.80506575324851, 43.3541224383166], 
+            [1.7988250860028, 43.3560475103166], 
+            [1.79163886286885, 43.3572850246806], 
+            [1.78293975103229, 43.359759977695], 
+            [1.77556441636134, 43.3633347319659], 
+            [1.76591974863649, 43.3658094375551], 
+            [1.74379374642027, 43.3769443663438], 
+            [1.73585107893503, 43.3809304487296], 
+            [1.72715196709843, 43.3861531945306], 
+            [1.72091129895446, 43.390276096694], 
+            [1.71145574276658, 43.3916503355307], 
+            [1.70029818633913, 43.3939864692576], 
+            [1.68895151837473, 43.397834022732], 
+            [1.67571373863373, 43.4051162233467], 
+            [1.66398884849366, 43.413908658069], 
+            [1.65415507013016, 43.4195406401239], 
+            [1.64469951304398, 43.4235239211833], 
+            [1.62862506743477, 43.4301163619217], 
+            [1.62124973276382, 43.434373598453], 
+            [1.61028128697503, 43.4424752539373], 
+            [1.6006366192502, 43.4509876886385], 
+            [1.59231572958929, 43.4560671190446], 
+            [1.58153639533751, 43.4621069675725], 
+            [1.56981150519745, 43.4682834616189], 
+            [1.56054505964823, 43.4740476198026], 
+            [1.5507112803864, 43.4835161149259], 
+            [1.54087750202289, 43.4946294111562], 
+            [1.53028727840977, 43.5102668831759], 
+            [1.51667127739144, 43.5286425919474], 
+            [1.50267705329915, 43.5433117143622], 
+            [1.49738194194175, 43.5482463178519], 
+            [1.49288109670407, 43.5543043619407]
+          ], 
+          [
+            [1.49288109670407, 43.5543043619407], 
+            [1.49265416339868, 43.5535916820175]
+          ], 
+          [
+            [1.49288109670407, 43.5543043619407], 
+            [1.49208682968603, 43.5553733653715], 
+            [1.48962838509518, 43.5600329016578], 
+            [1.48508971808907, 43.5655142482777], 
+            [1.47639060625251, 43.571269125416], 
+            [1.47071727182112, 43.5744203730192], 
+            [1.46636771635201, 43.5737353331059], 
+            [1.46201815998456, 43.5720912063012], 
+            [1.45521015902623, 43.5727762642659], 
+            [1.44821304742928, 43.5744203730192], 
+            [1.44424171323745, 43.5756534249654], 
+            [1.44045949058266, 43.5744203730192], 
+            [1.43478615704961, 43.571132111278], 
+            [1.427032600203, 43.5701730009814], 
+            [1.4215483773086, 43.5685287762745], 
+            [1.41530771006294, 43.5688028167342], 
+            [1.4117145989451, 43.571269125416], 
+            [1.40547393169942, 43.5794894247505], 
+            [1.40150259750764, 43.586749755657], 
+            [1.39772037485282, 43.594146173699], 
+            [1.39734215267719, 43.599213564631], 
+            [1.39998970880504, 43.6031850053665], 
+            [1.40660859822637, 43.6063345825016], 
+            [1.41322748764771, 43.6097578481408], 
+            [1.41776615465381, 43.6135916752942], 
+            [1.41965726643037, 43.6215323962083], 
+            [1.42135926666994, 43.6339889999912], 
+            [1.4217374888456, 43.6430218446025], 
+            [1.42249393319688, 43.650548177794], 
+            [1.42570882303738, 43.6535584470233], 
+            [1.42842891453119, 43.6552640744457]
+          ], 
+          [
+            [1.42842891453119, 43.6552640744457], 
+            [1.42949104569221, 43.6521901618284], 
+            [1.43251682309739, 43.6493166604709], 
+            [1.4385683797044, 43.6478114384118], 
+            [1.44613282501401, 43.6468535500707], 
+            [1.45653393709017, 43.6472640757016], 
+            [1.46561127110239, 43.6461693346676], 
+            [1.4716628277094, 43.6437060958559], 
+            [1.47601238407685, 43.6402847623036], 
+            [1.47790349495508, 43.6352208315491], 
+            [1.4786599393064, 43.6294720684627], 
+            [1.4799837173703, 43.6256392538052], 
+            [1.48395505156213, 43.615097754625], 
+            [1.48490060655207, 43.6105794034763], 
+            [1.48490060655207, 43.60606071286], 
+            [1.48660260679164, 43.6033219472145], 
+            [1.4900066072708, 43.6004461087985], 
+            [1.49246505186169, 43.5968853570475], 
+            [1.49378882992563, 43.5911329280682], 
+            [1.49567994170219, 43.5846950339954], 
+            [1.49776016411742, 43.5800374046775], 
+            [1.49794927475608, 43.5763384430593], 
+            [1.49473438581391, 43.5718171801524], 
+            [1.49378882992563, 43.5668845073333], 
+            [1.49359971928696, 43.5611292112698], 
+            [1.49378882992563, 43.5571549953982], 
+            [1.49288109670407, 43.5543043619407]
+          ], 
+          [
+            [1.42842891453119, 43.6552640744457], 
+            [1.42854548980393, 43.6553371714955], 
+            [1.42343948908516, 43.6635459867803], 
+            [1.41625326595121, 43.6751732207562], 
+            [1.40887793217859, 43.6965067536097], 
+            [1.40377193145986, 43.7133220749192], 
+            [1.39923326445375, 43.7283561712073], 
+            [1.39564015243759, 43.7362817213901], 
+            [1.38939948519191, 43.7440696026301], 
+            [1.38618459624974, 43.7513100565272], 
+            [1.38580637407409, 43.7640128872243], 
+            [1.3833479294832, 43.7758937385975], 
+            [1.38259148423358, 43.7861339585899], 
+            [1.37975481746708, 43.7922772479188], 
+            [1.37143392780614, 43.7999213491193], 
+            [1.36576059427309, 43.8085197942026], 
+            [1.35970903766607, 43.8137055587993], 
+            [1.35082081429252, 43.8193002217866], 
+            [1.341932590919, 43.829805854383], 
+            [1.33625925738594, 43.8367631128217], 
+            [1.32585814530978, 43.8427648016011], 
+            [1.32113036676671, 43.8486295054259], 
+            [1.31791547782454, 43.8559936655242], 
+            [1.31923925499015, 43.8667655201588], 
+            [1.31696992193626, 43.8763085751335], 
+            [1.31772636628754, 43.8884396818256], 
+            [1.3164025882236, 43.8977067282333], 
+            [1.31696992193626, 43.9034297714904], 
+            [1.31980658870277, 43.91105963965], 
+            [1.31905014435148, 43.9162364936112], 
+            [1.3165916997606, 43.9218215417206], 
+            [1.30978369880227, 43.9282232687588], 
+            [1.29976080890178, 43.9373479432303], 
+            [1.29446569754438, 43.9449734633053], 
+            [1.28973791900131, 43.9524618610777], 
+            [1.28255169586732, 43.959268677195], 
+            [1.27044858355159, 43.9681163715699], 
+            [1.2619385823537, 43.9757379444382], 
+            [1.25437413704408, 43.9807730902374], 
+            [1.24624235892018, 43.9844471154885], 
+            [1.23924524642485, 43.9883930381218], 
+            [1.23111346830094, 43.9950596906516], 
+            [1.22335991145433, 44.0032219186966], 
+            [1.21466079961777, 44.0100229179929], 
+            [1.20577257624422, 44.0131511152568], 
+            [1.19480413045543, 44.0161431498877], 
+            [1.18421390774064, 44.0183190804302], 
+            [1.1783514626706, 44.0203589425126], 
+            [1.17211079452659, 44.0233506134587], 
+            [1.1643572385783, 44.028925597801], 
+            [1.15754923762001, 44.0351798336268], 
+            [1.1497956816717, 44.0419771679852], 
+            [1.14242034700075, 44.0475503996588], 
+            [1.13277567927591, 44.0524435370549], 
+            [1.12275278937544, 44.0554335885372], 
+            [1.11235167729928, 44.0570644617253], 
+            [1.10062678715922, 44.0551617719723], 
+            [1.09192767532266, 44.0506766175485], 
+            [1.08341767412476, 44.0482300263922], 
+            [1.06904522785682, 44.0451036793681], 
+            [1.05561833747715, 44.0427927954739], 
+            [1.04181322492185, 44.0403458786752], 
+            [1.02857544607918, 44.0400739928643], 
+            [1.01079899933211, 44.0417052890146], 
+            [0.996615664601159, 44.0440162159753], 
+            [0.982621440508876, 44.0494533346031], 
+            [0.969194550129205, 44.0527153660966], 
+            [0.948959659689542, 44.0570644617253], 
+            [0.940449658491646, 44.0584234890495], 
+            [0.93004854641552, 44.0576080767854], 
+            [0.920403878690685, 44.0585593903245], 
+            [0.906598766135392, 44.0599183826917], 
+            [0.898466987113118, 44.0596465867136], 
+            [0.888065875036994, 44.0563849370117], 
+            [0.87879942948778, 44.0554335885372], 
+            [0.869343873299934, 44.0586952906421], 
+            [0.855916982920269, 44.0657616960471], 
+            [0.847217870185412, 44.0686151971418], 
+            [0.835682091582307, 44.0697022095169], 
+            [0.82074231160174, 44.070109833446], 
+            [0.809584755174296, 44.0728272573606], 
+            [0.800318309625114, 44.077582448819], 
+            [0.795968754155966, 44.0839673908596], 
+            [0.791240975612895, 44.090351643843], 
+            [0.783109196590659, 44.095512876511], 
+            [0.77232986233884, 44.1020316841269], 
+            [0.763063416789658, 44.1042044605019], 
+            [0.747367192457806, 44.10664873839], 
+            [0.733940302078142, 44.1103149657187], 
+            [0.727699634832466, 44.1142525120746], 
+            [0.721648079123751, 44.1190043736184], 
+            [0.711246967047592, 44.1223983267541], 
+            [0.698576521019246, 44.1253848440318], 
+            [0.684960519102619, 44.1297285993486], 
+            [0.67682874097868, 44.1335291239405], 
+            [0.670966295908663, 44.1381437169444], 
+            [0.664914739301619, 44.1415365704655], 
+            [0.656026515928098, 44.1433007770641], 
+            [0.645436293213273, 44.1415365704655], 
+            [0.639195625069267, 44.1407223036337], 
+            [0.633711403073208, 44.1428936568957], 
+            [0.627659846466196, 44.1462862374594], 
+            [0.622932067923091, 44.1477789110377], 
+            [0.620473623332207, 44.1518496475373], 
+            [0.617447845028701, 44.1570055097365], 
+            [0.612909178022591, 44.1597189407912], 
+            [0.606290288601256, 44.1622965850676], 
+            [0.5991040654673, 44.1636531942073], 
+            [0.590972286445064, 44.1646028023657], 
+            [0.58359695267241, 44.1663663195435], 
+            [0.577167173889739, 44.1716565553943], 
+            [0.571115618181059, 44.1774888287411], 
+            [0.565631395286669, 44.1804725596432], 
+            [0.557310505625734, 44.1835917535289], 
+            [0.543316281533448, 44.1858971382018], 
+            [0.531780502930377, 44.1877956229678], 
+            [0.521946723668541, 44.191321217616], 
+            [0.511923833768041, 44.1951177766001], 
+            [0.49849694338841, 44.2014900216414], 
+            [0.489797831551849, 44.2058281766748], 
+            [0.477694719236124, 44.2098949075695], 
+            [0.465780717559063, 44.2116570701915], 
+            [0.443276493167178, 44.2119281674042], 
+            [0.42171782376531, 44.2123348105616], 
+            [0.405265155082139, 44.2128769981435], 
+            [0.39032537599987, 44.2150456959802], 
+            [0.374440041029354, 44.2196539149925], 
+            [0.360445816937068, 44.2252104053723], 
+            [0.348910038333964, 44.2285982512221], 
+            [0.341345593024348, 44.228869270441], 
+            [0.334348481427387, 44.2296823212537], 
+            [0.327918702644716, 44.2330699097214], 
+            [0.321488923862045, 44.2383541594877], 
+            [0.309007589370661, 44.2459409699283], 
+            [0.293500476575804, 44.2544749616418], 
+            [0.28423403102659, 44.2620596930188], 
+            [0.27648047507831, 44.270455932728], 
+            [0.269861584758677, 44.2802048992968], 
+            [0.265455144372497, 44.2866400645652], 
+            [0.263131346462922, 44.291186797974], 
+            [0.261504688824516, 44.2951787614243], 
+            [0.260420249800048, 44.3005563944772], 
+            [0.259974855200729, 44.3066922538541], 
+            [0.259611761552789, 44.3144001467786], 
+            [0.259732792469325, 44.3197690915472], 
+            [0.258643512423799, 44.3256570471699], 
+            [0.256707015064117, 44.3314578373985], 
+            [0.254528454074733, 44.3354401367166], 
+            [0.251623707586095, 44.3421055551096], 
+            [0.24992927205952, 44.347991268644], 
+            [0.249203084763638, 44.3548283404515], 
+            [0.246540400108074, 44.360712776499], 
+            [0.243151529054924, 44.3657313869049], 
+            [0.239893370960461, 44.3696456048385], 
+            [0.235555615760918, 44.3733553911599], 
+            [0.229591202024639, 44.3761791013345], 
+            [0.221535370169777, 44.3781722258977], 
+            [0.214409057478744, 44.379777749642], 
+            [0.208212263951541, 44.3822136319893], 
+            [0.203564669030722, 44.3849262005887], 
+            [0.199846592375401, 44.387472578537], 
+            [0.193649798848199, 44.3946682663504], 
+            [0.188305064554474, 44.4018077275639], 
+            [0.18125621179376, 44.4109936598256], 
+            [0.176342348137882, 44.4163260961111], 
+            [0.171380072474728, 44.4208212868391], 
+            [0.164723360386668, 44.4241924530927], 
+            [0.159155928344135, 44.4260940508127], 
+            [0.149352407036033, 44.4276498574239], 
+            [0.140759197588291, 44.4292056226256], 
+            [0.13240804997369, 44.4316256200193], 
+            [0.12563030696906, 44.4349097409638], 
+            [0.119094626695868, 44.4382800947469], 
+            [0.109291105387766, 44.443119237182], 
+            [0.101908206902121, 44.4463163080886], 
+            [0.0917415919460781, 44.4510683871888], 
+            [0.0866582853663533, 44.4545242015875], 
+            [0.0825432270173213, 44.4586709090607], 
+            [0.0784281686682558, 44.4618671281166], 
+            [0.0672933054815201, 44.4652359267197], 
+            [0.0603945306620562, 44.4676544318169], 
+            [0.0534957567409228, 44.4709365281396], 
+            [0.0478072937818528, 44.4726638726543], 
+            [0.0382458352051551, 44.4749093446053], 
+            [0.0295315939425795, 44.4772410899063], 
+            [0.021301478142779, 44.4794863857334], 
+            [0.0127082677967737, 44.483113219111], 
+            [0.00677774300459646, 44.4867398276696], 
+            [0.00193649825797913, 44.4903662107677], 
+            [-0.00387299561762777, 44.4932153530563], 
+            [-0.0106507386222242, 44.4955463667617], 
+            [-0.0200911662824185, 44.4977909580885], 
+            [-0.0272320029349562, 44.4995175076132], 
+            [-0.0349779950685423, 44.5027978117571], 
+            [-0.0426029553872609, 44.5063368804725], 
+            [-0.0495017302067248, 44.5086673689919], 
+            [-0.0573687532568811, 44.5103935964268], 
+            [-0.0683825855270465, 44.5128102298416], 
+            [-0.0756444530961544, 44.5153130657942], 
+            [-0.0821801333693467, 44.5191102663997], 
+            [-0.0870213781159975, 44.5235112577328], 
+            [-0.0905312809839807, 44.5280844844021], 
+            [-0.0945253084164765, 44.5315357384554], 
+            [-0.10154511325418, 44.5342103197019], 
+            [-0.108080794425703, 44.5357632459531], 
+            [-0.117037097521352, 44.5349867880041], 
+            [-0.124056902359055, 44.5331750129545], 
+            [-0.134102485500265, 44.5313631808979], 
+            [-0.150441687979856, 44.5301552611185], 
+            [-0.1600321935813, 44.5302795054187], 
+            [-0.169017544599993, 44.5314943246114], 
+            [-0.178545114232589, 44.5317704163486], 
+            [-0.186523486157133, 44.5311077939805], 
+            [-0.19349487898756, 44.5303347250226]
+          ], 
+          [
+            [1.42835637826694, 43.6554739945726], 
+            [1.42842891453119, 43.6552640744457]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 18, 
+        "Project_Na" : "Corridor H2", 
+        "Promoter_N" : "QAIR (AREC Occitanie)", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2025", 
+        "Share_of_t" : 100, 
+        "Location" : "- Montpellier; Béziers; Narbonne; Rivesaltes; Castelnaudary - The stations will be delivered by tube trailer from the Hyd'Occ electrolyzer in Port-La Nouvelle.", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Corridor H2 is a European project that aims to decarbonize freight and passenger transport on a North/South axis running from the Mediterranean to the North Sea, by developing the use of green hydrogen for trucks,", 
+        "Website" : "No data available", 
+        "Shape__Length" : 864258.10046681284, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 19, 
+      "geometry" : 
+      {
+        "type" : "LineString", 
+        "coordinates" : 
+        [
+          [1.41880752664694, 43.6240938914531], 
+          [1.41385869876357, 43.6250284145358], 
+          [1.41020086941942, 43.6251841668622], 
+          [1.40439137554381, 43.6230035962703], 
+          [1.39965771393391, 43.6214459970502], 
+          [1.39320272033955, 43.6223805612947], 
+          [1.38976005726887, 43.6230035962703], 
+          [1.38136856631482, 43.6231593538427], 
+          [1.37771073607234, 43.6220690410605], 
+          [1.36006708817201, 43.6382659319974], 
+          [1.35275142858541, 43.644494343395], 
+          [1.34909359924125, 43.6454285492832], 
+          [1.34392960508441, 43.6426258873837]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 19, 
+        "Project_Na" : "HYPORT ATB", 
+        "Promoter_N" : "Engie Solutions, AREC Occitanie", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2023", 
+        "Share_of_t" : 100, 
+        "Location" : "Toulouse-Blagnac airport", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Production and distribution of green hydrogen.", 
+        "Website" : "https://hyport.fr/", 
+        "Shape__Length" : 10367.17172614737, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 20, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [-8.17473693434275, 51.9161505929717], 
+            [-8.19735368350372, 51.9494976304112], 
+            [-8.21642538141458, 51.9873913612756], 
+            [-8.27083492871702, 52.1611754161218], 
+            [-8.27884154547074, 52.2439406130572], 
+            [-8.27462407738267, 52.303295141913]
+          ], 
+          [
+            [-8.60039096278232, 52.006197636793], 
+            [-8.56704617227397, 51.9746076323223], 
+            [-8.53113639788033, 51.9840869736548]
+          ], 
+          [
+            [-8.22846829941973, 52.0117235967939], 
+            [-8.34389257425641, 52.0211950830978], 
+            [-8.39519225196159, 52.0401320404747], 
+            [-8.45546937371434, 52.051963566224], 
+            [-8.4581022648452, 52.051901293443]
+          ], 
+          [
+            [-8.4581022648452, 52.051901293443], 
+            [-8.55550374523944, 52.0495975118795], 
+            [-8.63245326179721, 51.9840869736548], 
+            [-8.74274756886336, 51.9793475537214], 
+            [-8.9351213602578, 51.887620177772]
+          ], 
+          [
+            [-8.4581022648452, 52.051901293443], 
+            [-8.53113639788033, 51.9848768285015], 
+            [-8.52857141399508, 51.9406235192277], 
+            [-8.44264445428804, 51.9414141397591], 
+            [-8.40801717138788, 51.9113607524506]
+          ], 
+          [
+            [-8.45803435759958, 52.051963566224], 
+            [-8.4581022648452, 52.051901293443]
+          ], 
+          [
+            [-8.40801717138788, 52.2133473133959], 
+            [-8.27976797712494, 52.2431981440588]
+          ], 
+          [
+            [-8.76503086608581, 52.232644633768], 
+            [-8.81112042024599, 52.3576526057032], 
+            [-8.54417749508313, 52.5361374693799]
+          ], 
+          [
+            [-8.27462407738267, 52.303295141913], 
+            [-8.37608857582326, 52.3007522954579]
+          ], 
+          [
+            [-8.27462407738267, 52.303295141913], 
+            [-8.27457134986877, 52.3040366939368], 
+            [-8.38826530507652, 52.4721326328173], 
+            [-8.53825592200276, 52.5348413136149], 
+            [-8.54019211483353, 52.5352651252073]
+          ], 
+          [
+            [-7.95658000848058, 52.3866725357986], 
+            [-7.95909748945361, 52.423532961235]
+          ], 
+          [
+            [-7.75779375692384, 52.4117131931835], 
+            [-7.79799322485272, 52.4815055919023]
+          ], 
+          [
+            [-7.95909748945361, 52.423532961235], 
+            [-8.27433782292919, 52.3033023158124], 
+            [-8.27462407738267, 52.303295141913]
+          ], 
+          [
+            [-7.95909748945361, 52.423532961235], 
+            [-7.95914499236586, 52.4242281933781]
+          ], 
+          [
+            [-7.79799322485272, 52.4815055919023], 
+            [-7.59491728065904, 52.4234461096524], 
+            [-7.33200643197084, 52.3577015592586], 
+            [-7.17169493959131, 52.2808757734928], 
+            [-7.16399998793551, 52.1826900620981]
+          ], 
+          [
+            [-7.79799322485272, 52.4815055919023], 
+            [-7.7995748382678, 52.484249253165]
+          ], 
+          [
+            [-7.80268097536506, 52.4828449177065], 
+            [-7.79799322485272, 52.4815055919023]
+          ], 
+          [
+            [-7.7995748382678, 52.484249253165], 
+            [-7.95909748945361, 52.423532961235]
+          ], 
+          [
+            [-7.7995748382678, 52.484249253165], 
+            [-7.80011599147978, 52.4851879642884]
+          ], 
+          [
+            [-8.53890831359639, 52.5341197884785], 
+            [-8.54019211483353, 52.5352651252073]
+          ], 
+          [
+            [-8.54019211483353, 52.5352651252073], 
+            [-8.54417749508313, 52.5361374693799]
+          ], 
+          [
+            [-8.54019211483353, 52.5352651252073], 
+            [-8.67235192346328, 52.6530111103201]
+          ], 
+          [
+            [-8.54417749508313, 52.5361374693799], 
+            [-8.54259867003867, 52.5371909616154]
+          ], 
+          [
+            [-8.54417749508313, 52.5361374693799], 
+            [-9.1152660910421, 52.6609617028799], 
+            [-9.21081171494143, 52.6985006115268], 
+            [-9.15690049726307, 52.7621781351768], 
+            [-9.09711775973369, 52.7818766874915], 
+            [-8.96367414986679, 52.8882881417582], 
+            [-8.95459998421257, 52.9262750408045], 
+            [-8.71333393809066, 53.2570815448324], 
+            [-8.53844645736946, 53.2920195127958]
+          ], 
+          [
+            [-7.39124082617271, 52.6399964265629], 
+            [-7.39277597692468, 52.6396294459193], 
+            [-7.46950605212652, 52.5900028596358], 
+            [-7.54790417304686, 52.5798680730945], 
+            [-7.7995748382678, 52.484249253165]
+          ], 
+          [
+            [-7.39124082617271, 52.6399964265629], 
+            [-7.39100106133178, 52.6395532264513]
+          ], 
+          [
+            [-8.67092802007612, 52.6597830754106], 
+            [-8.67219135499616, 52.6888917016398]
+          ], 
+          [
+            [-7.31148656088877, 52.6597830754106], 
+            [-7.31276905328054, 52.709539761339]
+          ], 
+          [
+            [-8.66964552768431, 52.6885555722566], 
+            [-8.67219135499616, 52.6888917016398]
+          ], 
+          [
+            [-8.67219135499616, 52.6888917016398], 
+            [-8.79917721433906, 52.7056545612628], 
+            [-8.90818902901341, 52.718862829536]
+          ], 
+          [
+            [-8.67219135499616, 52.6888917016398], 
+            [-8.67221051156959, 52.6893329446097], 
+            [-8.53525610860423, 52.7632601731867]
+          ], 
+          [
+            [-8.79532973806201, 52.7064316291701], 
+            [-8.79404724656854, 52.825160022374]
+          ], 
+          [
+            [-8.53525610860423, 52.7632601731867], 
+            [-8.53370138176557, 52.762344141048]
+          ], 
+          [
+            [-8.53525610860423, 52.7632601731867], 
+            [-8.43623199412575, 52.8166347932672], 
+            [-8.34132759037113, 52.8065573655955], 
+            [-8.33876260648589, 52.8065573655955]
+          ], 
+          [
+            [-8.5824360755855, 52.7910490691882], 
+            [-8.53525610860423, 52.7632601731867]
+          ], 
+          [
+            [-7.47436303805187, 52.7933756664615], 
+            [-7.39124082617271, 52.6399964265629]
+          ], 
+          [
+            [-6.23171231970742, 52.8465469334938], 
+            [-6.16394798619993, 53.0279741254451], 
+            [-6.12745950003227, 53.0593128606042], 
+            [-6.12615633920245, 53.0914114236196], 
+            [-6.19913331333437, 53.1297417381183], 
+            [-6.20695227472018, 53.2585621046948], 
+            [-6.27341344739781, 53.2585621046948], 
+            [-6.43761163919465, 53.2835006478082], 
+            [-6.46194533476493, 53.29192237088]
+          ], 
+          [
+            [-6.99471105150841, 52.8933016634535], 
+            [-6.92545648660642, 52.860792863443]
+          ], 
+          [
+            [-7.10372286708109, 53.0601050893872], 
+            [-7.03318580978729, 53.0092056816352]
+          ], 
+          [
+            [-7.37561115802024, 53.1386496765015], 
+            [-7.32944144808559, 53.0161500477251], 
+            [-7.02933833440857, 53.0076623373557], 
+            [-6.88056926906354, 52.9721501860038]
+          ], 
+          [
+            [-6.89852415626035, 53.1624926614931], 
+            [-6.70102039709539, 53.2201225551337]
+          ], 
+          [
+            [-6.63370208071972, 53.1935701186828], 
+            [-6.75474871778191, 53.1242993504471], 
+            [-6.77142916957672, 53.0411391693995], 
+            [-6.9957812378626, 52.8954735998548], 
+            [-7.0157977792977, 52.816912414129], 
+            [-7.05249477252762, 52.7543648685785], 
+            [-7.14507127666505, 52.6988038657973], 
+            [-7.39124082617271, 52.6399964265629]
+          ], 
+          [
+            [-6.63370208071972, 53.1935701186828], 
+            [-6.52403650901252, 53.1494191157005], 
+            [-6.59072609002927, 53.093234507789]
+          ], 
+          [
+            [-8.53658698874879, 53.2564375766688], 
+            [-8.53844645736946, 53.2920195127958]
+          ], 
+          [
+            [-8.99948642381443, 53.2684238814012], 
+            [-8.92935014629137, 53.3211237198209], 
+            [-8.68687901291076, 53.3318952234564]
+          ], 
+          [
+            [-8.63186506111884, 53.2736075314477], 
+            [-8.86213838987136, 53.5318009738615], 
+            [-8.93627372898575, 53.7795950595069], 
+            [-9.06971733885264, 53.8994520722278], 
+            [-9.0974143007955, 53.9900002633584], 
+            [-9.20179685785891, 54.0546666679119], 
+            [-9.25209027152893, 54.111445465253], 
+            [-9.34034097883987, 54.109776609246], 
+            [-9.76925839446718, 54.2530528266516]
+          ], 
+          [
+            [-6.8087497202763, 53.2914760828995], 
+            [-6.6958904293249, 53.2185867631446], 
+            [-6.63370208071972, 53.1935701186828]
+          ], 
+          [
+            [-6.46194533476493, 53.29192237088], 
+            [-6.46200679929329, 53.291633700565], 
+            [-6.63370208071972, 53.1935701186828]
+          ], 
+          [
+            [-6.46194533476493, 53.29192237088], 
+            [-6.46237168418191, 53.2920699125413], 
+            [-6.46185329158426, 53.292354649421]
+          ], 
+          [
+            [-8.53844645736946, 53.2920195127958], 
+            [-8.53859088221264, 53.2947819279309]
+          ], 
+          [
+            [-8.53844645736946, 53.2920195127958], 
+            [-8.23720713924976, 53.3521323538684], 
+            [-8.01195432573692, 53.4202598408303], 
+            [-7.53251621099461, 53.4555159146835]
+          ], 
+          [
+            [-6.46185329158426, 53.292354649421], 
+            [-6.46194533476493, 53.29192237088]
+          ], 
+          [
+            [-6.46185329158426, 53.292354649421], 
+            [-6.36593782589255, 53.3450054043816], 
+            [-6.18870803118717, 53.340337266646], 
+            [-6.19001119201702, 53.3395591941828]
+          ], 
+          [
+            [-6.56662450385705, 53.3527844986707], 
+            [-6.43761163919465, 53.4025370934509]
+          ], 
+          [
+            [-7.53571745273101, 53.4016325016428], 
+            [-7.53251621099461, 53.4555159146835]
+          ], 
+          [
+            [-7.53251621099461, 53.4555159146835], 
+            [-7.5324342729626, 53.45689420265]
+          ], 
+          [
+            [-7.53251621099461, 53.4555159146835], 
+            [-6.62964533381241, 53.5218302513224], 
+            [-6.26865732610921, 53.5262601110172]
+          ], 
+          [
+            [-7.4593835318745, 53.4612924880249], 
+            [-7.44378842999584, 53.5076910566458]
+          ], 
+          [
+            [-6.26865732610921, 53.5262601110172], 
+            [-6.26934758798024, 53.4935579341462], 
+            [-6.43865416731953, 53.4011696740505], 
+            [-6.46185329158426, 53.292354649421]
+          ], 
+          [
+            [-6.26865732610921, 53.5262601110172], 
+            [-6.26601149744162, 53.5262925775854], 
+            [-6.14841431651032, 53.531745893365], 
+            [-5.83648987854749, 53.6099978855842], 
+            [-5.1175624317033, 54.1561579405068], 
+            [-4.97911468647764, 54.2386127971121], 
+            [-4.13034660708114, 54.7763509350195], 
+            [-4.12164579832703, 54.7871776344669], 
+            [-4.0887432232802, 54.8213520411152], 
+            [-4.06977908874316, 54.8606096011311], 
+            [-4.05578429332236, 54.8930732138821], 
+            [-3.96856321702377, 54.9350416727087], 
+            [-3.84748034641458, 55.0375953179741], 
+            [-3.64862645531023, 55.1738973372242], 
+            [-3.46698845952069, 55.3158394897747]
+          ], 
+          [
+            [-6.26852572741165, 53.5324919159466], 
+            [-6.26865732610921, 53.5262601110172]
+          ], 
+          [
+            [-6.26852572741165, 53.5324919159466], 
+            [-6.26497313660133, 53.5269376632398]
+          ], 
+          [
+            [-6.91263156718012, 53.5612304500487], 
+            [-6.70230288858886, 53.6244087322922], 
+            [-6.46801318860781, 53.6560239228138]
+          ], 
+          [
+            [-6.26689764684185, 53.6102452887444], 
+            [-6.26688201705421, 53.6102521211366]
+          ], 
+          [
+            [-6.26688201705421, 53.6102521211366], 
+            [-6.26852572741165, 53.5324919159466]
+          ], 
+          [
+            [-6.26688201705421, 53.6102521211366], 
+            [-6.1430974228039, 53.664329877999], 
+            [-6.14049110204252, 53.6651020124764]
+          ], 
+          [
+            [-6.32185064255185, 53.6157745681798], 
+            [-6.26852572741165, 53.5324919159466]
+          ], 
+          [
+            [-6.32185064255185, 53.6157745681798], 
+            [-6.26684552030087, 53.6119770697462], 
+            [-6.26688201705421, 53.6102521211366]
+          ], 
+          [
+            [-6.46801318860781, 53.6560239228138], 
+            [-6.46033875447311, 53.6253341352853], 
+            [-6.32185064255185, 53.6157745681798]
+          ], 
+          [
+            [-6.46801318860781, 53.6560239228138], 
+            [-6.35859504796414, 53.6707807545045]
+          ], 
+          [
+            [-6.41704089831468, 53.7640348516223], 
+            [-6.32185064255185, 53.6157745681798]
+          ], 
+          [
+            [-6.41704089831468, 53.7640348516223], 
+            [-6.41374220194637, 53.7633718807753], 
+            [-6.41374220194637, 53.7626137657371]
+          ], 
+          [
+            [-7.07166056806617, 53.7800469548192], 
+            [-6.94854134157376, 53.7717102460576], 
+            [-6.79759970879891, 53.8404492036153]
+          ], 
+          [
+            [-6.49920913080315, 53.7805456206453], 
+            [-6.46801318860781, 53.6560239228138]
+          ], 
+          [
+            [-6.49920913080315, 53.7805456206453], 
+            [-6.41704089831468, 53.7640348516223]
+          ], 
+          [
+            [-6.49953468924527, 53.781843174899], 
+            [-6.49920913080315, 53.7805456206453]
+          ], 
+          [
+            [-6.49953468924527, 53.781843174899], 
+            [-6.41758967732512, 53.76564614483]
+          ], 
+          [
+            [-6.79759970879891, 53.8404492036153], 
+            [-6.49920913080315, 53.7805456206453]
+          ], 
+          [
+            [-6.79759970879891, 53.8404492036153], 
+            [-6.79720729234344, 53.8406277635646], 
+            [-6.49953468924527, 53.781843174899]
+          ], 
+          [
+            [-6.96264875339182, 53.9064100502547], 
+            [-6.96649622877058, 53.8315462232619], 
+            [-6.94854134157376, 53.8300324417417], 
+            [-6.88441674444226, 53.901121049665], 
+            [-6.82157463970259, 53.9200072621919]
+          ], 
+          [
+            [-6.41374220194637, 53.9260490464754], 
+            [-6.41758967732512, 53.7648880703217], 
+            [-6.41704089831468, 53.7640348516223]
+          ], 
+          [
+            [-6.49104120986206, 54.0562849775057], 
+            [-6.54447077963117, 53.9605571040751], 
+            [-6.49953468924527, 53.781843174899]
+          ], 
+          [
+            [-6.83824703450761, 54.0602526887045], 
+            [-6.74975509091532, 53.9992361226444], 
+            [-6.82029214731079, 53.9192519774083], 
+            [-6.79848978473525, 53.8406277635646], 
+            [-6.79759970879891, 53.8404492036153]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 20, 
+        "Project_Na" : "Hydrogen Ready", 
+        "Promoter_N" : "Gas Networks Ireland", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2028", 
+        "Share_of_t" : 2, 
+        "Location" : "All of the Irish gas network - Dublin, Galway, Limerick, Waterford, Cork, Kilkenny", 
+        "Increment" : "386.9", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "Preparing the Irish gas network for hydrogen blends", 
+        "Website" : "No data available", 
+        "Shape__Length" : 2965466.9985414734, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 21, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [9.96965507110512, 53.467863134567], 
+            [9.95901208224884, 53.4699999884548], 
+            [9.94604785927481, 53.471188834642], 
+            [9.92067465391901, 53.4708926999052]
+          ], 
+          [
+            [9.92112552554663, 53.4695600680191], 
+            [9.92773313122969, 53.4653953249529], 
+            [9.92889917950277, 53.4603045280689], 
+            [9.9265670829566, 53.4538244494137], 
+            [9.91995947727355, 53.4487322650546], 
+            [9.91995947727355, 53.4410928434697], 
+            [9.9265670829566, 53.4350729380497], 
+            [9.92734444907087, 53.4292837633883], 
+            [9.92617840079778, 53.4188612608048], 
+            [9.9191821120576, 53.4102897339957], 
+            [9.91412923770477, 53.4058874676762], 
+            [9.88711579038686, 53.3949812077794], 
+            [9.87314750694504, 53.3830289084886], 
+            [9.86252647201598, 53.3783969786362]
+          ], 
+          [
+            [9.92051820871902, 53.4698781916418], 
+            [9.91383772541192, 53.4785533626388], 
+            [9.91019382534455, 53.508902498096], 
+            [9.91748162547928, 53.5168474923299], 
+            [9.92634844918612, 53.5239533883773], 
+            [9.92581280264682, 53.5241240922543]
+          ], 
+          [
+            [9.93783888083367, 53.4723363370971], 
+            [9.93628415040177, 53.4767317241769], 
+            [9.9366728334589, 53.4834395952875], 
+            [9.94328043914195, 53.4885276171983], 
+            [9.94833331349479, 53.4922276141288], 
+            [9.95532960223498, 53.4943087202196]
+          ], 
+          [
+            [9.92540103558184, 53.5238956216138], 
+            [9.92581280264682, 53.5241240922543]
+          ], 
+          [
+            [9.92581280264682, 53.5241240922543], 
+            [9.93123127515062, 53.5271304358475], 
+            [9.93278600648084, 53.5294408663471], 
+            [9.92967654471872, 53.5356783990444], 
+            [9.9234576220928, 53.5386813274749]
+          ], 
+          [
+            [9.92581280264682, 53.5241240922543], 
+            [9.89974797806558, 53.5324297986234], 
+            [9.88590115762995, 53.5349853851085], 
+            [9.87283170151196, 53.5344078649197], 
+            [9.85755161365063, 53.5371798898827], 
+            [9.83772879749979, 53.5392732261032], 
+            [9.82142841661348, 53.5419005771687]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 21, 
+        "Project_Na" : "HH-WIN (Phase 1)", 
+        "Promoter_N" : "Gasnetz Hamburg GmbH", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2027", 
+        "Share_of_t" : 100, 
+        "Location" : "Pipeline in the Port of Hamburg and connection to Hyperlink I (Approx. 40km)", 
+        "Increment" : "Over 8 GWh/d already in first phase (initial grid)", 
+        "Peak_Incre" : "Approx. 20 GWh/d expected by 2031", 
+        "Descriptio" : "The project will establish a secure supply infrastructure for H2 needs of industry in Hamburg by 2027. It will distribute the green H2 produced in Northern and Western Europe for use in the industrial and transport sectors. Part of IPCEI funding.", 
+        "Website" : "https://www.gasnetz-hamburg.de/fuer-die-zukunft/wasserstoff/hh-win", 
+        "Shape__Length" : 58097.387824830679, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 22, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [8.47755803476081, 49.7696026819251], 
+            [8.50165636094686, 49.7733680711868], 
+            [8.63536320503979, 49.7949506564128]
+          ], 
+          [
+            [8.99256259228674, 49.7701047511925], 
+            [8.98945313052462, 49.8014737310168], 
+            [8.88412012265294, 49.8691614155677]
+          ], 
+          [
+            [8.42591182295163, 49.9197555262382], 
+            [8.64333119962616, 49.8966794232043]
+          ], 
+          [
+            [8.96574348649739, 49.9617647744851], 
+            [9.07962751354117, 49.9410070599111], 
+            [9.14142806033649, 49.9745150775101]
+          ], 
+          [
+            [8.2202500979756, 50.028229225903], 
+            [8.24279369372975, 50.0217367514495], 
+            [8.24940129941277, 50.0199886276434], 
+            [8.26300519293768, 50.0272304409749], 
+            [8.27505435603073, 50.0319744852683], 
+            [8.28321669214566, 50.0324738310007], 
+            [8.29565453829583, 50.0309757782265], 
+            [8.30614897095693, 50.026980741209], 
+            [8.31625472056094, 50.0262316346997], 
+            [8.32946993192702, 50.0237345295851], 
+            [8.33568885455296, 50.0249830980806], 
+            [8.34501723983931, 50.026980741209], 
+            [8.35900981642135, 50.0312254566456], 
+            [8.39437994048445, 50.0484501558601]
+          ], 
+          [
+            [8.52614337019003, 50.0838786446437], 
+            [8.57550607173351, 50.1304945532623], 
+            [8.66840123345505, 50.1008351334348]
+          ], 
+          [
+            [8.98362289005752, 50.1065690589789], 
+            [9.02326852415583, 50.0963472352082], 
+            [9.0668009852322, 50.0833798330599]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 22, 
+        "Project_Na" : "Rh2ein-Main Connect", 
+        "Promoter_N" : "ENTEGA AG (ENTEGA AG, Mainova AG, ESWE Versorgungs AG, KMW AG, e-netz Südhessen AG, NRM Netzdienste Rhein-Main GmbH, OGE GmbH)", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2028", 
+        "Share_of_t" : 100, 
+        "Location" : "pipeline through Rhine-Main area, from Wiebaden/Manz to Aschaffenburg/Alzenau, from Frankfurt to Darmstadt", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "The regional network Rh2ein-Main Connect is said to supply the region Frankfurt/Rhine-Main with climate-neutral hydrogen through several connections to the H2 core network starting from 2028 with a total length of 300 km through the Rhine-Main area.", 
+        "Website" : "www.rh2ein-main-connect.de", 
+        "Shape__Length" : 140123.07358360308, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 23, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [8.57531173020495, 50.1304478356776], 
+            [8.63847266590361, 50.2007065570292], 
+            [8.70143926097199, 50.1827898929958], 
+            [8.70493740579123, 50.1598865940715], 
+            [8.77101346172345, 50.1588905496453], 
+            [8.78270485817814, 50.1426992698562]
+          ], 
+          [
+            [8.78270485817814, 50.1426992698562], 
+            [8.78306262481645, 50.1422037171993], 
+            [8.75974166384636, 50.1277536971308]
+          ], 
+          [
+            [8.78270485817814, 50.1426992698562], 
+            [8.91366000714726, 50.1314911891957], 
+            [8.98284552484158, 50.1068183441689]
+          ], 
+          [
+            [8.78267394265762, 50.1427019158205], 
+            [8.78270485817814, 50.1426992698562]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 23, 
+        "Project_Na" : "Rh2ein-Main Connect (2038)", 
+        "Promoter_N" : "ENTEGA AG (ENTEGA AG, Mainova AG, ESWE Versorgungs AG, KMW AG, e-netz Südhessen AG, NRM Netzdienste Rhein-Main GmbH, OGE GmbH)", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2038", 
+        "Share_of_t" : 100, 
+        "Location" : "pipeline through Rhine-Main area, from Wiebaden/Manz to Aschaffenburg/Alzenau, from Frankfurt to Darmstadt", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "The regional network Rh2ein-Main Connect is said to supply the region Frankfurt/Rhine-Main with climate-neutral hydrogen through several connections to the H2 core network starting from 2028 with a total length of 300 km through the Rhine-Main area.", 
+        "Website" : "www.rh2ein-main-connect.de", 
+        "Shape__Length" : 63445.622709005191, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 24, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [8.47901554322446, 49.7700899791654], 
+            [8.60411484524932, 49.8924091224256], 
+            [8.64260693741992, 49.896784965388], 
+            [8.88346554725486, 49.8690645923089]
+          ], 
+          [
+            [8.38731379245958, 49.9609184128132], 
+            [8.61345483766746, 50.0327847542025], 
+            [8.66823885039103, 50.1000051810737]
+          ], 
+          [
+            [8.61295953536586, 50.0324438701377], 
+            [8.78383895427489, 50.0745815042297], 
+            [8.78308043301864, 50.1425269807666]
+          ], 
+          [
+            [8.78398612975945, 50.0744507188686], 
+            [8.97055956763628, 50.0608471108568]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 24, 
+        "Project_Na" : "Rh2ein-Main Connect (2040)", 
+        "Promoter_N" : "ENTEGA AG (ENTEGA AG, Mainova AG, ESWE Versorgungs AG, KMW AG, e-netz Südhessen AG, NRM Netzdienste Rhein-Main GmbH, OGE GmbH)", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2040", 
+        "Share_of_t" : 100, 
+        "Location" : "pipeline through Rhine-Main area, from Wiebaden/Manz to Aschaffenburg/Alzenau, from Frankfurt to Darmstadt", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "The regional network Rh2ein-Main Connect is said to supply the region Frankfurt/Rhine-Main with climate-neutral hydrogen through several connections to the H2 core network starting from 2028 with a total length of 300 km through the Rhine-Main area.", 
+        "Website" : "www.rh2ein-main-connect.de", 
+        "Shape__Length" : 151189.07612363895, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 25, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [10.495699302737, 51.2108515190813], 
+            [10.4968746737261, 51.2108940807984]
+          ], 
+          [
+            [10.4968746737261, 51.2108940807984], 
+            [10.4907855864048, 51.1731277803634], 
+            [10.6099432209347, 51.0960447101504], 
+            [10.5694050567027, 51.0589991207511], 
+            [10.5803928117785, 50.8742080782913]
+          ], 
+          [
+            [10.4968746737261, 51.2108940807984], 
+            [10.7082175592563, 51.2185464473148]
+          ], 
+          [
+            [10.5264100334063, 51.3936420443159], 
+            [10.4968746737261, 51.2108940807984]
+          ], 
+          [
+            [10.81140561391, 51.4564517494808], 
+            [10.7426135771747, 51.435780037964], 
+            [10.6775068285869, 51.4434373182873], 
+            [10.6358684015067, 51.4470063722553], 
+            [10.5786236714546, 51.4341158013937], 
+            [10.5276384633877, 51.3936420443159], 
+            [10.4758530755915, 51.3993641064602]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 25, 
+        "Project_Na" : "H2-Hub NW-TH", 
+        "Promoter_N" : "TEN Thüringer Energienetze GmbH & Co. KG", 
+        "Project_Ty" : "Mix", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Less-Advanced", 
+        "Commission" : "2028", 
+        "Share_of_t" : 100, 
+        "Location" : "Pipeline from Brüheim to Nordhausen (Bad Langensalza, Mühlhausen, Bleicherode, Bernterode, Nordhausen)", 
+        "Increment" : "No data available", 
+        "Peak_Incre" : "No data available", 
+        "Descriptio" : "redominant conversion of an existing gas pipeline for the distribution of hydrogen, starting from the STEGAL/EGL401 and TH2ECO, to industrial customers, downstream distribution network operators and hydrogen storage in the North-West Thuringia region.", 
+        "Website" : "https://www.thueringer-energienetze.com", 
+        "Shape__Length" : 165219.72051059527, 
+        "PCI_PMI" : "No"
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "id" : 26, 
+      "geometry" : 
+      {
+        "type" : "MultiLineString", 
+        "coordinates" : 
+        [
+          [
+            [9.9848678059814, 53.4631383729799], 
+            [9.97094926135854, 53.4674513304605]
+          ], 
+          [
+            [9.9579230779861, 53.4938822523808], 
+            [9.96621131478475, 53.4922567970159], 
+            [9.97009814176282, 53.4927192740189], 
+            [9.969709459604, 53.497112549733], 
+            [9.96465658435285, 53.5045107218499], 
+            [9.96632409737036, 53.5112542172852]
+          ], 
+          [
+            [9.9786491609349, 53.4795367152279], 
+            [9.97437365179802, 53.4853190436879], 
+            [9.969709459604, 53.4917943155039]
+          ], 
+          [
+            [9.96632409737036, 53.5112542172852], 
+            [9.96659999784188, 53.5112142006027]
+          ], 
+          [
+            [9.96632409737036, 53.5112542172852], 
+            [9.96659999784188, 53.512369865684], 
+            [9.96659999784188, 53.5160677823792]
+          ], 
+          [
+            [9.9506640077708, 53.5135254992504], 
+            [9.96632409737036, 53.5112542172852]
+          ], 
+          [
+            [10.0311213233422, 53.5160677823792], 
+            [10.0198495254651, 53.5179166191793], 
+            [10.0131379559576, 53.5172865347191]
+          ], 
+          [
+            [10.0116871893502, 53.5169922108635], 
+            [10.00469090061, 53.5158366718397], 
+            [10.001970121905, 53.5126009951321], 
+            [10.0043022184512, 53.5047418941602], 
+            [10.0027474871209, 53.493412978998], 
+            [10.001970121905, 53.4853190436879], 
+            [9.99652856449502, 53.4809245461496], 
+            [9.99458515100599, 53.474447614334], 
+            [9.99264173751695, 53.4698206297489], 
+            [9.991864372301, 53.4654245268358], 
+            [9.98486808356082, 53.463110605471]
+          ], 
+          [
+            [10.0131379559576, 53.5172865347191], 
+            [10.0124645545661, 53.5172233151003]
+          ], 
+          [
+            [10.0131379559576, 53.5172865347191], 
+            [10.0132419197821, 53.5167611053662]
+          ], 
+          [
+            [9.94172430643989, 53.5213829715415], 
+            [9.95455083474886, 53.518147718374], 
+            [9.96659999784188, 53.5162988911241], 
+            [9.97165287309303, 53.5206897236511], 
+            [9.97320760352494, 53.5266974944456], 
+            [9.97826047877609, 53.5327044126722], 
+            [9.98098125748107, 53.5377865243442]
+          ], 
+          [
+            [9.97398496874088, 53.5273906434875], 
+            [9.97981520920799, 53.5273906434875], 
+            [9.99303042057409, 53.5255422201222], 
+            [10.0101324589183, 53.5232315769436], 
+            [10.0124645545661, 53.5206897236511], 
+            [10.0131379559576, 53.5172865347191]
+          ]
+        ]
+      }, 
+      "properties" : {
+        "OBJECTID" : 26, 
+        "Project_Na" : "HH-WIN (Phase 2)", 
+        "Promoter_N" : "Gasnetz Hamburg GmbH", 
+        "Project_Ty" : "New", 
+        "Category" : "Distribution", 
+        "Maturity_S" : "Advanced", 
+        "Commission" : "2031", 
+        "Share_of_t" : 100, 
+        "Location" : "Pipeline in the Port of Hamburg and connection to Hyperlink I (Approx. 20km)", 
+        "Increment" : "Over 8 GWh/d already in first phase (initial grid)", 
+        "Peak_Incre" : "Approx. 20 GWh/d expected by 2031", 
+        "Descriptio" : "The project will establish a secure supply infrastructure for H2 needs of industry in Hamburg by 2027. It will distribute the green H2 produced in Northern and Western Europe for use in the industrial and transport sectors.", 
+        "Website" : "https://www.gasnetz-hamburg.de/fuer-die-zukunft/wasserstoff/hh-win", 
+        "Shape__Length" : 38323.640263204528, 
+        "PCI_PMI" : "No"
+      }
+    }
+  ]
+}
